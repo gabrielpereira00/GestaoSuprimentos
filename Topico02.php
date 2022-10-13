@@ -143,38 +143,189 @@ include('layout/header.php');
                             <hr>
 
                             <p>Alguns bens públicos geram dúvidas quanto à sua correta classificação, nesse caso deverão ser observadas algumas características para que possam ser classificados adequadamente conforme o tipo e condições de uso a que se destinam, podendo estes serem classificados como bem permanente ou de consumo, como por exemplos:</p>
+                            <br>
 
-                            <ol type="a" class="Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong>Colchão:</strong> Via de regra, é classificado como um bem permanente. Contudo, se adquirido para utilização em um equipamento prisional ou em um hospital de emergência, este poderá ter deterioração acelerada com perda de suas características normais de uso, sendo afetado ainda por modificações físicas ou contaminações, o que permite ser enquadrado no fator excludente de perecibilidade. Nesse caso, o bem deverá ser classificado como material de consumo, e não permanente, tendo em vista a sua perecibilidade antes do prazo máximo de 2 anos.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="0.6s"> <strong>Jarra de Vidro:</strong> Tem durabilidade superior a dois anos. Porém, quando adquirida para utilização em uma escola e por ser frágil, poderá perder totalmente a sua identidade, o que a torna passível de classificação como um bem de consumo, pelo critério de fragilidade.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="0.9s"> <strong>Placa de memória:</strong> Em caso de substituição da placa de memória esta não pode ser classificada como uma despesa de natureza permanente, tendo em vista o critério da incorporabilidade, logo as peças adquiridas para reposição deverão ser classificadas como material de consumo.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Mesa para escritório:</strong> Classificada como material permanente, contudo, a aquisição de madeira e peças para a sua confecção deverá ser classificada como bem de consumo, tendo em vista o critério da transformabilidade. Por uma razão lógica, haverá a construção de um bem de capital, que, inclusive, será incorporado ao patrimônio. Dessa forma, trata-se de materiais de consumo, pelo critério da transformabilidade que contribuem para a formação de um bem de capital.</li>
-                            </ol>
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <br>
+
+
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1" aria-expanded="false" aria-controls="flush-collapse1">
+                                        <strong>Colchão:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse1" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Via de regra, é classificado como um bem permanente. Contudo, se adquirido para utilização em um equipamento prisional ou em um hospital de emergência, este poderá ter deterioração acelerada com perda de suas características normais de uso, sendo afetado ainda por modificações físicas ou contaminações, o que permite ser enquadrado no fator excludente de perecibilidade. Nesse caso, o bem deverá ser classificado como material de consumo, e não permanente, tendo em vista a sua perecibilidade antes do prazo máximo de 2 anos.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2" aria-expanded="false" aria-controls="flush-collapse2">
+                                        <strong>Jarra de Vidro:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse2" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Tem durabilidade superior a dois anos. Porém, quando adquirida para utilização em uma escola e por ser frágil, poderá perder totalmente a sua identidade, o que a torna passível de classificação como um bem de consumo, pelo critério de fragilidade.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse3" aria-expanded="false" aria-controls="flush-collapse3">
+                                        <strong>Placa de memória:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse3" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Em caso de substituição da placa de memória esta não pode ser classificada como uma despesa de natureza permanente, tendo em vista o critério da incorporabilidade, logo as peças adquiridas para reposição deverão ser classificadas como material de consumo.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 03 -->
+
+                             <!-- Accordion 04 -->
+                             <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                                        <strong>Mesa para escritório:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Classificada como material permanente, contudo, a aquisição de madeira e peças para a sua confecção deverá ser classificada como bem de consumo, tendo em vista o critério da transformabilidade. Por uma razão lógica, haverá a construção de um bem de capital, que, inclusive, será incorporado ao patrimônio. Dessa forma, trata-se de materiais de consumo, pelo critério da transformabilidade que contribuem para a formação de um bem de capital.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 04 -->
 
                             <br><br><!-- SubTítulo -->
                             <p class="SubTitulo" id="top2-two">Exemplos de Itens Considerados Materiais Permanentes</p>
                             <hr>
+                            <br>
 
-                            <ol type="a" class="Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong>Aparelhos de medição e orientação:</strong> amperímetro, aparelho de medição meteorológica, balanças em geral, calibrador de pneus, cronômetro, hidrômetro, magnetômetro, manômetro, medidor de gás, níveis topográficos, osciloscópio, paquímetro, pirômetro, planímetro, psicrômetro, relógio medidor de luz, sonar, sonda, taquímetro, telêmetro, teodolito, turbímetro e afins.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="0.6s"> <strong>Aparelhos e equipamentos de comunicação:</strong> antena parabólica, bloqueador telefônico, central telefônica, fac-símile, fonógrafo, PABX, rádio receptor, rádio telegrafia, rádio telex, rádio transmissor e afins.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="0.9s"> <strong>Bens de informática equipamentos de processamento de dados:</strong> computador, data show, impressora, kit multimídia, micro e minicomputadores, mesa digitalizadora, modem, monitor de vídeo, scanner, urna eletrônica e afins.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Mobiliário em geral:</strong> armário, arquivo de aço ou madeira, balcão (tipo atendimento), banco, banqueta, cadeira, cama, carrinho fichário, carteira e banco escolar, estante de madeira ou aço, guarda-louça, guarda-roupa, mesa, penteadeira, poltrona, roupeiro, sofá e afins.</li>
-                            </ol>
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <br>
+                            
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1one1" aria-expanded="false" aria-controls="flush-collapse1one1">
+                                    <strong>Aparelhos de medição e orientação:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse1one1" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Amperímetro, aparelho de medição meteorológica, balanças em geral, calibrador de pneus, cronômetro, hidrômetro, magnetômetro, manômetro, medidor de gás, níveis topográficos, osciloscópio, paquímetro, pirômetro, planímetro, psicrômetro, relógio medidor de luz, sonar, sonda, taquímetro, telêmetro, teodolito, turbímetro e afins.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+
+                             <!-- Accordion 02 -->
+                             <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2two2" aria-expanded="false" aria-controls="flush-collapse2two2">
+                                    <strong>Aparelhos e equipamentos de comunicação:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse2two2" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Antena parabólica, bloqueador telefônico, central telefônica, fac-símile, fonógrafo, PABX, rádio receptor, rádio telegrafia, rádio telex, rádio transmissor e afins.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse3tree3" aria-expanded="false" aria-controls="flush-collapse3tree3">
+                                    <strong>Bens de informática equipamentos de processamento de dados:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse3tree3" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Computador, data show, impressora, kit multimídia, micro e minicomputadores, mesa digitalizadora, modem, monitor de vídeo, scanner, urna eletrônica e afins.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 03 -->
+
+                            <!-- Accordion 04 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4four4" aria-expanded="false" aria-controls="flush-collapse4four4">
+                                    <strong>Mobiliário em geral:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4four4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Armário, arquivo de aço ou madeira, balcão (tipo atendimento), banco, banqueta, cadeira, cama, carrinho fichário, carteira e banco escolar, estante de madeira ou aço, guarda-louça, guarda-roupa, mesa, penteadeira, poltrona, roupeiro, sofá e afins.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 04 -->
+
+
 
                             <br><br><!-- SubTítulo -->
                             <p class="SubTitulo" id="top2-tree">Exemplos de Itens Considerados Materiais de Consumo</p>
                             <hr>
 
-                            <ol type="a" class="Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong>Material de expediente:</strong> agenda, alfinete de aço, almofada para carimbos, apagador, apontador de lápis, arquivo para disquete, bandeja para papéis, bloco para rascunho bobina papel para calculadoras, borracha, caderno, caneta, capa e processo, carimbos em geral, cartolina, classificador, clipe cola, colchete, corretivo, envelope, espátula, estêncil, estilete, extrator de grampos, fita adesiva, fita para máquina de escrever e calcular, giz, goma elástica, grafite, grampeador, grampos, guia para arquivo, guia de endereçamento postal, impressos e formulário em geral, intercalador para fichário, lacre, lápis, lapiseira, limpa tipos, livros de ata, de ponto e de protocolo, papéis, pastas em geral, percevejo, perfurador, pinça, placas de acrílico, plásticos, porta-lápis,registrador, régua, selos para correspondência, tesoura, tintas, toner, transparências e afins</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="0.6s"> <strong>Material de cozinha:</strong> abridor de garrafa, açucareiros, artigos de vidro e plástico, bandejas, coadores, colheres, copos, ebulidores, facas, farinheiras, fósforos, frigideiras, garfos, garrafas térmicas, paliteiros, panelas, panos de cozinha, papel alumínio, pratos, recipientes para água, suportes de copos para cafezinho, tigelas, velas, xícaras e afins.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="0.9s"> <strong>Material de limpeza:</strong> álcool etílico, anticorrosivo, aparelho de barbear descartável, balde plástico, bomba para inseticida, capacho, cera, cesto para lixo, creme dental, desinfetante, desodorizante, detergente, escova de dente, escova para roupas e sapatos, espanador, esponja, estopa, flanela, inseticida, lustra-móveis, mangueira, naftalina, pá para lixo, palha de aço, panos para limpeza, papel higiênico, pasta para limpeza de utensílios, porta-sabão, removedor, rodo, sabão, sabonete, saco para lixo, saponáceo, soda cáustica, toalha de papel, vassoura e afins.</li>
-                                <br><li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Combustíveis e lubrificantes:</strong> aditivos, álcool hidratado, fluido para amortecedor, fluido para transmissão hidráulica, gasolina, graxas, óleo diesel, óleo para cárter, óleo para freio hidráulico e afins.</li>
-                            </ol>
+                            
+                           
+
+                                <table class="table table-bordered border-success">
+                                
+                                    <tbody>
+                                   
+                                        <tr>
+                                            <td> <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong>Material de expediente:</strong> agenda, alfinete de aço, almofada para carimbos, apagador, apontador de lápis, arquivo para disquete, bandeja para papéis, bloco para rascunho bobina papel para calculadoras, borracha, caderno, caneta, capa e processo, carimbos em geral, cartolina, classificador, clipe cola, colchete, corretivo, envelope, espátula, estêncil, estilete, extrator de grampos, fita adesiva, fita para máquina de escrever e calcular, giz, goma elástica, grafite, grampeador, grampos, guia para arquivo, guia de endereçamento postal, impressos e formulário em geral, intercalador para fichário, lacre, lápis, lapiseira, limpa tipos, livros de ata, de ponto e de protocolo, papéis, pastas em geral, percevejo, perfurador, pinça, placas de acrílico, plásticos, porta-lápis,registrador, régua, selos para correspondência, tesoura, tintas, toner, transparências e afins</li></td>
+                                        </tr>
+                                        <tr>
+                                            <td> <li class="wow fadeInDown" data-wow-delay="0.6s"> <strong>Material de cozinha:</strong> abridor de garrafa, açucareiros, artigos de vidro e plástico, bandejas, coadores, colheres, copos, ebulidores, facas, farinheiras, fósforos, frigideiras, garfos, garrafas térmicas, paliteiros, panelas, panos de cozinha, papel alumínio, pratos, recipientes para água, suportes de copos para cafezinho, tigelas, velas, xícaras e afins.</li></td>
+                                        </tr>
+                                        <tr>
+                                            <td><li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Material de limpeza:</strong> álcool etílico, anticorrosivo, aparelho de barbear descartável, balde plástico, bomba para inseticida, capacho, cera, cesto para lixo, creme dental, desinfetante, desodorizante, detergente, escova de dente, escova para roupas e sapatos, espanador, esponja, estopa, flanela, inseticida, lustra-móveis, mangueira, naftalina, pá para lixo, palha de aço, panos para limpeza, papel higiênico, pasta para limpeza de utensílios, porta-sabão, removedor, rodo, sabão, sabonete, saco para lixo, saponáceo, soda cáustica, toalha de papel, vassoura e afins.</li></td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                            <li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Combustíveis e lubrificantes:</strong> aditivos, álcool hidratado, fluido para amortecedor, fluido para transmissão hidráulica, gasolina, graxas, óleo diesel, óleo para cárter, óleo para freio hidráulico e afins.</li>
+                                            </td>
+                                        </tr>
+                                        
+                                    </tbody>
+                                   
+                                </table><br>
+                            
+
+                              
+                            
 
                             <br>
+                             <!-- Saiba Mais -->
+                        <div class="SaibaMaisCaixa">
+                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
+                            <div class="SaibaMaisTexto">
                             <p>A diferenciação entre material de consumo e material permanente é a chave para que seja efetuado o cálculo da depreciação dos bens. Quando um material é classificado como material permanente (patrimônio) torna-se obrigatória a definição de outros parâmetros que são: a taxa de depreciação, a vida útil econômica do bem e o percentual de valor residual para que tal cálculo seja possível. O Decreto Estadual nº 31.340 de 05 de novembro de 2013 que aprova o regulamento para depreciação, amortização, exaustão, reavaliação e redução ao valor recuperável do patrimônio público do Estado do Ceará, traz em seu ANEXO I a tabela com a taxa de depreciação, vida útil e percentual de valor residual das classes de bens constantes no Catálogo de Bens, Materiais e Serviços do Governo Estadual do Ceará.</p>
+                            </div>
+                        </div>
+                            
 
 
 
