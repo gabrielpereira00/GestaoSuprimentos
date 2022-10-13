@@ -1,0 +1,56 @@
+
+
+
+
+.borda1 {
+    border: 1px solid;
+    border-color: #44833d;
+}
+
+.card-body1 {
+    background: #c09703;
+    padding: 20px;
+    border-radius: 20px 60px; 
+    color: white;
+}
+
+.colunaverde {
+    text-align: center;
+    vertical-align: auto;
+    color: white;
+    width: 100;
+    background-color: #58b34e !important;
+}
+
+.sidebar-item1{
+    height: 5.3rem;
+    overflow: hidden;
+    transition: .7s;
+}
+.sidebar-item1:hover{
+    height: 25.1rem;
+}
+.sublinks li{
+  margin-top: 1rem;
+  list-style: none;
+}
+.sublinks li a{
+    color: #386e32;
+    font-weight: 500; 
+    transition: .1s;
+}
+.sublinks li a:hover{
+    color: #264a22;
+    font-weight: 600;
+}
+.accordion-item1{
+    border: 1px solid green;
+}
+.sidebar-item2{
+    height: 5.3rem;
+    overflow: hidden;
+    transition: .7s;
+}
+.sidebar-item2:hover{
+    height: 25.1rem;
+}
