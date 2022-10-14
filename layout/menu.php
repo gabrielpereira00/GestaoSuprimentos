@@ -70,11 +70,18 @@
                                 </ul>
                             </div>
                         </li>
-                        <li class="sidebar-item">
+                        <li class="sidebar-item sidebar-item3">
                             <div class="bd-callout-menu bd-callout-success-menu">
                                 <a href="Topico03.php" class="MenuTopico sidebar-link <?php if($page=='Topico03'){echo 'ativo';}?>">
                                     <div id="menuNumero">03 </div>Agenda Estratégica Setorial: estrutura
                                 </a>
+
+                                <ul class="sublinks">
+                                 <li><a href="#top3-one">3.1 Atributos Adicionais a Serem Considerados na Classificação de Materiais</a></li>
+                                 
+                                 <li><a href="#top3-two">3.2 Formas De Classificação De Materiais</a></li>
+                                 <li><a href="#top3-tree">3.3 Estrutura Básica de Um Catálogo de Bens, Materiais e Serviços</a></li>
+                                </ul>
                             </div>
                         </li>
                         

@@ -295,22 +295,20 @@ include('layout/header.php');
                                     <tbody>
                                    
                                         <tr>
-                                            <td> <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong>Material de expediente:</strong> agenda, alfinete de aço, almofada para carimbos, apagador, apontador de lápis, arquivo para disquete, bandeja para papéis, bloco para rascunho bobina papel para calculadoras, borracha, caderno, caneta, capa e processo, carimbos em geral, cartolina, classificador, clipe cola, colchete, corretivo, envelope, espátula, estêncil, estilete, extrator de grampos, fita adesiva, fita para máquina de escrever e calcular, giz, goma elástica, grafite, grampeador, grampos, guia para arquivo, guia de endereçamento postal, impressos e formulário em geral, intercalador para fichário, lacre, lápis, lapiseira, limpa tipos, livros de ata, de ponto e de protocolo, papéis, pastas em geral, percevejo, perfurador, pinça, placas de acrílico, plásticos, porta-lápis,registrador, régua, selos para correspondência, tesoura, tintas, toner, transparências e afins</li></td>
+                                            <td> <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong>Material de expediente:</strong> Agenda, alfinete de aço, almofada para carimbos, apagador, apontador de lápis, arquivo para disquete, bandeja para papéis, bloco para rascunho bobina papel para calculadoras, borracha, caderno, caneta, capa e processo, carimbos em geral, cartolina, classificador, clipe cola, colchete, corretivo, envelope, espátula, estêncil, estilete, extrator de grampos, fita adesiva, fita para máquina de escrever e calcular, giz, goma elástica, grafite, grampeador, grampos, guia para arquivo, guia de endereçamento postal, impressos e formulário em geral, intercalador para fichário, lacre, lápis, lapiseira, limpa tipos, livros de ata, de ponto e de protocolo, papéis, pastas em geral, percevejo, perfurador, pinça, placas de acrílico, plásticos, porta-lápis,registrador, régua, selos para correspondência, tesoura, tintas, toner, transparências e afins</li></td>
                                         </tr>
                                         <tr>
-                                            <td> <li class="wow fadeInDown" data-wow-delay="0.6s"> <strong>Material de cozinha:</strong> abridor de garrafa, açucareiros, artigos de vidro e plástico, bandejas, coadores, colheres, copos, ebulidores, facas, farinheiras, fósforos, frigideiras, garfos, garrafas térmicas, paliteiros, panelas, panos de cozinha, papel alumínio, pratos, recipientes para água, suportes de copos para cafezinho, tigelas, velas, xícaras e afins.</li></td>
+                                            <td> <li class="wow fadeInDown" data-wow-delay="0.6s"> <strong>Material de cozinha:</strong> Abridor de garrafa, açucareiros, artigos de vidro e plástico, bandejas, coadores, colheres, copos, ebulidores, facas, farinheiras, fósforos, frigideiras, garfos, garrafas térmicas, paliteiros, panelas, panos de cozinha, papel alumínio, pratos, recipientes para água, suportes de copos para cafezinho, tigelas, velas, xícaras e afins.</li></td>
                                         </tr>
                                         <tr>
-                                            <td><li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Material de limpeza:</strong> álcool etílico, anticorrosivo, aparelho de barbear descartável, balde plástico, bomba para inseticida, capacho, cera, cesto para lixo, creme dental, desinfetante, desodorizante, detergente, escova de dente, escova para roupas e sapatos, espanador, esponja, estopa, flanela, inseticida, lustra-móveis, mangueira, naftalina, pá para lixo, palha de aço, panos para limpeza, papel higiênico, pasta para limpeza de utensílios, porta-sabão, removedor, rodo, sabão, sabonete, saco para lixo, saponáceo, soda cáustica, toalha de papel, vassoura e afins.</li></td>
+                                            <td><li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Material de limpeza:</strong> Àlcool etílico, anticorrosivo, aparelho de barbear descartável, balde plástico, bomba para inseticida, capacho, cera, cesto para lixo, creme dental, desinfetante, desodorizante, detergente, escova de dente, escova para roupas e sapatos, espanador, esponja, estopa, flanela, inseticida, lustra-móveis, mangueira, naftalina, pá para lixo, palha de aço, panos para limpeza, papel higiênico, pasta para limpeza de utensílios, porta-sabão, removedor, rodo, sabão, sabonete, saco para lixo, saponáceo, soda cáustica, toalha de papel, vassoura e afins.</li></td>
                                         </tr>
                                         <tr>
                                             <td>
-                                            <li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Combustíveis e lubrificantes:</strong> aditivos, álcool hidratado, fluido para amortecedor, fluido para transmissão hidráulica, gasolina, graxas, óleo diesel, óleo para cárter, óleo para freio hidráulico e afins.</li>
+                                            <li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Combustíveis e lubrificantes:</strong> Aditivos, álcool hidratado, fluido para amortecedor, fluido para transmissão hidráulica, gasolina, graxas, óleo diesel, óleo para cárter, óleo para freio hidráulico e afins.</li>
                                             </td>
-                                        </tr>
-                                        
-                                    </tbody>
-                                   
+                                        </tr>                                        
+                                    </tbody>                                   
                                 </table><br>
                             
 
@@ -326,10 +324,6 @@ include('layout/header.php');
                             </div>
                         </div>
                             
-
-
-
-
 
                             <br><br>
                             <!-- SCRIPT LIGHTBOX -->
