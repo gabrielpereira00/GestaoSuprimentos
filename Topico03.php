@@ -268,17 +268,17 @@ include('layout/header.php');
                             <p class="wow fadeInLeft" data-wow-delay=".6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong class="CorVerdeClaroEstado">Valor do consumo anual:</strong> Método pelo qual se determina a importância dos materiais em função do valor expresso pelo próprio consumo em determinado período. Utiliza-se como ferramenta de classificação a Curva ABC ou Curva de Pareto. Os materiais são classificados em A, B ou C:</p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Materiais A:</strong> materiais de grande valor de consumo;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Materiais B:</strong> materiais de médio valor de consumo;</li>
-                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Materiais C:</strong> materiais de baixo valor de consumo.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Materiais A:</strong> materiais de grande valor de consumo;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Materiais B:</strong> materiais de médio valor de consumo;</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Materiais C:</strong> materiais de baixo valor de consumo.</li>
                             </ul>
 
                             <p class="wow fadeInLeft" data-wow-delay=".6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong class="CorVerdeClaroEstado">Importância operacional:</strong> Adota-se a classificação da importância operacional, visando identificar materiais imprescindíveis ao funcionamento da organização;</p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Materiais X:</strong> materiais de aplicação não importante, com possibilidade de uso de similar existente na organização;</li>
-                                <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Materiais Y:</strong> materiais de importância média, com ou sem similar na organização;</li>
-                                <li class="wow fadeInDown" data-wow-delay="2.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Materiais Z:</strong> materiais de importância vital sem similar na organização, cuja falta acarreta a paralisação de uma ou mais fases operativas.</li>
+                                <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Materiais X:</strong> materiais de aplicação não importante, com possibilidade de uso de similar existente na organização;</li>
+                                <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Materiais Y:</strong> materiais de importância média, com ou sem similar na organização;</li>
+                                <li class="wow fadeInDown" data-wow-delay="2.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Materiais Z:</strong> materiais de importância vital sem similar na organização, cuja falta acarreta a paralisação de uma ou mais fases operativas.</li>
                             </ul>
 
                             <p class="wow fadeInLeft" data-wow-delay=".6s">Em se tratando de organização industrial, a seleção XYZ pode ser facilitada por meio das seguintes indagações:</p>
@@ -417,51 +417,51 @@ include('layout/header.php');
                             </div>
 
                             <br><br>
-                            <p><strong class="CorVerdeClaroEstado"> Periculosidade:</strong> Visa identificar materiais que, por suas características físico-químicas, possuam incompatibilidade com outros, oferecendo riscos à segurança durante o manuseio, transporte e armazenagem desses materiais.</p>
+                            <p class="wow fadeInLeft" data-wow-delay=".3s"><strong class="CorVerdeClaroEstado"> Periculosidade:</strong> Visa identificar materiais que, por suas características físico-químicas, possuam incompatibilidade com outros, oferecendo riscos à segurança durante o manuseio, transporte e armazenagem desses materiais.</p>
 
-                            <p><strong class="CorVerdeClaroEstado"> Possibilidade de fazer ou comprar:</strong> Essa classificação determina quais os materiais que poderão ser recondicionados, fabricados internamente ou comprados. O custo de recuperação de um material deve ser inferior ao de compra de um novo.</p>
+                            <p class="wow fadeInLeft" data-wow-delay=".5s"><strong class="CorVerdeClaroEstado"> Possibilidade de fazer ou comprar:</strong> Essa classificação determina quais os materiais que poderão ser recondicionados, fabricados internamente ou comprados. O custo de recuperação de um material deve ser inferior ao de compra de um novo.</p>
 
-                            <p><strong class="CorVerdeClaroEstado"> Tipos de estocagem:</strong> Os materiais podem ser agrupados:</p>
+                            <p class="wow fadeInLeft" data-wow-delay=".3s"><strong class="CorVerdeClaroEstado"> Tipos de estocagem:</strong> Os materiais podem ser agrupados:</p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Estocagem permanente:</strong> deve sempre existir saldo no almoxarifado;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> <strong>Estocagem temporária:</strong> materiais que necessitam ficar estocados no almoxarifado durante determinado tempo até sua utilização.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Estocagem permanente:</strong> deve sempre existir saldo no almoxarifado;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Estocagem temporária:</strong> materiais que necessitam ficar estocados no almoxarifado durante determinado tempo até sua utilização.</li>
                             </ul>
 
-                            <p><strong class="CorVerdeClaroEstado"> Dificuldade de aquisição:</strong> As dificuldades na obtenção de materiais podem provir de: fabricação especial, escassez no mercado, sazonalidade, monopólio ou tecnologia exclusiva, logística sofisticada, ou importações.</p>
+                            <p class="wow fadeInLeft" data-wow-delay=".3s"><strong class="CorVerdeClaroEstado"> Dificuldade de aquisição:</strong> As dificuldades na obtenção de materiais podem provir de: fabricação especial, escassez no mercado, sazonalidade, monopólio ou tecnologia exclusiva, logística sofisticada, ou importações.</p>
 
-                            <p>Quanto à dificuldade de aquisição, os materiais podem ser classificados em: F – fácil aquisição; - D – difícil aquisição. Os principais benefícios desse tipo de classificação são:</p>
+                            <p><b>Quanto à dificuldade de aquisição, os materiais podem ser classificados em: F – fácil aquisição; - D – difícil aquisição. Os principais benefícios desse tipo de classificação são:</b> </p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Dimensionar os níveis de estoque;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Selecionar o método a ser adotado para ressuprimento;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Propiciar maior experiência aos compradores.</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Dimensionar os níveis de estoque;</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".5s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Selecionar o método a ser adotado para ressuprimento;</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".8s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Propiciar maior experiência aos compradores.</li>
                             </ul>
 
                             <p><strong class="CorVerdeClaroEstado"> Mercado fornecedor:</strong> os materiais desse grupo serão classificados em função do:</p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Mercado nacional;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Mercado estrangeiro;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Materiais em processo de nacionalização.</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Mercado nacional;</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".5s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Mercado estrangeiro;</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".8s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Materiais em processo de nacionalização.</li>
                             </ul>
 
                             <p>O mapa mental a seguir auxilia na visualização dos diversos tipos de classificação de materiais:</p>
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura07.png" data-bs-toggle="modal" data-bs-target="#Imagem07">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura07.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong>Figura 7: Mapa Mental de Classificação de Materiais </strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem07" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura07.png" alt="Alt da imagem fica aqui">
                                         </div>
                                     </div>
 
@@ -481,22 +481,23 @@ include('layout/header.php');
 
                             <p>O FSC é constituído por quatro algarismos, divididos em dois pares que representam, respectivamente, o grupo e subgrupo, como mostra abaixo. A associação desses dois pares forma a classe, que compreende todo o universo de materiais.</p>
 
-                            <p>O grupo comporta os materiais que tem alguma relação entre si, possibilitando 99 variações. O subgrupo representa uma subdivisão dentro do grupo, juntando itens que tem finalidade e características semelhantes e possui igualmente 99 possibilidades.</p>
+                            <p><b>O grupo comporta os materiais que tem alguma relação entre si, possibilitando 99 variações. O subgrupo representa uma subdivisão dentro do grupo, juntando itens que tem finalidade e características semelhantes e possui igualmente 99 possibilidades.</b> </p>
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura08.png" data-bs-toggle="modal" data-bs-target="#Imagem08">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Estrutura do Federal Supply Classification.</p>
+                                <p class="FonteFigura"><strong>Figura 8: Estrutura do Federal Supply Classification.
+</strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem08" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura08.png" alt="Alt da imagem fica aqui">
                                         </div>
                                     </div>
 
@@ -506,32 +507,32 @@ include('layout/header.php');
 
                             <p>A partir do Federal Supply Classification- FSC os entes federativos da administração pública brasileira desenvolvem sistemas computadorizados de compras eletrônicas, no controle de estoque dos materiais de consumo e controle de material permanente.</p>
 
-                            <p>A estrutura de classificação de um Catálogo adaptado do Federal Supply Classification apresenta-se da seguinte forma:</p>
+                            <p><b>A estrutura de classificação de um Catálogo adaptado do Federal Supply Classification apresenta-se da seguinte forma:</b> </p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInTop" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Nível 0 – Categoria:</strong> Subdivida em Material de Consumo, Material Permanente e Serviço.</li>
-                                <li class="wow fadeInTop" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Nível 1 – Grupo:</strong> Estabelece a classificação das categorias.</li>
-                                <li class="wow fadeInTop" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Nível 2 – Classe:</strong> Subdivisão do grupo segundo a sua natureza.</li>
-                                <li class="wow fadeInTop" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Nível 3 – Material:</strong> Descrição genérica do material/serviço sem caracterização.</li>
-                                <li class="wow fadeInTop" data-wow-delay="1.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Nível 4 – Item de Material:</strong> Especificação do item contendo todas as características de individualização e identificação.</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".5s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Nível 0 – Categoria:</strong> Subdivida em Material de Consumo, Material Permanente e Serviço.</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".7s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Nível 1 – Grupo:</strong> Estabelece a classificação das categorias.</li>
+                                <li class="wow fadeInLeft" data-wow-delay=".9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Nível 2 – Classe:</strong> Subdivisão do grupo segundo a sua natureza.</li>
+                                <li class="wow fadeInLeft" data-wow-delay="1s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Nível 3 – Material:</strong> Descrição genérica do material/serviço sem caracterização.</li>
+                                <li class="wow fadeInLeft" data-wow-delay="1.1s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Nível 4 – Item de Material:</strong> Especificação do item contendo todas as características de individualização e identificação.</li>
                             </ul>
 
                             <p>Ver o exemplo a seguir:</p>
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura09.png" data-bs-toggle="modal" data-bs-target="#Imagem09">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura09.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Estrutura do Federal Supply Classification.</p>
+                                <p class="FonteFigura"><strong>Figura 9:  Estrutura de Classificação de um Catálogo Adaptado do Federal Supply</strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem09" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura09.png" alt="Alt da imagem fica aqui">
                                         </div>
                                     </div>
 
@@ -539,54 +540,106 @@ include('layout/header.php');
                             </div>
                             <!-- Figura 01 - End -->
 
-                            <p>Decreto Estadual Nº 32.901 de 17/12/2018, que regulamenta no âmbito da administração pública estadual direta e indireta, o sistema logístico de suprimentos e dá outras providencias, em seu CAPÍTULO V DO CATÁLOGO DE BENS, MATERIAIS E SERVIÇOS estabelece o seguinte:</p>
+                            <p><B>Decreto Estadual Nº 32.901 de 17/12/2018, que regulamenta no âmbito da administração pública estadual direta e indireta, o sistema logístico de suprimentos e dá outras providencias, em seu CAPÍTULO V DO CATÁLOGO DE BENS, MATERIAIS E SERVIÇOS estabelece o seguinte:</B> </p>
 
                             <br><center>
                                 <h5><strong>CAPÍTULO V<br>DO CATÁLOGO DE BENS, MATERIAIS E SERVIÇOS</h5></strong>
                             </center>
 
-                            <p><strong>Art. 16</strong> Catálogo de Bens, Materiais e Serviços será utilizado para classificação e catalogação dos itens nos padrões de qualidade e de desempenho exigidos pelo Governo do Estado, visando a uniformidade e padronização das especificações dos itens adquiridos pela Administração Pública Estadual.</p>
+                            <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                    <strong>Art. 16</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Catálogo de Bens, Materiais e Serviços será utilizado para classificação e catalogação dos itens nos padrões de qualidade e de desempenho exigidos pelo Governo do Estado, visando a uniformidade e padronização das especificações dos itens adquiridos pela Administração Pública Estadual.</p>
+                                        <p><strong>Parágrafo único.</strong> Os Órgãos da Administração Pública Estadual Direta, Fundos Especiais, Autarquias, Fundações, Empresas Públicas, Sociedades de Economia Mista e demais entidades controladas direta ou indiretamente pelo Estado, inclusive a Central de Licitações, deverão, obrigatoriamente, utilizar o Catálogo de Bens, Materiais e Serviços do Estado para fazer uso dos itens nas licitações, contratações diretas, chamadas públicas e aquisições por registro de preços.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                        <strong>Art. 17</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> A Seplag é o Órgão Gestor Geral do Catálogo de Bens, Materiais e Serviços do Estado do Ceará e terá como atribuições:</p>
 
-                            <p><strong>Parágrafo único.</strong> Os Órgãos da Administração Pública Estadual Direta, Fundos Especiais, Autarquias, Fundações, Empresas Públicas, Sociedades de Economia Mista e demais entidades controladas direta ou indiretamente pelo Estado, inclusive a Central de Licitações, deverão, obrigatoriamente, utilizar o Catálogo de Bens, Materiais e Serviços do Estado para fazer uso dos itens nas licitações, contratações diretas, chamadas públicas e aquisições por registro de preços.</p>
+<ol type="I" class="Texto">
+    <li>Indicar o Órgão Gestor do Catálogo de Bens, Materiais e Serviços para cada categoria de itens;</li>
+    <li>Definir as regras para utilização e manutenção do Catálogo de Bens, Materiais e Serviços;</li>
+    <li>Coordenar o plano de manutenção e a atualização do Catálogo de Bens, Materiais e Serviços;</li>
+    <li>Realizar a gestão do Catálogo de Bens, Materiais e Serviços;</li>
+    <li>Garantir a manutenção das funcionalidades do sistema de Catálogo de Bens, Materiais e Serviços;</li>
+    <li>Coordenar os estudos de padronização das especificações dos itens a serem comprados pelos órgãos e entidades da Administração Pública Estadual;</li>
+    <li>Articular a implementação de capacitação para os usuários do Catálogo de Bens, Materiais e Serviços; e</li>
+    <li>Validar e autorizar a inclusão de novos itens no Catálogo de Bens, Materiais e Serviços.</li>
+</ol>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
-                            <p><strong>Art. 17</strong> A Seplag é o Órgão Gestor Geral do Catálogo de Bens, Materiais e Serviços do Estado do Ceará e terá como atribuições:</p>
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                        <strong>Art. 18</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> O Gestor do Catálogo de Bens, Materiais e Serviços, no âmbito da categoria de itens pela qual é responsável, terá como atribuições:</p>
 
-                            <ol type="I" class="Texto">
-                                <li>Indicar o Órgão Gestor do Catálogo de Bens, Materiais e Serviços para cada categoria de itens;</li>
-                                <li>Definir as regras para utilização e manutenção do Catálogo de Bens, Materiais e Serviços;</li>
-                                <li>Coordenar o plano de manutenção e a atualização do Catálogo de Bens, Materiais e Serviços;</li>
-                                <li>Realizar a gestão do Catálogo de Bens, Materiais e Serviços;</li>
-                                <li>Garantir a manutenção das funcionalidades do sistema de Catálogo de Bens, Materiais e Serviços;</li>
-                                <li>Coordenar os estudos de padronização das especificações dos itens a serem comprados pelos órgãos e entidades da Administração Pública Estadual;</li>
-                                <li>Articular a implementação de capacitação para os usuários do Catálogo de Bens, Materiais e Serviços; e</li>
-                                <li>Validar e autorizar a inclusão de novos itens no Catálogo de Bens, Materiais e Serviços.</li>
-                            </ol>
-
-                            <p><strong>Art. 18</strong> O Gestor do Catálogo de Bens, Materiais e Serviços, no âmbito da categoria de itens pela qual é responsável, terá como atribuições:</p>
-
-                            <ol type="I" class="Texto">
-                                <li>Participar da execução do plano de manutenção e a atualização do Catálogo de Bens, Materiais e Serviços;</li>
-                                <li>Pesquisar, analisar e propor melhorias nas especificações e a inclusão de itens ao Gestor Geral de Catálogo de Bens, Materiais e Serviços;</li>
-                                <li>Articular com os órgãos e entidades, visando garantir o contínuo aperfeiçoamento do catálogo; e</li>
-                                <li>Manter o Catálogo de Bens, Materiais e Serviços, no âmbito da categoria de itens pela qual é responsável.</li>
-                            </ol>
-
+<ol type="I" class="Texto">
+    <li>Participar da execução do plano de manutenção e a atualização do Catálogo de Bens, Materiais e Serviços;</li>
+    <li>Pesquisar, analisar e propor melhorias nas especificações e a inclusão de itens ao Gestor Geral de Catálogo de Bens, Materiais e Serviços;</li>
+    <li>Articular com os órgãos e entidades, visando garantir o contínuo aperfeiçoamento do catálogo; e</li>
+    <li>Manter o Catálogo de Bens, Materiais e Serviços, no âmbito da categoria de itens pela qual é responsável.</li>
+</ol>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br><br>
+                        <!-- Accordion 03 -->
+                        <!-- FIM Accordion -->
+                           
+                        <div class="card">
+                            <div class="card-body">
                             <p>O Catálogo de Bens, Materiais e Serviços do Estado do Ceará poderá ser acessado pelo “Portal de Compras” no endereço eletrônico <a href="https://s2gpr.sefaz.ce.gov.br/catalogo-web/paginas/catalogo/ItemMaterialServicoListCompleto.seam" target="_blank">https://s2gpr.sefaz.ce.gov.br/catalogo-web/paginas/catalogo/ItemMaterialServicoListCompleto.seam</a></p>
+                            </div>
+                        </div>
+
+                        
+
+
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura10.png" data-bs-toggle="modal" data-bs-target="#Imagem10">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura10.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Estrutura do Federal Supply Classification.</p>
+                                <p class="FonteFigura"><strong>Figura 10: Catálogo de Materiais
+</strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem10" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura10.png" alt="Alt da imagem fica aqui">
                                         </div>
                                     </div>
 
