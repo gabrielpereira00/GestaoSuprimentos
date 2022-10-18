@@ -62,3 +62,8 @@
 .sidebar-item3:hover{
     height: 25.1rem;
 }
+.img-fluid10 {
+    height: 70 0% !important;
+    width: 80% !important;
+    align-items: center;
+}

@@ -628,7 +628,7 @@ include('layout/header.php');
                             <!-- Titulo Figura -->
                             <div class="text-center">
                                 <a href="imagens/Figura10.png" data-bs-toggle="modal" data-bs-target="#Imagem10">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura10.png" alt="Alt da imagem fica aqui">
+                                    <img class="img-fluid10 wow fadeInLeft" src="imagens/Figura10.png" alt="Alt da imagem fica aqui">
                                 </a>
                                 <p class="FonteFigura"><strong>Figura 10: Catálogo de Materiais
 </strong></p>

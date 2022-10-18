@@ -286,36 +286,75 @@ include('layout/header.php');
                             <br><br><!-- SubTítulo -->
                             <p class="SubTitulo" id="top2-tree">Exemplos de Itens Considerados Materiais de Consumo</p>
                             <hr>
+                            <br><br>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                        <strong>Material de expediente:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Agenda, alfinete de aço, almofada para carimbos, apagador, apontador de lápis, arquivo para disquete, bandeja para papéis, bloco para rascunho bobina papel para calculadoras, borracha, caderno, caneta, capa e processo, carimbos em geral, cartolina, classificador, clipe cola, colchete, corretivo, envelope, espátula, estêncil, estilete, extrator de grampos, fita adesiva, fita para máquina de escrever e calcular, giz, goma elástica, grafite, grampeador, grampos, guia para arquivo, guia de endereçamento postal, impressos e formulário em geral, intercalador para fichário, lacre, lápis, lapiseira, limpa tipos, livros de ata, de ponto e de protocolo, papéis, pastas em geral, percevejo, perfurador, pinça, placas de acrílico, plásticos, porta-lápis,registrador, régua, selos para correspondência, tesoura, tintas, toner, transparências e afins</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            
-                           
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                        <strong>Material de cozinha:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Abridor de garrafa, açucareiros, artigos de vidro e plástico, bandejas, coadores, colheres, copos, ebulidores, facas, farinheiras, fósforos, frigideiras, garfos, garrafas térmicas, paliteiros, panelas, panos de cozinha, papel alumínio, pratos, recipientes para água, suportes de copos para cafezinho, tigelas, velas, xícaras e afins. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
-                                <table class="table table-bordered border-success">
-                                
-                                    <tbody>
-                                   
-                                        <tr>
-                                            <td> <li class="wow fadeInDown" data-wow-delay="0.3s"> <strong>Material de expediente:</strong> Agenda, alfinete de aço, almofada para carimbos, apagador, apontador de lápis, arquivo para disquete, bandeja para papéis, bloco para rascunho bobina papel para calculadoras, borracha, caderno, caneta, capa e processo, carimbos em geral, cartolina, classificador, clipe cola, colchete, corretivo, envelope, espátula, estêncil, estilete, extrator de grampos, fita adesiva, fita para máquina de escrever e calcular, giz, goma elástica, grafite, grampeador, grampos, guia para arquivo, guia de endereçamento postal, impressos e formulário em geral, intercalador para fichário, lacre, lápis, lapiseira, limpa tipos, livros de ata, de ponto e de protocolo, papéis, pastas em geral, percevejo, perfurador, pinça, placas de acrílico, plásticos, porta-lápis,registrador, régua, selos para correspondência, tesoura, tintas, toner, transparências e afins</li></td>
-                                        </tr>
-                                        <tr>
-                                            <td> <li class="wow fadeInDown" data-wow-delay="0.6s"> <strong>Material de cozinha:</strong> Abridor de garrafa, açucareiros, artigos de vidro e plástico, bandejas, coadores, colheres, copos, ebulidores, facas, farinheiras, fósforos, frigideiras, garfos, garrafas térmicas, paliteiros, panelas, panos de cozinha, papel alumínio, pratos, recipientes para água, suportes de copos para cafezinho, tigelas, velas, xícaras e afins.</li></td>
-                                        </tr>
-                                        <tr>
-                                            <td><li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Material de limpeza:</strong> Àlcool etílico, anticorrosivo, aparelho de barbear descartável, balde plástico, bomba para inseticida, capacho, cera, cesto para lixo, creme dental, desinfetante, desodorizante, detergente, escova de dente, escova para roupas e sapatos, espanador, esponja, estopa, flanela, inseticida, lustra-móveis, mangueira, naftalina, pá para lixo, palha de aço, panos para limpeza, papel higiênico, pasta para limpeza de utensílios, porta-sabão, removedor, rodo, sabão, sabonete, saco para lixo, saponáceo, soda cáustica, toalha de papel, vassoura e afins.</li></td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                            <li class="wow fadeInDown" data-wow-delay="1.3s"> <strong>Combustíveis e lubrificantes:</strong> Aditivos, álcool hidratado, fluido para amortecedor, fluido para transmissão hidráulica, gasolina, graxas, óleo diesel, óleo para cárter, óleo para freio hidráulico e afins.</li>
-                                            </td>
-                                        </tr>                                        
-                                    </tbody>                                   
-                                </table><br>
-                            
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                        <strong>Material de limpeza:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Àlcool etílico, anticorrosivo, aparelho de barbear descartável, balde plástico, bomba para inseticida, capacho, cera, cesto para lixo, creme dental, desinfetante, desodorizante, detergente, escova de dente, escova para roupas e sapatos, espanador, esponja, estopa, flanela, inseticida, lustra-móveis, mangueira, naftalina, pá para lixo, palha de aço, panos para limpeza, papel higiênico, pasta para limpeza de utensílios, porta-sabão, removedor, rodo, sabão, sabonete, saco para lixo, saponáceo, soda cáustica, toalha de papel, vassoura e afins.</p>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                         <!-- Accordion 03 -->
 
-                              
-                            
+                         <!-- Accordion 04 -->
+                           <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                        <strong>Combustíveis e lubrificantes:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Aditivos, álcool hidratado, fluido para amortecedor, fluido para transmissão hidráulica, gasolina, graxas, óleo diesel, óleo para cárter, óleo para freio hidráulico e afins.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br><br>
+                        <!-- Accordion 04 -->
+                         
 
-                            <br>
                              <!-- Saiba Mais -->
                         <div class="SaibaMaisCaixa">
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
