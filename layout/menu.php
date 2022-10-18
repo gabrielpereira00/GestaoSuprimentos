@@ -84,6 +84,17 @@
                                 </ul>
                             </div>
                         </li>
+                        <li class="sidebar-item sidebar-item4">
+                            <div class="bd-callout-menu bd-callout-success-menu">
+                                <a href="Topico04.php" class="MenuTopico sidebar-link <?php if($page=='Topico04'){echo 'ativo';}?>">
+                                    <div id="menuNumero">04 </div>Controle de Estoque e Ressuprimento de Materiais
+                                </a>
+
+                                <ul class="sublinks">
+                                 <li><a href="#top4-one">4.1 Razões para Manter Estoques e Quais os Tipos de Estoque</a></li>
+                                  </ul>
+                            </div>
+                        </li>
                         
                         <li class="sidebar-item">
                             <div class="bd-callout-menu bd-callout-success-menu">

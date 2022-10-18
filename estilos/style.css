@@ -67,3 +67,11 @@
     width: 80% !important;
     align-items: center;
 }
+.sidebar-item4{
+    height: 6.5rem;
+    overflow: hidden;
+    transition: .7s;
+}
+.sidebar-item4:hover{
+    height: 25.1rem;
+}

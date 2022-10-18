@@ -45,7 +45,7 @@ include('layout/header.php');
                             </div>
 
                             <br>
-                            <p class="SubTitulo">Razões para Manter Estoques e Quais os Tipos de Estoque</p>
+                            <p class="SubTitulo" id="top4-one">Razões para Manter Estoques e Quais os Tipos de Estoque</p>
                             <hr>
 
                             <p>Uma das variáveis que definem o sucesso ou fracasso de muitas organizações é a gestão de estoques, que é constituída por gestão de materiais, recursos humanos e financeiros. A gestão de estoques permite ao administrador verificar se os estoques estão sendo bem utilizados, bem localizados em relação aos setores que deles utilizam, bem manuseados e bem controlados.</p>
@@ -53,58 +53,128 @@ include('layout/header.php');
                             <p>Portanto é fundamental para qualquer organização, definir uma política de estoque que consistirá em um conjunto de atos diretivos que estabelecem, de forma global e específica, princípios, diretrizes e normas relacionadas ao gerenciamento dos estoques. Em qualquer organização, a preocupação da gestão de estoques está em manter o equilíbrio entre as diversas variáveis componentes do sistema, tais como: custos de aquisição, de estocagem e de distribuição; nível de atendimento das necessidades dos usuários consumidores etc. Logo, gerir estoques economicamente consiste essencialmente na procura da racionalidade e equilíbrio com o consumo, de tal maneira que:</p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> As necessidades efetivas de seus consumidores sejam satisfeitas com mínimo custo e menor risco de falta possível;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Seja assegurada a seus consumidores e continuidade de fornecimento;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O valor obtido pela continuidade de fornecimento deve ser inferior a sua própria falta.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> As necessidades efetivas de seus consumidores sejam satisfeitas com mínimo custo e menor risco de falta possível;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Seja assegurada a seus consumidores e continuidade de fornecimento;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O valor obtido pela continuidade de fornecimento deve ser inferior a sua própria falta.</li>
                             </ul>
 
                             <p>O grande desafio é encontrar o equilíbrio entre essas variáveis, se a política de estoque adotada tenta assegurar a disponibilidade aumentando o estoque, provoca um impacto diretamente nos custos relativos à sua manutenção, como capital e armazenamento; por outro lado, se para cortar os custos os estoques são demasiadamente reduzidos, corre-se o grande risco de não atender as necessidades de consumo mínimas para a organização operar. Mas quando encontramos o equilíbrio os resultados são significativos em termos de gestão.</p>
 
-                            <p>A manutenção dos estoques se faz necessária por que existe uma diferença de ritmo ou de taxa entre o fornecimento e a demanda dos materiais necessários à produção de um bem ou serviço, ou seja, se o fornecimento de qualquer item ocorresse exatamente no momento em que fosse demandado, o item nunca necessitaria ser estocado. Por esta razão algumas questões justificam a manutenção dos estoques:</p>
+                            <p><b> A manutenção dos estoques se faz necessária por que existe uma diferença de ritmo ou de taxa entre o fornecimento e a demanda dos materiais necessários à produção de um bem ou serviço, ou seja, se o fornecimento de qualquer item ocorresse exatamente no momento em que fosse demandado, o item nunca necessitaria ser estocado. Por esta razão algumas questões justificam a manutenção dos estoques:</b></p>
 
-                            <br><br><!-- SubSubTítulo -->
-                            <p class="SubSubTitulo">Melhorar o Nível de Serviço Oferecido</p>
-                            <hr>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                        <strong>Melhorar o Nível de Serviço Oferecido</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Estoques auxiliam a função de prestação de serviço. Estes podem ser localizados mais próximos aos pontos de demanda e com quantidades mais adequadas. Isto é vantajoso para operações que precisam de disponibilidade imediata ou tempos de ressuprimento pequenos. Para a firma fornecedora, isto significa vantagem competitiva e menores custos de ofertas perdidas, especialmente para produtos particularmente elásticos quanto ao nível de serviço.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            <p> Estoques auxiliam a função de prestação de serviço. Estes podem ser localizados mais próximos aos pontos de demanda e com quantidades mais adequadas. Isto é vantajoso para operações que precisam de disponibilidade imediata ou tempos de ressuprimento pequenos. Para a firma fornecedora, isto significa vantagem competitiva e menores custos de ofertas perdidas, especialmente para produtos particularmente elásticos quanto ao nível de serviço.</p>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                        <strong>Incentivar Economias na Produção</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>O mínimo custo unitário de produção geralmente ocorre para grandes lotes de produção com o mesmo tamanho. Estoques agem como amortecedores entre oferta e demanda, possibilitando uma produção mais constante, que não oscila com as flutuações de demanda. A força de trabalho pode ser mantida em níveis estáveis e os custos de preparação de lotes podem ser diminuídos.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
-                            <br><br><!-- SubSubTítulo -->
-                            <p class="SubSubTitulo">Incentivar Economias na Produção</p>
-                            <hr>
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                        <strong>Permitir Economias de Escala nas Compras e no Transporte</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Muitas vezes, pequenos lotes de compra são gerados para satisfazer necessidades de produção ou para abastecerem diretamente requisitantes. Isto implica maiores custos de frete, pois não há volume suficiente para obter os descontos oferecidos aos lotes maiores. Entretanto, uma das finalidades do estoque é possibilitar descontos no transporte pelo emprego de grandes lotes equivalentes à capacidade dos veículos e gerar, portanto, fretes unitários menores. De modo similar, menores preços podem ser obtidos na compra de mercadorias com o uso de lotes maiores que as demandas imediatas.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 03 -->
+                            <!-- Accordion 04 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                        <strong>Proteção Contra Alterações nos Preços</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Bens comprados em mercados abertos têm seus preços ditados pelas curvas de oferta e demanda. Minérios, produtos agrícolas e petróleo são bons exemplos. Compras podem ser antecipadas em função de aumentos previstos nos preços. Isto acaba criando estoques que tem que ser gerenciados.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 04 -->
+                            <!-- Accordion 05 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item05">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                                        <strong>Proteção Contra Oscilações na Demanda ou no Tempo de Ressuprimento</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="Item05" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Na maioria das ocasiões, não é possível conhecer com certeza as demandas de produtos ou os tempos de ressuprimento no sistema logístico. Para garantir disponibilidade de produto, deve-se manter um estoque adicional (estoque de segurança). Estoques de segurança são adicionados aos estoques regulares para atender as necessidades de produção ou de consumo.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 05 -->
+                            <!-- Accordion 06 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item06">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                                        <strong>Proteção Contra Contingências</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="Item06" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Greves, incêndios e inundações são apenas algumas das contingências que podem atingir uma organização. Manter estoques de reserva é uma maneira de garantir o fornecimento normal nessas ocasiões.</p>
 
-                            <p> O mínimo custo unitário de produção geralmente ocorre para grandes lotes de produção com o mesmo tamanho. Estoques agem como amortecedores entre oferta e demanda, possibilitando uma produção mais constante, que não oscila com as flutuações de demanda. A força de trabalho pode ser mantida em níveis estáveis e os custos de preparação de lotes podem ser diminuídos.</p>
+                                    <p>Quando a taxa de fornecimento excede a taxa de demanda, o estoque aumenta; quando a taxa de demanda excede a taxa de fornecimento, o estoque diminui. Assim, se uma operação conseguir controlar as taxas de fornecimento e de demanda, também conseguirá reduzir seus níveis de estoque. O estoque é criado para compensar diferenças de ritmo entre fornecimento e demanda.</p>
 
-                            <br><br><!-- SubSubTítulo -->
-                            <p class="SubSubTitulo">Permitir Economias de Escala nas Compras e no Transporte</p>
-                            <hr>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 06 -->
+                            <!-- Accordion 07 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item07">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                                        <strong>Tipos de Estoque</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="Item07" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>O desequilíbrio entre as taxas de fornecimento e de demanda leva a operação a diferentes tipos de estoque ao longo da cadeia produtiva.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 07 -->
+                        </div><br><br>
+                        
+                        <!-- FIM Accordion -->
 
-                            <p> Muitas vezes, pequenos lotes de compra são gerados para satisfazer necessidades de produção ou para abastecerem diretamente requisitantes. Isto implica maiores custos de frete, pois não há volume suficiente para obter os descontos oferecidos aos lotes maiores. Entretanto, uma das finalidades do estoque é possibilitar descontos no transporte pelo emprego de grandes lotes equivalentes à capacidade dos veículos e gerar, portanto, fretes unitários menores. De modo similar, menores preços podem ser obtidos na compra de mercadorias com o uso de lotes maiores que as demandas imediatas.</p>
 
-                            <br><br><!-- SubSubTítulo -->
-                            <p class="SubSubTitulo">Proteção Contra Alterações nos Preços</p>
-                            <hr>
-
-                            <p> Bens comprados em mercados abertos têm seus preços ditados pelas curvas de oferta e demanda. Minérios, produtos agrícolas e petróleo são bons exemplos. Compras podem ser antecipadas em função de aumentos previstos nos preços. Isto acaba criando estoques que tem que ser gerenciados.</p>
-
-                            <br><br><!-- SubSubTítulo -->
-                            <p class="SubSubTitulo">Proteção Contra Oscilações na Demanda ou no Tempo de Ressuprimento</p>
-                            <hr>
-
-                            <p> Na maioria das ocasiões, não é possível conhecer com certeza as demandas de produtos ou os tempos de ressuprimento no sistema logístico. Para garantir disponibilidade de produto, deve-se manter um estoque adicional (estoque de segurança). Estoques de segurança são adicionados aos estoques regulares para atender as necessidades de produção ou de consumo.</p>
-
-                            <br><br><!-- SubSubTítulo -->
-                            <p class="SubSubTitulo">Proteção Contra Contingências</p>
-                            <hr>
-
-                            <p> Greves, incêndios e inundações são apenas algumas das contingências que podem atingir uma organização. Manter estoques de reserva é uma maneira de garantir o fornecimento normal nessas ocasiões.</p>
-
-                            <p>Quando a taxa de fornecimento excede a taxa de demanda, o estoque aumenta; quando a taxa de demanda excede a taxa de fornecimento, o estoque diminui. Assim, se uma operação conseguir controlar as taxas de fornecimento e de demanda, também conseguirá reduzir seus níveis de estoque. O estoque é criado para compensar diferenças de ritmo entre fornecimento e demanda.</p>
-
-                            <br><br><!-- SubSubTítulo -->
-                            <p class="SubSubTitulo">Tipos de Estoque</p>
-                            <hr>
-
-                            <p>O desequilíbrio entre as taxas de fornecimento e de demanda leva a operação a diferentes tipos de estoque ao longo da cadeia produtiva.</p>
 
                             <p><strong class="CorVerdeClaroEstado">Estoque de segurança:</strong> Compensa as incertezas relacionadas ao fornecimento e demanda. Por exemplo, uma operação de varejo não consegue prever exatamente a demanda, mesmo que tenha uma ideia de seu nível mais provável. Portanto, sempre vai fazer pedidos em maiores quantidades para manter um nível mínimo de estoque para atender sua demanda, caso seja maior do que a esperada. Da mesma forma, os estoques podem compensar as incertezas do fornecimento e a falta de confiabilidade de alguns fornecedores ou empresas de transporte.</p>
 
