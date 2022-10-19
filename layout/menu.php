@@ -92,6 +92,7 @@
 
                                 <ul class="sublinks">
                                  <li><a href="#top4-one">4.1 Razões para Manter Estoques e Quais os Tipos de Estoque</a></li>
+                                 <li><a href="#top4-two">4.2 Custos Relacionados Aos Estoques</a></li>
                                   </ul>
                             </div>
                         </li>

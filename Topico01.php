@@ -64,7 +64,7 @@ include('layout/header.php');
                             <div class="SaibaMaisCaixa">
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
                             <div class="SaibaMaisTexto">
-                                <p>>Apesar de o fornecedor ter suas próprias regras nos processos, uma organização pode criar procedimentos de auditoria para o seu fornecedor, garantindo que os processos dele melhorem e consequentemente, influenciem os seus, também. Tais procedimentos daqui por diante serão denominados como “Certificação de Fornecedores”.</p>
+                                <p>Apesar de o fornecedor ter suas próprias regras nos processos, uma organização pode criar procedimentos de auditoria para o seu fornecedor, garantindo que os processos dele melhorem e consequentemente, influenciem os seus, também. Tais procedimentos daqui por diante serão denominados como “Certificação de Fornecedores”.</p>
                             </div>
                         </div>
                         <br>

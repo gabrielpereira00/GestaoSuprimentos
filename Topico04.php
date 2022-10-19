@@ -180,21 +180,21 @@ include('layout/header.php');
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura11.png" data-bs-toggle="modal" data-bs-target="#Imagem11">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura11.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong>Figura 11: Gráfico Estoque de Segurança  </strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura11.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                         </div>
                                     </div>
 
@@ -206,21 +206,22 @@ include('layout/header.php');
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura12.jpg" data-bs-toggle="modal" data-bs-target="#Imagem12">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong>Figura 12: Demonstração de Estoque de Antecipação
+ </strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                         </div>
                                     </div>
 
@@ -232,21 +233,22 @@ include('layout/header.php');
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura13.png" data-bs-toggle="modal" data-bs-target="#Imagem13">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura13.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong>Figura 13: Representação Estoques de Canal
+ </strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura13.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                         </div>
                                     </div>
 
@@ -257,16 +259,22 @@ include('layout/header.php');
                             <p>Desta forma, vemos que não existe a possibilidade de ignorar os estoques, pois eles são gerados pelo próprio processo de deslocamento físico dos produtos entre o produtor e o consumidor final e são necessários para suprir eventuais irregularidades que poderão ocorrer durante esse ciclo.</p>
 
                             <br><br><!-- SubTitulo -->
-                            <p class="SubTitulo">Custos Relacionados Aos Estoques</p>
+                            <p class="SubTitulo" id="top4-two">Custos Relacionados Aos Estoques</p>
                             <hr>
 
                             <p>O aumento ou redução nos custos de estocagem e armazenagem, muitas vezes é uma variável que não se coloca de modo muito claro. O fato é que armazenar mercadorias e bens envolve uma série de despesas que, muitas vezes, não são contabilizadas e consideradas por organizações em geral, e podem acarretar tenebrosos prejuízos com os quais os gestores sequer contavam num primeiro momento. Manter produtos parados, além de todos esses custos, envolve um grande risco em algumas situações e ter consciência de tudo isso pode ampliar seus resultados e reduzir as chances de danos para a organização.</p>
 
                             <p>Em uma primeira análise, podemos distinguir dois tipos de custo decorrentes da existência ou não de estoques: o primeiro é seu próprio custo de manutenção e o segundo, mais ligado ao “custo de oportunidade” sob os olhos da economia, seria o custo da falta de estoques.</p>
 
+                            <div class="FiqueAtentoCaixa">
+                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
+                            <div class="FiqueAtentoTexto">
                             <p>O custo de manutenção de estoques é algo caro e cada vez menos desejável. Rotinas logísticas de entrega just-in-time e processos integrados que amarram a produção de bens à venda e escoamento dos mesmos visam cada dia mais, reduzir a necessidade de estoques e inventários físicos. Mercadoria parada, na maioria dos casos, é também dinheiro parado.</p>
+                            </div>
+                        </div>
+                        <br><br>                                                
 
-                            <p>Os custos de manutenção de estoques podem ser subdivididos em diferentes classes:</p>
+                            <p><b> Os custos de manutenção de estoques podem ser subdivididos em diferentes classes:</p></b>
 
                             <ul class="none Texto">
                                 <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de espaço:</strong> desde simples contratos de aluguel de armazéns e galpões até cobranças por metro quadrado ocupado, no caso de contratos de terceirização, muitas vezes esses custos também são atrelados aos períodos de tempo a serem utilizados.</li>
