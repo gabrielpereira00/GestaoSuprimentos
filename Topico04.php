@@ -176,85 +176,96 @@ include('layout/header.php');
 
 
 
-                            <p><strong class="CorVerdeClaroEstado">Estoque de segurança:</strong> Compensa as incertezas relacionadas ao fornecimento e demanda. Por exemplo, uma operação de varejo não consegue prever exatamente a demanda, mesmo que tenha uma ideia de seu nível mais provável. Portanto, sempre vai fazer pedidos em maiores quantidades para manter um nível mínimo de estoque para atender sua demanda, caso seja maior do que a esperada. Da mesma forma, os estoques podem compensar as incertezas do fornecimento e a falta de confiabilidade de alguns fornecedores ou empresas de transporte.</p>
-
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura11.png" data-bs-toggle="modal" data-bs-target="#Imagem11">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura11.png" alt="Alt da imagem fica aqui">
+                        <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center><br>                        
+                        <div class="Modal">
+                            <!-- Titulo Botão Modal -->
+                         <div class="text-center">
+                                <a href="#texto" data-bs-toggle="modal" data-bs-target="#texto">
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#texto">
+                                Estoque de segurança:
+                                </button>
                                 </a>
-                                <p class="FonteFigura"><strong>Figura 11: Gráfico Estoque de Segurança  </strong></p>
                             </div>
 
-                            <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <!-- MODAL -->
+                            <div class="modal fade text-center" id="texto" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog al-dialog-centered modal-lg">
                                     <div class="modal-content">
+                                    <div class="modal-header">
+                                    <strong class="CorVerdeClaroEstado">Estoque de segurança:</strong>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
                                         <div class="modal-body">
+                                        <p> Compensa as incertezas relacionadas ao fornecimento e demanda. Por exemplo, uma operação de varejo não consegue prever exatamente a demanda, mesmo que tenha uma ideia de seu nível mais provável. Portanto, sempre vai fazer pedidos em maiores quantidades para manter um nível mínimo de estoque para atender sua demanda, caso seja maior do que a esperada. Da mesma forma, os estoques podem compensar as incertezas do fornecimento e a falta de confiabilidade de alguns fornecedores ou empresas de transporte.</p>
                                             <img class="img-fluid" src="imagens/Figura11.png" alt="Alt da imagem fica aqui">
                                         </div>
-                                        <div class="modal-footer text-center">
-                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
-                                        </div>
+                                                                                
                                     </div>
 
                                 </div>
                             </div>
                             <!-- Figura 01 - End -->
 
-                            <p><strong class="CorVerdeClaroEstado">Estoque de antecipação:</strong> Utilizado quando as flutuações da demanda são significativas, mas previsíveis, ou quando as variações de fornecimento são significativas, como para produtos de época, por exemplo: ovos de chocolate na páscoa, artigos da ceia de natal, etc.</p>
-
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura12.jpg" data-bs-toggle="modal" data-bs-target="#Imagem12">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
+                             <!-- Titulo Botão Modal 02-->
+                         <div class="text-center">
+                                <a href="#texto2" data-bs-toggle="modal" data-bs-target="#texto2">
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#texto2">
+                                Estoque de antecipação:
+                                </button>
                                 </a>
-                                <p class="FonteFigura"><strong>Figura 12: Demonstração de Estoque de Antecipação
- </strong></p>
                             </div>
 
-                            <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <!-- MODAL 2 -->
+                            <div class="modal fade text-center" id="texto2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog al-dialog-centered modal-lg">
                                     <div class="modal-content">
+                                    <div class="modal-header">
+                                    <strong class="CorVerdeClaroEstado">Estoque de antecipação:</strong>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
                                         <div class="modal-body">
+                                        <p> Utilizado quando as flutuações da demanda são significativas, mas previsíveis, ou quando as variações de fornecimento são significativas, como para produtos de época, por exemplo: ovos de chocolate na páscoa, artigos da ceia de natal, etc.</p>
                                             <img class="img-fluid" src="imagens/Figura12.jpg" alt="Alt da imagem fica aqui">
                                         </div>
-                                        <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
-                                        </div>
+                                                                                
                                     </div>
 
                                 </div>
                             </div>
-                            <!-- Figura 01 - End -->
+                            <!-- Figura 02 - End -->
 
-                            <p><strong class="CorVerdeClaroEstado">Estoques de canal (de distribuição):</strong> Esse tipo de estoque existe quando o material não pode ser transportado instantaneamente entre o ponto de fornecimento e o ponto de demanda. Por exemplo: se uma loja de varejo encomenda itens de um de seus fornecedores, o fornecedor vai alocar estoque para a loja de varejo em seu próprio armazém, embalá-lo, carregá-lo em seus caminhões, transportá-lo para o seu destino e descarregá-lo no estoque do varejista. Do momento em que o estoque é alocado (e, portanto, passa a estar indisponível para qualquer outro consumidor) até o momento em que se torna disponível para a loja de varejo, ele passa a ser estoque no canal de distribuição.</p>
-
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura13.png" data-bs-toggle="modal" data-bs-target="#Imagem13">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura13.png" alt="Alt da imagem fica aqui">
+                            <!-- Titulo Botão Modal 03-->
+                         <div class="text-center">
+                                <a href="#texto3" data-bs-toggle="modal" data-bs-target="#texto3">
+                                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#texto3">
+                                Estoques de canal (de distribuição):
+                                </button>
                                 </a>
-                                <p class="FonteFigura"><strong>Figura 13: Representação Estoques de Canal
- </strong></p>
                             </div>
 
-                            <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                            <!-- MODAL 3 -->
+                            <div class="modal fade text-center" id="texto3" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog al-dialog-centered modal-lg">
                                     <div class="modal-content">
+                                    <div class="modal-header">
+                                    <strong class="CorVerdeClaroEstado">Estoques de canal (de distribuição):</strong>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
                                         <div class="modal-body">
+                                        <p>Esse tipo de estoque existe quando o material não pode ser transportado instantaneamente entre o ponto de fornecimento e o ponto de demanda. Por exemplo: se uma loja de varejo encomenda itens de um de seus fornecedores, o fornecedor vai alocar estoque para a loja de varejo em seu próprio armazém, embalá-lo, carregá-lo em seus caminhões, transportá-lo para o seu destino e descarregá-lo no estoque do varejista. Do momento em que o estoque é alocado (e, portanto, passa a estar indisponível para qualquer outro consumidor) até o momento em que se torna disponível para a loja de varejo, ele passa a ser estoque no canal de distribuição.</p>
                                             <img class="img-fluid" src="imagens/Figura13.png" alt="Alt da imagem fica aqui">
                                         </div>
-                                        <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
-                                        </div>
+                                                                                
                                     </div>
 
                                 </div>
                             </div>
-                            <!-- Figura 01 - End -->
+                            <!-- Figura 03 - End -->
+                        </div><br><br>                       
+
+
 
                             <p>Desta forma, vemos que não existe a possibilidade de ignorar os estoques, pois eles são gerados pelo próprio processo de deslocamento físico dos produtos entre o produtor e o consumidor final e são necessários para suprir eventuais irregularidades que poderão ocorrer durante esse ciclo.</p>
 
@@ -275,6 +286,161 @@ include('layout/header.php');
                         <br><br>                                                
 
                             <p><b> Os custos de manutenção de estoques podem ser subdivididos em diferentes classes:</p></b>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTop4One" aria-expanded="false" aria-controls="flush-collapseTop4One">
+                                        <strong>Custo de espaço:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTop4One" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Desde simples contratos de aluguel de armazéns e galpões até cobranças por metro quadrado ocupado, no caso de contratos de terceirização, muitas vezes esses custos também são atrelados aos períodos de tempo a serem utilizados.</p>
+                                        <div class="container-collapse">
+                                            <div class="content-collapse">
+                                        <img class="img-fluid" src="imagens/Figura14.png" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 14: Representação de Armazenagem</strong></p>
+                                    </div>
+
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTop4Two" aria-expanded="false" aria-controls="flush-collapseTop4Two">
+                                        <strong>Custo de capital: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTop4Two" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Refere-se ao capital diretamente investido no estoque, e também do custo de oportunidade de não tê-lo investido em outra aplicação qualquer.</p>
+                                        <div class="container-collapse">
+                                            <div class="content-collapse">
+                                        <img class="img-fluid" src="imagens/Figura15.png" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 15: Representação de Custo de Capital</strong></p>
+                                    </div>
+
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTop4Tree" aria-expanded="false" aria-controls="flush-collapseTop4Tree">
+                                        <strong>Custo de pessoal envolvido:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTop4Tree" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>  É o custo mensal de toda a mão de obra envolvida em atividades diretamente relacionadas aos estoques, tais como: o pessoal de manuseio, controle e gerenciamento, inclusive encargos trabalhistas.</p>
+                                        <div class="container-collapse">
+                                            <div class="content-collapse">
+                                        <img class="img-fluid" src="imagens/Figura16.png" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 16: Representação de Custo de Pessoal</strong></p>
+                                    </div>
+
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 03 -->
+
+                        <!-- Accordion 04 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTop4Four" aria-expanded="false" aria-controls="flush-collapseTop4Four">
+                                        <strong>Custos de equipamento e manutenção: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTop4Four" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>  São as despesas mensais para manter os estoques, incluindo a depreciação dos equipamentos, maquinários ali utilizados e suas despesas de manutenção.</p>
+                                        <div class="container-collapse">
+                                            <div class="content-collapse">
+                                        <img class="img-fluid" src="imagens/Figura18.png" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 17: Representação de Custo de Equipamento e Manutenção</strong></p>
+                                    </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 04 -->
+                        <!-- Accordion 05 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTop4Five" aria-expanded="false" aria-controls="flush-collapseTop4Five">
+                                        <strong>Custo de serviço: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTop4Five" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>  Enquadram diversas taxas cobradas por serviços de gestão das mais variadas naturezas, além de impostos decorrentes da armazenagem, uso do espaço, e também seguros da carga ali mantida.</p>
+                                        <div class="container-collapse">
+                                            <div class="content-collapse">
+                                        <img class="img-fluid" src="imagens/Figura17.jpg" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 18: Representação de Custo de Serviço</strong></p>
+                                    </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 05 -->
+                        <!-- Accordion 06 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTop4Six" aria-expanded="false" aria-controls="flush-collapseTop4Six">
+                                        <strong>Custo de Pedido:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTop4Six" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Cada vez que uma requisição ou pedido é emitido, incorrem custos fixos e variáveis referentes a esse processo. Os custos fixos são os associados aos salários do pessoal envolvido na emissão dos pedidos e não são afetados pela política existente de estoque. Os custos variáveis consistem nas fichas de pedidos, nos processos de enviar esses pedidos aos fornecedores, bem como todos os recursos necessários para tal procedimento. Portanto, o custo de pedido está diretamente determinado com base no volume das requisições ou pedidos que ocorrem no período.</p>
+                                        <div class="container-collapse">
+                                            <div class="content-collapse">
+                                        <img class="img-fluid" src="imagens/Figura20.png" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 19: Representação de Custo de Pedido</strong></p>
+                                    </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 06 -->
+                        <!-- Accordion 07 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTop4Seven" aria-expanded="false" aria-controls="flush-collapseTop4Seven">
+                                        <strong>Custo de risco:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTop4Seven" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Manter estoques pode causar enormes prejuízos. Primeiro, no caso de mercadorias perecíveis, a manutenção de altos estoques pode gerar excesso de produtos para posterior distribuição, gerando sobre-ofertas e fazendo com que esses itens estraguem ou sejam desperdiçados antes de repassados ao consumidor. Riscos ainda afligem aqueles que mantêm produtos de rápida evolução, como celulares – o lançamento de novos modelos pode reduzir o valor de revenda ou mesmo tornar completamente obsoletos produtos estocados em excesso.</p>
+                                        <div class="container-collapse">
+                                            <div class="content-collapse">
+                                        <img class="img-fluid" src="imagens/Figura21.png" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 19: Representação de Custo de Pedido</strong></p>
+                                        <img class="img-fluid" src="imagens/Figura22.png" alt="Alt da imagem fica aqui">
+                                        <p class="FonteFigura"><strong>Figura 19: Representação de Custo de Pedido</strong></p>
+                                    </div>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 07 -->
+                    </div><br><br>
+                        <!-- FIM Accordion -->
 
                             <ul class="none Texto">
                                 <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de espaço:</strong> desde simples contratos de aluguel de armazéns e galpões até cobranças por metro quadrado ocupado, no caso de contratos de terceirização, muitas vezes esses custos também são atrelados aos períodos de tempo a serem utilizados.</li>
@@ -292,8 +458,17 @@ include('layout/header.php');
                                 <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de risco:</strong> manter estoques pode causar enormes prejuízos. Primeiro, no caso de mercadorias perecíveis, a manutenção de altos estoques pode gerar excesso de produtos para posterior distribuição, gerando sobre-ofertas e fazendo com que esses itens estraguem ou sejam desperdiçados antes de repassados ao consumidor. Riscos ainda afligem aqueles que mantêm produtos de rápida evolução, como celulares – o lançamento de novos modelos pode reduzir o valor de revenda ou mesmo tornar completamente obsoletos produtos estocados em excesso.</li>
                             </ul>
 
+                            <!-- Saiba Mais -->
+                        <div class="SaibaMaisCaixa">
+                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
+                            <div class="SaibaMaisTexto">
+                            <p>O custo da falta de produtos se associa aos estoques. Ainda que isso possa soar estranho, manter produtos insuficientes em estoque gera, não apenas o custo decorrente da perda de ofertas, mas também custos excedentes decorrentes de requisições fechadas, que não podem ser atendidas por indisponibilidade de produtos para atender pedidos já efetuados em atraso, além do desgaste das relações com o consumidor.</p>
+                            </div>
+                        </div>
+                        <br><br>
 
-                            <p>Também se associa aos estoques o custo da falta de produtos. Ainda que isso possa soar estranho, manter produtos insuficientes em estoque gera não apenas o custo decorrente da perda de ofertas, mas também custos excedentes decorrentes de requisições fechadas que não podem ser atendidas, por indisponibilidade de produtos. Para atender pedidos já efetuados em atraso, além do desgaste das relações com o consumidor.</p>
+                                              
+                            
 
                             <!-- SubTitulo -->
                             <p class="SubTitulo">Tipos de Demanda de Materiais e Sua Relação com os Estoques</p>

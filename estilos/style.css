@@ -68,10 +68,40 @@
     align-items: center;
 }
 .sidebar-item4{
-    height: 6.5rem;
+    height: 6.7rem;
     overflow: hidden;
     transition: .7s;
 }
 .sidebar-item4:hover{
     height: 25.1rem;
 }
+.modal fade text-center{
+    align-items: center;
+}
+.modal-body p{
+    color: black;
+}
+.modal-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Modal{
+    display: flex;
+    gap: 0 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.container-collapse{
+    display: flex;
+    justify-content: center;
+   
+}
+.content-collapse{
+    width: 30rem;
+}
+.container-collapse img{
+    width: 100%;
+}
+
