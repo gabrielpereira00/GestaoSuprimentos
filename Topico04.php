@@ -491,7 +491,7 @@ include('layout/header.php');
                                 <a href="imagens/Figura23.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
                                     <img class="img-fluid wow fadeInLeft" src="imagens/Figura23.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong>Figura 21: Representação de Produtos de Demanda Permanente</strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
@@ -502,7 +502,7 @@ include('layout/header.php');
                                             <img class="img-fluid" src="imagens/Figura23.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                         </div>
                                     </div>
 
@@ -530,7 +530,7 @@ include('layout/header.php');
                                 <a href="imagens/Figura24.png" data-bs-toggle="modal" data-bs-target="#Imagem02">
                                     <img class="img-fluid wow fadeInLeft" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong>Figura 22: Representação de Produtos de Demanda Sazonal</strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
@@ -541,7 +541,7 @@ include('layout/header.php');
                                             <img class="img-fluid" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                         </div>
                                     </div>
 
@@ -556,75 +556,114 @@ include('layout/header.php');
                             <!-- Accordion 03 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="Item03">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                                        <strong>Accordion 03 </strong>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse3" aria-expanded="false" aria-controls="flush-collapse3">
+                                    <strong class="CorVerdeClaroEstado">Demanda irregular:</strong>
                                     </button>
                                 </h2>
-                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                <div id="flush-collapse3" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
                                     <div class="accordion-body">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nosLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nosLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nosLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos </p>
+                                        <p> Alguns produtos têm comportamento tão irregular que a projeção de suas demandas é muito difícil. Um dos melhores exemplos de irregularidade no comportamento da demanda nos últimos anos é o caso de automóveis pequenos versus grandes. O controle de estoques para produtos com demanda irregular está amarrado com a previsão precisa de consumo, principalmente quando o comportamento irregular está combinado com tempos de ressuprimento muito longos ou pouco flexíveis.</p>
+
+                                        <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura25.png" data-bs-toggle="modal" data-bs-target="#Imagem03">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura25.png" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 23: Representação de Produtos de Demanda Irregular</strong></p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura25.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
                                     </div>
                                 </div>
                             </div>
-                        </div><br><br>
                         <!-- Accordion 03 -->
+
+                        <!-- Accordion 04 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                                    <strong class="CorVerdeClaroEstado">Demanda em declínio:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Algum dia, a demanda de um produto acaba e, então, um produto novo vem em seu lugar. O declínio da demanda é geralmente gradual e os estoques excedentes podem ser diminuídos pouco a pouco. Para alguns produtos, entretanto, o final ocorre subitamente, mas de modo planejado. Caso típico é o de peças de reposição para produtos com vida útil planejada ou produtos que não são vendidos há muito tempo, mas que ainda estão em uso.</p>
+
+                                       <!-- Titulo Figura -->
+                                       
+                            <div class="text-center">
+                                <a href="imagens/Figura26.png" data-bs-toggle="modal" data-bs-target="#Imagem04">
+                                    <img class="img-fluid wow fadeInLeft1" src="imagens/Figura26.png" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem04" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura26.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+
+                            <!-- Titulo Figura -->
+                            
+                            <div class="text-center">
+                                <a href="imagens/Figura27.png" data-bs-toggle="modal" data-bs-target="#Imagem05">
+                                    <img class="img-fluid wow fadeInLeft2" src="imagens/Figura27.png" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem05" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura27.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <!-- Figura 01 - End -->
+
+
+                                    </div>
+                                </div>
+                            </div>
+                     </div><br><br>
                         <!-- FIM Accordion -->
 
                             
 
-                            <p><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong class="CorVerdeClaroEstado">Demanda sazonal (somente em determinada época do ano):</strong> Grande número de produtos tem tal sazonalidade na demanda que não podem ser controlados da mesma forma que produtos com demanda permanente. A administração dos níveis de estoque de produtos com elevada sazonalidade está associada com a previsão acurada do nível de demanda futuro. É necessário não apenas uma previsão precisa da quantidade a ser requisitada, mas também da época na qual ocorrerá o pico. Assim, o estoque acompanha a previsão, estando sujeito aos erros intrínsecos à mesma.</p>
-
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
-                                </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
-                            </div>
-
-                            <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
-                                        </div>
-                                        <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <!-- Figura 01 - End -->
-
-
-                            <p><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong class="CorVerdeClaroEstado">Demanda irregular:</strong> Alguns produtos têm comportamento tão irregular que a projeção de suas demandas é muito difícil. Um dos melhores exemplos de irregularidade no comportamento da demanda nos últimos anos é o caso de automóveis pequenos versus grandes. O controle de estoques para produtos com demanda irregular está amarrado com a previsão precisa de consumo, principalmente quando o comportamento irregular está combinado com tempos de ressuprimento muito longos ou pouco flexíveis.</p>
-
-                            <!-- Titulo Figura -->
-                            <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
-                                </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
-                            </div>
-
-                            <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                <div class="modal-dialog modal-dialog-centered modal-lg">
-                                    <div class="modal-content">
-                                        <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
-                                        </div>
-                                        <div class="modal-footer text-center">
-                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <!-- Figura 01 - End -->
-
+                           
 
                             <p><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong class="CorVerdeClaroEstado">Demanda em declínio:</strong> Algum dia, a demanda de um produto acaba e, então, um produto novo vem em seu lugar. O declínio da demanda é geralmente gradual e os estoques excedentes podem ser diminuídos pouco a pouco. Para alguns produtos, entretanto, o final ocorre subitamente, mas de modo planejado. Caso típico é o de peças de reposição para produtos com vida útil planejada ou produtos que não são vendidos há muito tempo, mas que ainda estão em uso.</p>
 
