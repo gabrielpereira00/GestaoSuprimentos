@@ -100,8 +100,23 @@
 }
 .content-collapse{
     width: 30rem;
+    
 }
 .container-collapse img{
     width: 100%;
 }
-
+.content-collapse{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img-legend{
+    display: flex;
+    flex-direction: column;
+}
+.FonteFigura{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

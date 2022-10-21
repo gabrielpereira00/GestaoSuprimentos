@@ -427,14 +427,18 @@ include('layout/header.php');
                                 <div id="flush-collapseTop4Seven" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
                                     <div class="accordion-body">
                                         <p>Manter estoques pode causar enormes prejuízos. Primeiro, no caso de mercadorias perecíveis, a manutenção de altos estoques pode gerar excesso de produtos para posterior distribuição, gerando sobre-ofertas e fazendo com que esses itens estraguem ou sejam desperdiçados antes de repassados ao consumidor. Riscos ainda afligem aqueles que mantêm produtos de rápida evolução, como celulares – o lançamento de novos modelos pode reduzir o valor de revenda ou mesmo tornar completamente obsoletos produtos estocados em excesso.</p>
+                                        
                                         <div class="container-collapse">
-                                            <div class="content-collapse">
+                                            <div class="content-collapse">                                                
                                         <img class="img-fluid" src="imagens/Figura21.png" alt="Alt da imagem fica aqui">
-                                        <p class="FonteFigura"><strong>Figura 19: Representação de Custo de Pedido</strong></p>
+                                        
+</div>
+                                        <div class="content-collapse">                                                                        
                                         <img class="img-fluid" src="imagens/Figura22.png" alt="Alt da imagem fica aqui">
-                                        <p class="FonteFigura"><strong>Figura 19: Representação de Custo de Pedido</strong></p>
+                                                                               
+                                    </div>                                    
                                     </div>
-                                    </div>
+                                    <p class="FonteFigura"><strong>Figura 20: Representação de Custo de Risco</strong></p>
                                     </div>
                                 </div>
                             </div>
@@ -442,21 +446,6 @@ include('layout/header.php');
                     </div><br><br>
                         <!-- FIM Accordion -->
 
-                            <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de espaço:</strong> desde simples contratos de aluguel de armazéns e galpões até cobranças por metro quadrado ocupado, no caso de contratos de terceirização, muitas vezes esses custos também são atrelados aos períodos de tempo a serem utilizados.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de capital:</strong> refere-se ao capital diretamente investido no estoque e também do custo de oportunidade de não tê-lo investido em outra aplicação qualquer.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de pessoal envolvido:</strong> é o custo mensal de toda a mão de obra envolvida em atividades diretamente relacionadas aos estoques, tais como: o pessoal de manuseio, controle e gerenciamento, inclusive encargos trabalhistas.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custos de equipamento e manutenção:</strong> São as despesas mensais para manter os estoques, incluindo a depreciação dos equipamentos, maquinários ali utilizados e suas despesas de manutenção.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de serviço:</strong> enquadram diversas taxas cobradas por serviços de gestão das mais variadas naturezas, além de impostos decorrentes da armazenagem e uso do espaço e também seguros da carga ali mantida.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de Pedido:</strong> Cada vez que uma requisição ou pedido é emitido, incorrem custos fixos e variáveis referentes a esse processo. Os custos fixos são os associados aos salários do pessoal envolvido na emissão dos pedidos e não são afetados pela política existente de estoque. Os custos variáveis consistem nas fichas de pedidos e nos processos de enviar esses pedidos aos fornecedores, bem como, todos os recursos necessários para tal procedimento. Portanto, o custo de pedido está diretamente determinado com base no volume das requisições ou pedidos que ocorrem no período.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custo de risco:</strong> manter estoques pode causar enormes prejuízos. Primeiro, no caso de mercadorias perecíveis, a manutenção de altos estoques pode gerar excesso de produtos para posterior distribuição, gerando sobre-ofertas e fazendo com que esses itens estraguem ou sejam desperdiçados antes de repassados ao consumidor. Riscos ainda afligem aqueles que mantêm produtos de rápida evolução, como celulares – o lançamento de novos modelos pode reduzir o valor de revenda ou mesmo tornar completamente obsoletos produtos estocados em excesso.</li>
-                            </ul>
 
                             <!-- Saiba Mais -->
                         <div class="SaibaMaisCaixa">
@@ -471,23 +460,36 @@ include('layout/header.php');
                             
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo">Tipos de Demanda de Materiais e Sua Relação com os Estoques</p>
+                            <p class="SubTitulo" id="top4-tree" >Tipos de Demanda de Materiais e Sua Relação com os Estoques</p>
                             <hr>
 
                             <p>Os níveis de estoque podem ser controlados, adotando-se diversos tipos de critérios. Se considerarmos a natureza de sua demanda, teremos as seguintes classificações:</p>
 
-                            <p><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong class="CorVerdeClaroEstado">Demanda permanente:</strong> Muitos produtos têm ciclo de vida muito longo, de forma que parecem que vão ser comercializados para sempre. Exemplo: Maisena e Nescau, entre outros. Estoques para demanda permanente são aqueles que requerem ressuprimento contínuo ou periódico. O controle de estoques orienta-se para:</p>
-
-                            <ol class="Texto">
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1" aria-expanded="false" aria-controls="flush-collapse1">
+                                    <strong class="CorVerdeClaroEstado">Demanda permanente:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse1" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Muitos produtos têm ciclo de vida muito longo, de forma que parecem que vão ser comercializados para sempre. Exemplo: Maisena e Nescau, entre outros. Estoques para demanda permanente são aqueles que requerem ressuprimento contínuo ou periódico. O controle de estoques orienta-se para:</p>
+                                        <ol class="Texto">
                                 <li class="wow fadeInDown" data-wow-delay="0.3s"> A previsão de demanda de cada item do inventário,</li>
                                 <li class="wow fadeInDown" data-wow-delay="0.6s"> A determinação de quando o ressuprimento deve ser efetuado e</li>
                                 <li class="wow fadeInDown" data-wow-delay="0.9s"> Definir o tamanho do lote de ressuprimento.</li>
                             </ol>
 
-                            <!-- Titulo Figura -->
+                                        <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura23.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura23.png" alt="Alt da imagem fica aqui">
                                 </a>
                                 <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
                             </div>
@@ -497,7 +499,7 @@ include('layout/header.php');
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura23.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
                                             <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
@@ -507,6 +509,68 @@ include('layout/header.php');
                                 </div>
                             </div>
                             <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2" aria-expanded="false" aria-controls="flush-collapse2">
+                                    <strong class="CorVerdeClaroEstado">Demanda sazonal (somente em determinada época do ano):</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse2" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Grande número de produtos tem tal sazonalidade na demanda que não podem ser controlados da mesma forma que produtos com demanda permanente. A administração dos níveis de estoque de produtos com elevada sazonalidade está associada com a previsão acurada do nível de demanda futuro. É necessário não apenas uma previsão precisa da quantidade a ser requisitada, mas também da época na qual ocorrerá o pico. Assim, o estoque acompanha a previsão, estando sujeito aos erros intrínsecos à mesma.</p>
+
+                                        <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura24.png" data-bs-toggle="modal" data-bs-target="#Imagem02">
+                                    <img class="img-fluid wow fadeInLeft" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem02" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura24.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                        <strong>Accordion 03 </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nosLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nosLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nosLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br><br>
+                        <!-- Accordion 03 -->
+                        <!-- FIM Accordion -->
+
+                            
 
                             <p><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong class="CorVerdeClaroEstado">Demanda sazonal (somente em determinada época do ano):</strong> Grande número de produtos tem tal sazonalidade na demanda que não podem ser controlados da mesma forma que produtos com demanda permanente. A administração dos níveis de estoque de produtos com elevada sazonalidade está associada com a previsão acurada do nível de demanda futuro. É necessário não apenas uma previsão precisa da quantidade a ser requisitada, mas também da época na qual ocorrerá o pico. Assim, o estoque acompanha a previsão, estando sujeito aos erros intrínsecos à mesma.</p>
 
