@@ -70,6 +70,14 @@
 .sidebar-item4:hover{
     height: 40rem;
 }
+.sidebar-item5{
+    height: 5.3rem;
+    overflow: hidden;
+    transition: .7s;
+}
+.sidebar-item5:hover{
+    height: 25.1rem;
+}
 .img-fluid10 {
     height: 70 0% !important;
     width: 80% !important;

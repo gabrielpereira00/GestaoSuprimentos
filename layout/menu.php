@@ -100,6 +100,20 @@
                                   </ul>
                             </div>
                         </li>
+                        <li class="sidebar-item sidebar-item5">
+                            <div class="bd-callout-menu bd-callout-success-menu">
+                                <a href="Topico05.php" class="MenuTopico sidebar-link <?php if($page=='Topico05'){echo 'ativo';}?>">
+                                    <div id="menuNumero">05 </div>Gestão Da Armazenagem
+                                </a>
+
+                                <ul class="sublinks">
+                                 <li><a href="#top5-one">5.1 Arranjo Físico (Leiaute) de Armazéns</a></li>
+                                 
+                                 <li><a href="#top5-two">5.2  O Que Considerar Para a Definição do Layout:</a></li>
+                                 <li><a href="#top5-tree">5.3 Modalidades para Localizar O Estoque Dentro Do Armazém</a></li>
+                                </ul>
+                            </div>
+                        </li>
                         
                         <li class="sidebar-item">
                             <div class="bd-callout-menu bd-callout-success-menu">

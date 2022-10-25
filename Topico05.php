@@ -50,54 +50,165 @@ include('layout/header.php');
 
                             <p>A gestão da armazenagem envolve a determinação do ponto de equilíbrio entre o custo de manter estoques e o nível de abastecimento que se deseja efetuar além de questões de configuração do armazém tais como: desenho do leiaute (arranjo físico), os métodos e equipamentos de manuseio dos materiais, os métodos de acondicionamento e os sistemas de endereçamento.</p>
 
-                            <p>Ao longo da cadeia de suprimentos os depósitos de armazenagem prestam quatro classes de serviços distintos que são:</p>
+                            <p><strong> Ao longo da cadeia de suprimentos os depósitos de armazenagem prestam quatro classes de serviços distintos que são:</strong></p>
 
-                            <ol type="a" class="Texto">
-                                <td><strong> Abrigo dos produtos:</strong> talvez o uso mais óbvio da armazenagem seja a guarda de estoques, gerados pela falta de balanceamento entre a oferta e a demanda. Garante proteção e outros serviços associados, como manutenção de registros, rotação de estoques e reparos.</li>
-                                </td>
+                            <ol type="a"  >
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong> Abrigo dos produtos:</strong> talvez o uso mais óbvio da armazenagem seja a guarda de estoques, gerados pela falta de balanceamento entre a oferta e a demanda. Garante proteção e outros serviços associados, como manutenção de registros, rotação de estoques e reparos.</li>
+                                
 
-                                <!-- imagem -->
+                                <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura47.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
+                                <img class="img-fluid wow fadeInLeft" width="500" class="img-fluid" src="imagens/Figura47.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 45: Representação do Abrigo dos Produtos</strong></p>
+                        </div>
 
-                                <br>
-                                <td><strong> Consolidação:</strong> No caso de mercadorias originárias de muitas fontes diferentes, a organização pode economizar no transporte, fazendo com que as entregas sejam feitas no armazém onde as cargas são agregadas ou consolidadas e transportadas em um único carregamento até o seu o seu destino final.</li>
-                                </td>
-                                <br>
-                                <td><strong> Transferência e Transbordo:</strong> É o inverso da consolidação, a mercadoria é originária de uma única fonte e no armazém é efetuado o fracionamento em volumes de quantidade menores carregadas para diversos destinos.</li>
-                                </td>
-                                <br>
-                                <td><strong> Agrupamento:</strong> É um uso especializado do armazém, isto ocorre geralmente nas organizações industriais que possuem uma grande linha de produtos e utilizam várias plantas industriais que fabricam produtos específicos de forma integral e continua entregando sua produção em um depósito onde os produtos são agrupados e entregues aos clientes. Nesse caso o custo de armazenagem é compensado pelos menores custos de manufatura, devido aos maiores lotes de produção para menos itens em cada planta industrial.</li>
-                                </td>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura47.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+                            
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong> Consolidação:</strong> No caso de mercadorias originárias de muitas fontes diferentes, a organização pode economizar no transporte, fazendo com que as entregas sejam feitas no armazém onde as cargas são agregadas ou consolidadas e transportadas em um único carregamento até o seu o seu destino final.</li>
+
+                                <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura48.png" data-bs-toggle="modal" data-bs-target="#Imagem02">
+                                <img class="img-fluid wow fadeInLeft" width="500" class="img-fluid" src="imagens/Figura48.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 46: Representação do Abrigo dos Produtos</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem02" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura48.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                
+                            
+                               <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong> Transferência e Transbordo:</strong> É o inverso da consolidação, a mercadoria é originária de uma única fonte e no armazém é efetuado o fracionamento em volumes de quantidade menores carregadas para diversos destinos.</li>
+
+                               <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura49.png" data-bs-toggle="modal" data-bs-target="#Imagem03">
+                                <img class="img-fluid wow fadeInLeft" width="500" class="img-fluid" src="imagens/Figura49.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 47: Representação da Transferência e Transbordo</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem03" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura49.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                               
+                               
+                               <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong> Agrupamento:</strong> É um uso especializado do armazém, isto ocorre geralmente nas organizações industriais que possuem uma grande linha de produtos e utilizam várias plantas industriais que fabricam produtos específicos de forma integral e continua entregando sua produção em um depósito onde os produtos são agrupados e entregues aos clientes. Nesse caso o custo de armazenagem é compensado pelos menores custos de manufatura, devido aos maiores lotes de produção para menos itens em cada planta industrial.</li>
+
+                                 <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura50.png" data-bs-toggle="modal" data-bs-target="#Imagem04">
+                                <img class="img-fluid wow fadeInLeft" width="500" class="img-fluid" src="imagens/Figura50.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 48: Representação do Agrupamento de Produtos</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem04" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura50.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                
                             </ol>
 
-                            <p>Seja qual for a classe de serviço que armazenagem presta ao longo da cadeia de suprimentos internamente cada armazém requer um processo de gestão sobre diversas atividades as quais veremos a seguir.</p>
+                            <p><strong> Seja qual for a classe de serviço que armazenagem presta ao longo da cadeia de suprimentos internamente cada armazém requer um processo de gestão sobre diversas atividades as quais veremos a seguir.</strong></p>
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo">Arranjo Físico (Leiaute) de Armazéns</p>
+                            <p class="SubTitulo" id="top5-one">Arranjo Físico (Leiaute) de Armazéns</p>
                             <hr>
 
-                            <p>O desempenho de uma cadeia de suprimentos é determinado tanto pelas operações de transporte, realizadas entre as instalações que compõem a cadeia (fornecedor, fabricante, distribuidor, varejista, etc), quanto por aquelas atividades realizadas no interior destas instalações, genericamente denominadas armazéns. A dinâmica de um armazém consiste basicamente em receber, movimentar para armazenar, movimentar para desarmazenar e expedir, e, para que isto ocorra é necessário dimensionar com a maior exatidão as áreas correspondentes a este processo. Os armazéns devem ser planejados de forma a oferecer um nível de serviço adequado às demandas dos usuários, em termos de custos e tempo de resposta, o que depende em grande parte da definição do “leiaute” destas instalações.</p>
+                            <p class="wow fadeInLeft" data-wow-delay="0.3s">O desempenho de uma cadeia de suprimentos é determinado tanto pelas operações de transporte, realizadas entre as instalações que compõem a cadeia (fornecedor, fabricante, distribuidor, varejista, etc), quanto por aquelas atividades realizadas no interior destas instalações, genericamente denominadas armazéns. A dinâmica de um armazém consiste basicamente em receber, movimentar para armazenar, movimentar para desarmazenar e expedir, e, para que isto ocorra é necessário dimensionar com a maior exatidão as áreas correspondentes a este processo. Os armazéns devem ser planejados de forma a oferecer um nível de serviço adequado às demandas dos usuários, em termos de custos e tempo de resposta, o que depende em grande parte da definição do “leiaute” destas instalações.</p>
 
-                            <p>O Leiaute ou arranjo físico de um armazém abrange a localização física dos recursos e ferramentas a se utilizar, determinando sua forma e aparência. Estabelecido a partir do estudo do sistema de informações relacionado com a distribuição dos móveis, equipamentos e pessoas, o espaço físico organizacional influi no trabalho desenvolvido pelos funcionários que lá trabalham. Apesar de ser aquilo que a maioria das pessoas notaria quando entrasse no ambiente, a grande preocupação de um estudo deste tipo é manter o fluxo otimizado entre as operações e as pessoas, ao invés do simples aspecto de visualmente adequado. Basicamente, definir o arranjo físico é decidir onde colocar todas as instalações, equipamentos e posicionamento de todo o pessoal do armazém verificando a coordenação entre os vários operadores, equipamentos e espaço.</p>
+                            <p class="wow fadeInRight" data-wow-delay="0.3s">O Leiaute ou arranjo físico de um armazém abrange a localização física dos recursos e ferramentas a se utilizar, determinando sua forma e aparência. Estabelecido a partir do estudo do sistema de informações relacionado com a distribuição dos móveis, equipamentos e pessoas, o espaço físico organizacional influi no trabalho desenvolvido pelos funcionários que lá trabalham. Apesar de ser aquilo que a maioria das pessoas notaria quando entrasse no ambiente, a grande preocupação de um estudo deste tipo é manter o fluxo otimizado entre as operações e as pessoas, ao invés do simples aspecto de visualmente adequado. Basicamente, definir o arranjo físico é decidir onde colocar todas as instalações, equipamentos e posicionamento de todo o pessoal do armazém verificando a coordenação entre os vários operadores, equipamentos e espaço.</p>
 
-                            <p>A seleção de um leiaute não é uma questão trivial e não há o melhor leiaute, pois a definição do mesmo deve levar em conta uma diversidade de aspectos, dentre os quais podem ser citados: características físicas das instalações, acesso aos corredores, tipos de estantes, tipos de equipamentos de movimentação, etc. Além disso, as decisões de localização do estoque, ou arrumação física dos itens no armazém, também têm impacto considerável sobre os custos operacionais e o tempo de atendimento aos pedidos, pois pode facilitar a identificação dos itens em estoque e a sua separação.</p>
+                            <!--INÍCIO CAIXA CINZA -->
+                        <section id="pt2">
+                            <div class="bg-cinzaAzul container-fluid main-content">
+                                <div class="row">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-10">
+                                        <p class="caixa">
+                                        <p>A seleção de um leiaute não é uma questão trivial e não há o melhor leiaute, pois a definição do mesmo deve levar em conta uma diversidade de aspectos, dentre os quais podem ser citados: características físicas das instalações, acesso aos corredores, tipos de estantes, tipos de equipamentos de movimentação, etc. Além disso, as decisões de localização do estoque, ou arrumação física dos itens no armazém, também têm impacto considerável sobre os custos operacionais e o tempo de atendimento aos pedidos, pois pode facilitar a identificação dos itens em estoque e a sua separação.</p>
 
-                            <p>Dessa forma, podemos entender que leiaute do armazém é a configuração de instalação do mesmo que estabelece a relação física entre a disposição de móveis, veículos e equipamentos e as várias atividades de gestão de materiais inerentes ao recebimento, localização, armazenagem e movimentação dos materiais. O melhor leiaute que se busca idealizar é aquele que procura minimizar a distância total percorrida com uma movimentação eficiente entre os materiais, com a maior flexibilidade possível e com custos de armazenagem reduzidos. A figura abaixo ilustra a disposição de um leiaute.</p>
+                                        <p>Dessa forma, podemos entender que leiaute do armazém é a configuração de instalação do mesmo que estabelece a relação física entre a disposição de móveis, veículos e equipamentos e as várias atividades de gestão de materiais inerentes ao recebimento, localização, armazenagem e movimentação dos materiais. O melhor leiaute que se busca idealizar é aquele que procura minimizar a distância total percorrida com uma movimentação eficiente entre os materiais, com a maior flexibilidade possível e com custos de armazenagem reduzidos.</p>
+                                        </p>
+                                    </div>
+                                    <div class="col-md-1"></div>
+                                </div>
+                            </div>
+                        </section>
+                        <!--INÍCIO CAIXA CINZA -->
+                        <br><br>
+
+                        <p><strong> A figura abaixo ilustra a disposição de um layout.</strong></p>
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInDown" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura51.png" data-bs-toggle="modal" data-bs-target="#Imagem05">
+                                    <img class="img-fluid wow fadeInDown" width="400" class="img-fluid" src="imagens/Figura51.png" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong>Figura 49: Representação do Leiaute de Armazéns</strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem05" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura51.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
                                             <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
@@ -109,113 +220,200 @@ include('layout/header.php');
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo">Arranjo Físico (Leiaute) de Armazéns</p>
+                            <p class="SubTitulo" id="top5-two"> O Que Considerar Para a Definição do Layout:</p>
                             <hr>
 
                             <p>A grande decisão do projeto de armazenagem está em apontar onde itens específicos de estoque devem ser localizados, como devem ser arranjados e que método usar para encontrar o estoque, de modo a minimizar as despesas de movimentação, obter máxima utilização do espaço e satisfazer as restrições de localização do produto, como segurança um seguro contra incêndio, compatibilidade e necessidades de separação de pedidos. O nível de atividade e de serviço desejado determina o seu custo. Para tanto, deve-se buscar um equilíbrio entre três objetivos:</p>
 
-                            <ol class="Texto">
-                                <td> <strong class="CorAzulEstadoEscuro"> Bom fluxo de material:</strong> O fluxo de material diz respeito ao percurso dos itens desde o ponto de recebimento à expedição, sendo determinado pela disposição de recebimento, estocagem, embalagem e estruturas de estocagem.</li>
-                                </td>
+                            <ul class="none Texto">
+                                
+                                <li class="wow fadeInDown" data-wow-delay=".5s"><strong class="CorAzulEstadoEscuro"> Bom fluxo de material:</strong> O fluxo de material diz respeito ao percurso dos itens desde o ponto de recebimento à expedição, sendo determinado pela disposição de recebimento, estocagem, embalagem e estruturas de estocagem.</li>
+                                
                                 <br>
-                                <td> <strong class="CorAzulEstadoEscuro"> Custos operacionais baixos para estocagem e coleta:</strong> O melhor percurso é o mais curto para o fluxo do material, porque custa dinheiro mover material e para isso, dois princípios, devem ser seguidos: minimizar o retrocesso, buscando direcionar o movimento dos itens para a expedição e localizar as atividades relacionadas próximas, visando minimizar as distâncias de movimentação entre duas operações, por exemplo. A coleta e a embalagem são atividades que devem ser paralelas, por haver quantidades menores de movimentação entre ambas.</li>
-                                </td>
+                                <li class="wow fadeInDown" data-wow-delay=".8s"><strong class="CorAzulEstadoEscuro"> Custos operacionais baixos para estocagem e coleta:</strong> O melhor percurso é o mais curto para o fluxo do material, porque custa dinheiro mover material e para isso, dois princípios, devem ser seguidos: minimizar o retrocesso, buscando direcionar o movimento dos itens para a expedição e localizar as atividades relacionadas próximas, visando minimizar as distâncias de movimentação entre duas operações, por exemplo. A coleta e a embalagem são atividades que devem ser paralelas, por haver quantidades menores de movimentação entre ambas.</li>
+                                
                                 <br>
-                                <td> <strong class="CorAzulEstadoEscuro"> Eficiente utilização do espaço de estocagem e dos equipamentos:</strong> o objetivo básico da armazenagem é estocar mercadorias da maneira mais eficiente possível, usando o espaço nas três dimensões (comprimento, largura e altura) com o intuito de aperfeiçoar a armazenagem e proporcionar a movimentação rápida e fácil dos materiais desde o recebimento até a expedição, considerando como premissas para isso um eficiente sistema de posicionamento e localização dos itens no interior do armazém e o uso de equipamento adequado que possibilite economia de tempo e mão de obra. Vale destacar que o espaço é um recurso básico, cuja manutenção representa um investimento considerável, devendo ser cuidadosamente planejado e utilizado.</li>
-                                </td>
+                                <li class="wow fadeInDown" data-wow-delay="1.0s"><strong class="CorAzulEstadoEscuro"> Eficiente utilização do espaço de estocagem e dos equipamentos:</strong> o objetivo básico da armazenagem é estocar mercadorias da maneira mais eficiente possível, usando o espaço nas três dimensões (comprimento, largura e altura) com o intuito de aperfeiçoar a armazenagem e proporcionar a movimentação rápida e fácil dos materiais desde o recebimento até a expedição, considerando como premissas para isso um eficiente sistema de posicionamento e localização dos itens no interior do armazém e o uso de equipamento adequado que possibilite economia de tempo e mão de obra. Vale destacar que o espaço é um recurso básico, cuja manutenção representa um investimento considerável, devendo ser cuidadosamente planejado e utilizado.</li>
+                                
                             </ol>
 
-                            <p>Para um projeto de leiaute é interessante destacarmos algumas sugestões básicas com o objetivo de otimizar a fluxo das operações e aproveitar ao máximo o espaço existente:</p>
+                            <br><br>
+
+                            <p><strong> Para um projeto de leiaute é interessante destacarmos algumas sugestões básicas com o objetivo de otimizar a fluxo das operações e aproveitar ao máximo o espaço existente:</strong></p>
 
                             <ul class="none Texto">
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Procurar as plantas dos edifícios e das utilidades ou, se não for possível encontrá-las, refazê-las;</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Procurar as plantas dos edifícios e das utilidades ou, se não for possível encontrá-las, refazê-las;</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Definir a localização de todos os obstáculos, como colunas de apoio, saídas de emergências, poços de escada, elevador e equipamentos contra incêndios;</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Definir a localização de todos os obstáculos, como colunas de apoio, saídas de emergências, poços de escada, elevador e equipamentos contra incêndios;</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Traçar o fluxo dos materiais considerando recebimento, armazenagem, separação de requisições e expedição;</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Traçar o fluxo dos materiais considerando recebimento, armazenagem, separação de requisições e expedição;</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Localizar as áreas de recebimento e expedição, levando em consideração as melhores posições para recebimento dos transportadores;</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Localizar as áreas de recebimento e expedição, levando em consideração as melhores posições para recebimento dos transportadores;</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Localizar as áreas primárias, secundárias, de separação de requisições e de estocagem, para que se tenha máximo espaço, movimentação de materiais e eficiência de mão-de-obra, para os materiais mais importantes a serem estocados;</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Localizar as áreas primárias, secundárias, de separação de requisições e de estocagem, para que se tenha máximo espaço, movimentação de materiais e eficiência de mão-de-obra, para os materiais mais importantes a serem estocados;</li>
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Rever a política de armazenamento a fim de tentar reduzir estoques e ganhar espaço no almoxarifado.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Rever a política de armazenamento a fim de tentar reduzir estoques e ganhar espaço no almoxarifado.</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Tentar ganhar espaço vertical, principalmente nos itens de menor rotatividade procurando empilhá-los ao máximo, ou acondicionando-os em estruturas verticais.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Tentar ganhar espaço vertical, principalmente nos itens de menor rotatividade procurando empilhá-los ao máximo, ou acondicionando-os em estruturas verticais.</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Enterrar tanques de combustíveis, solventes e demais líquidos.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Enterrar tanques de combustíveis, solventes e demais líquidos.</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Colocar escritórios e instalações sanitárias em mezaninos, aproveitando-se a área útil por baixo deles.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Colocar escritórios e instalações sanitárias em mezaninos, aproveitando-se a área útil por baixo deles.</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Utilizar prateleiras metálicas desmontáveis;</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Utilizar prateleiras metálicas desmontáveis;</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Definir o sistema de localização do estoque, onde cada item irá ficar e;</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Definir o sistema de localização do estoque, onde cada item irá ficar e;</li>                                
                                 <br>
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Avaliar as alternativas de leiaute do estoque, quanto à intensidade de uso, semelhança de agrupamento por localização dos itens, à distribuição dos locais por tamanho e peso, às características físicas e químicas dos materiais e à utilização do espaço.</li>
-                                </td>
-                            </ul>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Avaliar as alternativas de leiaute do estoque, quanto à intensidade de uso, semelhança de agrupamento por localização dos itens, à distribuição dos locais por tamanho e peso, às características físicas e químicas dos materiais e à utilização do espaço.</li>
+                                
+                            </ul><br><br>
 
-                            <p>Uma má definição de leiaute pode causar altos custos no rearranjo. Para evitar tais custos é necessário realizar um estudo considerando:</p>
+                            <p><strong> Uma má definição de leiaute pode causar altos custos no rearranjo. Para evitar tais custos é necessário realizar um estudo considerando:</strong></p>
 
                             <ul class="none Texto">
-                                <td><i class="fa fa-cube CorVerdeClaroEstado"></i> As modalidades de materiais;</li>
-                                </td>
-                                <td><i class="fa fa-cube CorVerdeClaroEstado"></i> A previsão de consumo e o regime de atendimento das requisições;</li>
-                                </td>
-                                <td><i class="fa fa-cube CorVerdeClaroEstado"></i> Os níveis de estoque;</li>
-                                </td>
-                                <td><i class="fa fa-cube CorVerdeClaroEstado"></i> Os maquinários e equipamentos;</li>
-                                </td>
-                                <td><i class="fa fa-cube CorVerdeClaroEstado"></i> O homem;</li>
-                                </td>
-                                <td><i class="fa fa-cube CorVerdeClaroEstado"></i> O movimento e a espera dos materiais e;</li>
-                                </td>
-                                <td><i class="fa fa-cube CorVerdeClaroEstado"></i> Os serviços agregados.</li>
-                                </td>
+                                <li class="wow fadeInRight" data-wow-delay="0.4s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> As modalidades de materiais;</li>
+                                <li class="wow fadeInRight" data-wow-delay="0.5s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> A previsão de consumo e o regime de atendimento das requisições;</li>
+                                <li class="wow fadeInRight" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Os níveis de estoque;</li>
+                                <li class="wow fadeInRight" data-wow-delay="0.7s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Os maquinários e equipamentos;</li>
+                                <li class="wow fadeInRight" data-wow-delay="0.8s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O homem;</li>
+                                <li class="wow fadeInRight" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O movimento e a espera dos materiais e;</li>
+                                <li class="wow fadeInRight" data-wow-delay="1.0s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Os serviços agregados.</li>
                             </ul>
+                            <br><br>
 
-                            <p>O objetivo é que projeto possibilite uma operação dentro de um ótimo de economia e rendimento, uma vez que os custos de planejamento do leiaute são inferiores aos custos de rearranjo.</p>
+                            <!--INÍCIO CAIXA CINZA -->
+                        <section id="pt2">
+                            <div class="bg-cinzaAzul container-fluid main-content">
+                                <div class="row">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-10">
+                                        <p class="caixa">
+                                        <p>O objetivo é que projeto possibilite uma operação dentro de um ótimo de economia e rendimento, uma vez que os custos de planejamento do leiaute são inferiores aos custos de rearranjo.</p>
+                                        </p>
+                                    </div>
+                                    <div class="col-md-1"></div>
+                                </div>
+                            </div>
+                        </section>
+                        <!--INÍCIO CAIXA CINZA -->
+
+                            
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo">Modalidades para Localizar O Estoque Dentro Do Armazém</p>
+                            <p class="SubTitulo" id="top5-tree">Modalidades para Localizar O Estoque Dentro Do Armazém</p>
                             <hr>
 
                             <p>A Localização do estoque é o desafio de decidir o arranjo físico dos materiais em um armazém a fim de minimizar as despesas com seu manuseio, utilizar ao máximo o espaço do armazém e superar determinadas restrições à localização dos materiais, como aquelas necessárias à segurança, à proteção contra incêndios, à compatibilização entre estes e a dinâmica separação das requisições.</p>
 
                             <p>Muitos gestores não planejam como estocar os itens recebidos, deixando muitas vezes a cargo dos funcionários do armazém a decisão de onde alocar os materiais recém chegados. Contudo existem vários termos para decidir onde estocar cada item recém-recebido pelo armazém. Este planejamento considera desde a divisão do armazém em zonas e corredores até a subdivisão em compartimento, nível e posição.</p>
 
+                             <!-- Fique Atento -->
+                        <div class="FiqueAtentoCaixa">
+                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
+                            <div class="FiqueAtentoTexto">
                             <p>O almoxarifado por se tratar de um setor de apoio operacional, a prioridade sempre será atender as requisições de consumo com um alto nível de serviço e para que isso aconteça os materiais deverão antecipadamente estar armazenados de forma organizada, com rápida localização e acesso facilitado.</p>
+                            </div>
+                        </div>
 
-                            <p>Na dinâmica de atendimento das requisições de consumo, a retirada de itens do estoque poderá ser planejada considerando um dos três procedimentos a seguir:</p>
+                            <br>
 
-                            <ol class="Texto">
-                                <td> No primeiro procedimento existe uma seleção de ida e volta em que apenas um item ou carga é separado de uma determinada localização, uma viagem típica se faria saindo do local de atendimento (doca) selecionando um material e voltando novamente ao local de atendimento.</li>
-                                </td>
+                            <p><strong> Na dinâmica de atendimento das requisições de consumo, a retirada de itens do estoque poderá ser planejada considerando um dos três procedimentos a seguir:</strong></p>
+
+                            <ol class="Texto texto-number">
+                                <li> No primeiro procedimento existe uma seleção de ida e volta em que apenas um item ou carga é separado de uma determinada localização, uma viagem típica se faria saindo do local de atendimento (doca) selecionando um material e voltando novamente ao local de atendimento.</li>
+                                <br>
+
+                               <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura52.jpg" data-bs-toggle="modal" data-bs-target="#Imagem06">
+                                    <img class="img-fluid wow fadeInDown" width="400" class="img-fluid" src="imagens/Figura52.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 50: Representação da Coleta de Requisição Individualizada</strong></p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem06" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura52.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
 
                                 <br>
-                                <td> Em um segundo procedimento, haverá o roteamento da separação, em que vários itens de uma requisição são separados antes de voltar ao ponto de saída (local de atendimento ou doca). O volume coletado na rota pode ser limitado pela capacidade de carga do</li>
-                                </td>
+                                <li>Em um segundo procedimento, haverá o roteamento da separação, em que vários itens de uma requisição são separados antes de voltar ao ponto de saída (local de atendimento ou doca). O volume coletado na rota pode ser limitado pela capacidade de carga do separador da requisição.</li>
+                                <br>
+
+                                <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura53.png" data-bs-toggle="modal" data-bs-target="#Imagem08">
+                                    <img class="img-fluid wow fadeInDown" width="400" class="img-fluid" src="imagens/Figura53.png" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 51: Representação da Coleta de Requisição por Roteamento</strong></p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem08" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura53.png" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                
 
                                 <br>
-                                <td> Em um terceiro procedimento, haverá uma área de separação designada por trabalhador (separação por zona). Os separadores recuperam itens por seleção de ida e volta ou rota de separação dentro dos limites de suas áreas de trabalho.</li>
-                                </td>
+                                <li> Em um terceiro procedimento, haverá uma área de separação designada por trabalhador (separação por zona). Os separadores recuperam itens por seleção de ida e volta ou rota de separação dentro dos limites de suas áreas de trabalho.</li>
+                                <br>
+                                <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura54.jpg" data-bs-toggle="modal" data-bs-target="#Imagem09">
+                                    <img class="img-fluid wow fadeInDown" width="400" class="img-fluid" src="imagens/Figura54.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 52: Representação da Coleta de Requisição por Zona</strong></p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem09" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura54.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                
                             </ol>
 
                             <p>As decisões de localização de itens podem ser baseadas em vários fatores como: quantidade disponível para os itens de baixo giro, velocidade para os de alto giro. Os itens podem ser estocados por conterem alguma característica similar, ou também podem ser localizados devido a sua forma ou dimensão, quando são compridos e difíceis de manusear e estocar, por isso deverão permanecer juntos, etc.</p>
 
+                                                    <!-- Saiba Mais -->
+                        <div class="SaibaMaisCaixa">
+                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
+                            <div class="SaibaMaisTexto">
                             <p>Algumas características dos materiais devem ser analisadas para se determinar a melhor localização dos mesmos. Um fator crítico é volume das embalagens dos itens. Outro aspecto que deve ser observado é a necessidade de refrigeração de alguns materiais, ou controle de umidade. A separação dos itens perigosos e com forte odor também se faz necessária.</p>
+                            </div>
+                        </div>
+                        <br>                            
 
                             <p>Materiais que são estocados de acordo com a sua densidade podem ser separados de forma mais acelerada, além de se evitar eventuais desperdícios por se empilhar materiais mais pesados em cima de materiais que podem ser espremidos e danificados.</p>
 
