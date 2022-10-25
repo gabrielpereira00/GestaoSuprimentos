@@ -62,19 +62,20 @@
 .sidebar-item3:hover{
     height: 25.1rem;
 }
-.img-fluid10 {
-    height: 70 0% !important;
-    width: 80% !important;
-    align-items: center;
-}
 .sidebar-item4{
     height: 6.7rem;
     overflow: hidden;
     transition: .7s;
 }
 .sidebar-item4:hover{
-    height: 25.1rem;
+    height: 40rem;
 }
+.img-fluid10 {
+    height: 70 0% !important;
+    width: 80% !important;
+    align-items: center;
+}
+
 .modal fade text-center{
     align-items: center;
 }
@@ -119,5 +120,8 @@
     align-items: center;
     display: flex;
     justify-content: center;
+}
+.table-linha{
+    background-color: #a9d6a4;
 }
 

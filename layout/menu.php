@@ -94,6 +94,9 @@
                                  <li><a href="#top4-one">4.1 Razões para Manter Estoques e Quais os Tipos de Estoque</a></li>
                                  <li><a href="#top4-two">4.2 Custos Relacionados Aos Estoques</a></li>
                                  <li><a href="#top4-tree">4.3 Tipos de Demanda de Materiais e Sua Relação com os Estoques</a></li>
+                                 <li><a href="#top4-four">4.4 Rotatividade dos Estoques</a></li>
+                                 <li><a href="#top4-five">4.5 Ressuprimento Dos Estoques</a></li>
+                                 <li><a href="#top4-six">4.5 Recebimento De Materiais</a></li>
                                   </ul>
                             </div>
                         </li>
