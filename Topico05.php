@@ -421,49 +421,333 @@ include('layout/header.php');
 
                             <p>Quando os itens de giro rápido são colocados em locais onde são fáceis de manusear, o separador pode deslocar-se mais rapidamente e ao mesmo tempo evitar o risco de dano. Os funcionários que usam estantes dinâmicas trabalharão com menos esforços quando os itens de giro mais rápido estão na “zona nobre”, entre a altura dos joelhos e dos ombros. Evitando a necessidade de se inclinar ou se esticar, o separador de pedidos pode operar com maior velocidade e menos fadiga.</p>
 
-                            <p>O leiaute é também muitas vezes baseado intuitivamente, os métodos intuitivos têm aceitação já que fornecem algumas diretrizes úteis para o leiaute sem a necessidade de matemática de alto nível. Com frequência, a disposição é baseada intuitivamente em quatro critérios:</p>
+                            <p><strong> O layout é também muitas vezes baseado intuitivamente, os métodos intuitivos têm aceitação já que fornecem algumas diretrizes úteis para o leiaute sem a necessidade de matemática de alto nível. Com frequência, a disposição é baseada intuitivamente em quatro critérios:</strong></p>
+                            <br>
+                             
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                    <strong class="CorAzulEstadoEscuro"> Complementaridade:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>complementaridade refere-se à idéia de que itens frequentemente requisitados juntos devem estar localizados próximos uns dos outros. Exemplos de tais itens são tinta e pincel, lâminas de barbear e creme de barbear, e canetas e lápis.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            <ol class="Texto">
-                                <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Complementaridade:</strong> A complementaridade refere-se à idéia de que itens frequentemente requisitados juntos devem estar localizados próximos uns dos outros. Exemplos de tais itens são tinta e pincel, lâminas de barbear e creme de barbear, e canetas e lápis.</li>
-                                </td>
-                                <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Compatibilidade:</strong> A compatibilidade inclui a questão se os itens podem ser colocados próximos um do outro. Pneus de automóveis não são compatíveis com produtos alimentícios, nem a gasolina é compatível com os cilindros de oxigênio. Consequentemente, não poderiam ser colocados próximos uns dos outros. Os produtos são considerados compatíveis se não houver restrição na proximidade de sua localização.</li>
-                                </td>
-                                <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Popularidade:</strong> O leiaute por popularidade sugere que os custos de manuseio de materiais podem ser minimizados pela localização dos itens de rápida movimentação perto do ponto de saída, ou área de reserva, e os itens de movimentação mais lenta atrás destes. Isso supõe que os itens que requerem um grande número de viagens para um dado nível de demanda terão a distância de trajeto mais curta possível por viagem de coleta de requisição.</li>
-                                </td>
-                                <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Tamanho:</strong> O leiaute por tamanho sugere que os custos de manuseio podem ser minimizados se o tamanho (volume cúbico) do item for usado como uma diretriz no leiaute. Pela localização de itens menores perto do ponto de saída do armazém, o manuseio de materiais pode ser menor do que em um arranjo por popularidade, porque uma densidade maior de itens pode ser localizada próxima do local de despacho. Entretanto, o leiaute por tamanho não garante custos menores do que o leiaute por popularidade. O método por tamanho é uma boa escolha quando o giro elevado está concentrado nos itens menores.</li>
-                                </td>
-                            </ol>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                    <strong class="CorAzulEstadoEscuro"> Compatibilidade:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>A compatibilidade inclui a questão se os itens podem ser colocados próximos um do outro. Pneus de automóveis não são compatíveis com produtos alimentícios, nem a gasolina é compatível com os cilindros de oxigênio. Consequentemente, não poderiam ser colocados próximos uns dos outros. Os produtos são considerados compatíveis se não houver restrição na proximidade de sua localização. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
-                            <p>Em uma modalidade de localização de estoque deve-se considerar pelo menos três critérios intuitivos: o da compatibilidade, o da popularidade e o do tamanho.</p>
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                    <strong class="CorAzulEstadoEscuro">Popularidade:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> O layout por popularidade sugere que os custos de manuseio de materiais podem ser minimizados pela localização dos itens de rápida movimentação perto do ponto de saída, ou área de reserva, e os itens de movimentação mais lenta atrás destes. Isso supõe que os itens que requerem um grande número de viagens para um dado nível de demanda terão a distância de trajeto mais curta possível por viagem de coleta de requisição. </p>
+                                    </div>
+                                </div>
+                            </div>
+                       
+                        <!-- Accordion 03 -->
+
+                        <!-- Accordion 04 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                                    <strong class="CorAzulEstadoEscuro"> Tamanho:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> O layout por tamanho sugere que os custos de manuseio podem ser minimizados se o tamanho (volume cúbico) do item for usado como uma diretriz no layout. Pela localização de itens menores perto do ponto de saída do armazém, o manuseio de materiais pode ser menor do que em um arranjo por popularidade, porque uma densidade maior de itens pode ser localizada próxima do local de despacho. Entretanto, o layout por tamanho não garante custos menores do que o layout por popularidade. O método por tamanho é uma boa escolha quando o giro elevado está concentrado nos itens menores. </p>
+                                    </div>
+                                </div>
+                            </div>
+                       
+                        <!-- Accordion 03 -->
+                         </div><br><br>
+                        <!-- FIM Accordion -->
+
+
+                            <p><strong> Em uma modalidade de localização de estoque deve-se considerar pelo menos três critérios intuitivos: o da compatibilidade, o da popularidade e o do tamanho.</strong></p>
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo">Características Do Leiaute Que Facilitam A Movimentação Dos Materiais</p>
+                            <p class="SubTitulo" id="top5-four">Características Do Leiaute Que Facilitam A Movimentação Dos Materiais</p>
                             <hr>
 
-                            <p>Além do que até então foi estudado algumas características de configuração interna do armazém influenciam também na obtenção de melhor movimentação dos materiais e consequentemente melhor adequação do leiaute, são estas:</p>
+                            <p><strong> Além do que até então foi estudado algumas características de configuração interna do armazém influenciam também na obtenção de melhor movimentação dos materiais e consequentemente melhor adequação do leiaute, são estas:</strong></p>
 
-                            <p class="wow fadeInDown" data-wow-delay="0.3s">1) <strong class="CorAzulEstadoEscuro"> Portas:</strong> Devem permitir a passagem de empilhadeiras carregadas. Têm normalmente 2,4 m de altura e igual largura.
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne1" aria-expanded="false" aria-controls="flush-collapseOne1">
+                                    <strong> 1) Portas:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne1" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Devem permitir a passagem de empilhadeiras carregadas. Têm normalmente 2,4 m de altura e igual largura.</p>
+                                        <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura56.jpg" data-bs-toggle="modal" data-bs-target="#Imagem10">
+                                    <img class="img-fluid" width="400" class="img-fluid" src="imagens/Figura56.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 53: Representação da Porta adequada de um armazém.</strong></p>
+                            </div>
 
-                            <p class="wow fadeInDown" data-wow-delay="0.6s">2) <strong class="CorAzulEstadoEscuro"> Corredores:</strong> Seu número depende da facilidade de acesso desejada.</p>
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem10" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura56.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            <p>A largura é determinada pelo equipamento utilizado para manuseio. Para empilhadeira a gasolina, de uma tonelada, são necessários corredores de 2,4 m; para empilhadeiras de duas toneladas, corredores de 3 m; e para máquinas de 3 t, corredores de 3,6 m. Os corredores principais e os utilizados para embarque devem permitir o trânsito de duas empilhadeiras ao mesmo tempo. A localização é estabelecida em função das portas de acesso, elevadores, chutes ou arremessos etc. As empilhadeiras elétricas necessitam de menores corredores.</p>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo2" aria-expanded="false" aria-controls="flush-collapseTwo2">
+                                    <strong>2) Corredores:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo2" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>A largura é determinada pelo equipamento utilizado para manuseio. Para empilhadeira a gasolina, de uma tonelada, são necessários corredores de 2,4 m; para empilhadeiras de duas toneladas, corredores de 3 m; e para máquinas de 3 t, corredores de 3,6 m. Os corredores principais e os utilizados para embarque devem permitir o trânsito de duas empilhadeiras ao mesmo tempo. A localização é estabelecida em função das portas de acesso, elevadores, chutes ou arremessos etc. As empilhadeiras elétricas necessitam de menores corredores.</p>
 
-                            <p>Entre mercadorias e as paredes são necessárias passagens de 60 cm que deem acesso às instalações para combate a incêndios.</p>
+                                   <p>Entre mercadorias e as paredes são necessárias passagens de 60 cm que deem acesso às instalações para combate a incêndios.</p>
+                                   <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura57.jpg" data-bs-toggle="modal" data-bs-target="#Imagem11">
+                                    <img class="img-fluid" width="400" class="img-fluid" src="imagens/Figura57.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 54: Representação das Empilhadeiras Transitando nos Corredores do Armazém.</strong></p>
+                            </div>
 
-                            <p class="wow fadeInDown" data-wow-delay="0.9s">3) <strong class="CorAzulEstadoEscuro"> Pilhas:</strong> O topo das pilhas de mercadorias deve ficar um metro, aproximadamente, abaixo dos sprinklers contra incêndios, instalados no teto. A altura máxima recomendada é de cinco pilhas, devido às limitações dos equipamentos de elevação e ao custo de armazéns muito altos.</p>
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem11" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura57.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
-                            <p class="wow fadeInDown" data-wow-delay="1.3s">4) <strong class="CorAzulEstadoEscuro"> Piso:</strong> Com excessiva frequência, os pisos são mal dimensionados e não apresentam a resistência necessária. Devem ser construídos em concreto e suportar o peso dos materiais estocados e o trânsito das empilhadeiras carregadas. Para tráfego de empilhadeiras elétricas, a construção do piso deve ser especial.</p>
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree3" aria-expanded="false" aria-controls="flush-collapseThree3">
+                                    <strong>3) Pilhas:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree3" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> O topo das pilhas de mercadorias deve ficar um metro, aproximadamente, abaixo dos sprinklers contra incêndios, instalados no teto. A altura máxima recomendada é de cinco pilhas, devido às limitações dos equipamentos de elevação e ao custo de armazéns muito altos. </p>
+                                        <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura58.jpg" data-bs-toggle="modal" data-bs-target="#Imagem12">
+                                    <img class="img-fluid" width="400" class="img-fluid" src="imagens/Figura58.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 55: Representação do Empilhamento Adequado no Armazém.</strong></p>
+                            </div>
 
-                            <p class="wow fadeInDown" data-wow-delay="1.6s">5) <strong class="CorAzulEstadoEscuro"> Embarque/Desembarque:</strong> O local destinado a embarque/desembarque tem normalmente 1,25 m de altura sobre o piso, para facilitar as operações. A fim de determinar o número de lugares para acostamento de veículos, calcula-se quantidade diária de embarques e desembarques e o tempo de carga e descarga.</p>
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem12" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura58.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                       
+                        <!-- Accordion 03 -->
 
-                            <p>A demora das operações de carga varia com o equipamento para manuseio. Uma empilhadeira pode carregar ou descarregar um caminhão em 15 minutos, se o material for paletizado; manualmente, a operação requereria de uma hora e meia a três. Próximo à área de embarque e desembarque é necessário reservar um local para armazenagem temporária, onde são colocados os materiais para as conferências de recebimento ou classificação do despacho.</p>
+                        <!-- Accordion 04 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour4" aria-expanded="false" aria-controls="flush-collapseFour4">
+                                    <strong>4) Piso:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseFour4" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Com excessiva frequência, os pisos são mal dimensionados e não apresentam a resistência necessária. Devem ser construídos em concreto e suportar o peso dos materiais estocados e o trânsito das empilhadeiras carregadas. Para tráfego de empilhadeiras elétricas, a construção do piso deve ser especial.</p>
+                                        <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura59.jpg" data-bs-toggle="modal" data-bs-target="#Imagem13">
+                                    <img class="img-fluid" width="400" class="img-fluid" src="imagens/Figura59.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 56: Representação do Piso Adequado no Armazém.</strong></p>
+                            </div>
 
-                            <p class="wow fadeInDown" data-wow-delay="1.9s">6) <strong class="CorAzulEstadoEscuro"> Escritórios:</strong> Costumam estar próximos aos locais de embarque ou em mezaninos sobre área de armazenagem. Seu tamanho varia com as operações do armazém. Algumas organizações possuem instalações centrais onde estão localizados escritórios, controle, manutenção etc.</p>
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem13" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura59.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                       
+                        <!-- Accordion 04 -->
+
+                        <!-- Accordion 05 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item05">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive5" aria-expanded="false" aria-controls="flush-collapseFive5">
+                                    <strong>5) Embarque/Desembarque:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseFive5" class="accordion-collapse collapse" aria-labelledby="Item05" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>O local destinado a embarque/desembarque tem normalmente 1,25 m de altura sobre o piso, para facilitar as operações. A fim de determinar o número de lugares para acostamento de veículos, calcula-se quantidade diária de embarques e desembarques e o tempo de carga e descarga.</p>
+
+                                        <p>A demora das operações de carga varia com o equipamento para manuseio. Uma empilhadeira pode carregar ou descarregar um caminhão em 15 minutos, se o material for paletizado; manualmente, a operação requereria de uma hora e meia a três. Próximo à área de embarque e desembarque é necessário reservar um local para armazenagem temporária, onde são colocados os materiais para as conferências de recebimento ou classificação do despacho.</p>
+                                        <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura60.jpg" data-bs-toggle="modal" data-bs-target="#Imagem14">
+                                    <img class="img-fluid" width="400" class="img-fluid" src="imagens/Figura60.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 57: Representação do Docas de Embarque/Desembarque.</strong></p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem14" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura60.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                       
+                        <!-- Accordion 05 -->
+
+                        <!-- Accordion 06 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item06">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix6" aria-expanded="false" aria-controls="flush-collapseSix6">
+                                    <strong>6) Escritórios:</strong></strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseSix6" class="accordion-collapse collapse" aria-labelledby="Item06" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Costumam estar próximos aos locais de embarque ou em mezaninos sobre área de armazenagem. Seu tamanho varia com as operações do armazém. Algumas organizações possuem instalações centrais onde estão localizados escritórios, controle, manutenção etc.</p>
+                                        <!-- Titulo Figura -->
+                            <div class="text-center">
+                                <a href="imagens/Figura61.jpg" data-bs-toggle="modal" data-bs-target="#Imagem15">
+                                    <img class="img-fluid" width="400" class="img-fluid" src="imagens/Figura61.jpg" alt="Alt da imagem fica aqui">
+                                </a>
+                                <p class="FonteFigura"><strong>Figura 58: Representação do Escritório em Mezanino do Armazém.</strong></p>
+                            </div>
+
+                            <!-- Imagem 01 - MODAL -->
+                            <div class="modal fade text-center" id="Imagem15" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-centered modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-body">
+                                            <img class="img-fluid" src="imagens/Figura61.jpg" alt="Alt da imagem fica aqui">
+                                        </div>
+                                        <div class="modal-footer text-center">
+                                            <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                       
+                        <!-- Accordion 06 -->
+                         </div><br><br>
+                        <!-- FIM Accordion -->
+
+                          
+
+                            
+
+                           
+
+
+                           
 
                             <br><br>
                             <!--SubTitulo -->

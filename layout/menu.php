@@ -107,10 +107,11 @@
                                 </a>
 
                                 <ul class="sublinks">
-                                 <li><a href="#top5-one">5.1 Arranjo Físico (Leiaute) de Armazéns</a></li>
+                                 <li><a href="#top5-one">5.1 Arranjo Físico (Layout) de Armazéns</a></li>
                                  
                                  <li><a href="#top5-two">5.2  O Que Considerar Para a Definição do Layout:</a></li>
                                  <li><a href="#top5-tree">5.3 Modalidades para Localizar O Estoque Dentro Do Armazém</a></li>
+                                 <li><a href="#top5-four">5.4 Características Do Layout Que Facilitam A Movimentação Dos Materiais</a></li>
                                 </ul>
                             </div>
                         </li>
