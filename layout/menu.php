@@ -112,6 +112,11 @@
                                  <li><a href="#top5-two">5.2  O Que Considerar Para a Definição do Layout:</a></li>
                                  <li><a href="#top5-tree">5.3 Modalidades para Localizar O Estoque Dentro Do Armazém</a></li>
                                  <li><a href="#top5-four">5.4 Características Do Layout Que Facilitam A Movimentação Dos Materiais</a></li>
+                                 <li><a href="#top5-five">5.5 Situações que Influenciam a Atualização do Layout</a></li>
+                                 <li><a href="#top5-six">5.6 O Que é Um Sistema de Endereçamento?</a></li>
+                                 <li><a href="#top5-seven">5.7 Tipos de endereçamento</a></li>
+                                 <li><a href="#top5-eight">5.8 Características das sinalizações em um sistema de endereçamento</a></li>
+
                                 </ul>
                             </div>
                         </li>

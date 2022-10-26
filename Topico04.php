@@ -777,17 +777,20 @@ include('layout/header.php');
                                 </tbody>
                             </table>
 
-                            <!-- Fique Atento -->
+                           
+
+                            </div>
+                        </div>
+                                 <br>     
+                                 
+                                  <!-- Fique Atento -->
                         <div class="FiqueAtentoCaixa">
                             <p class="FiqueAtentoTitulo"> Fique Atento</p>
                             <div class="FiqueAtentoTexto">
                             <p>10 dividido por 10, que é igual a 1. Nesse caso, a Rotatividade de Estoque igual a 1 significa que todos os produtos foram renovados 1 vez durante o mês. Se o número fosse menor do que 1, teríamos uma indicação de que alguns dos produtos que iniciaram o mês na prateleira, ainda estão lá.</p>
                             </div>
                         </div>
-
-                            </div>
-                        </div>
-                                 <br>                  
+                        <br>
                                       
                             <p>Um fator que costuma gerar dúvidas ao se calcular a rotatividade de estoque é o cálculo da média de estoque. Nesse caso, a média de estoque é calculada pela média entre o estoque no início e no final do mês, ou simplesmente somando o estoque percebido no início com o estoque do fim do período e o resultado, se divide por 2.</p>
 

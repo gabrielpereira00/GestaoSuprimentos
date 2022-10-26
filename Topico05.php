@@ -533,7 +533,7 @@ include('layout/header.php');
                                         <div class="modal-body">
                                             <img class="img-fluid" src="imagens/Figura56.jpg" alt="Alt da imagem fica aqui">
                                         </div>
-                                        <div class="modal-footer text-center">
+                                        <div class="mooh dal-footer text-center">
                                             <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                         </div>
                                     </div>
@@ -751,7 +751,7 @@ include('layout/header.php');
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo">Situações que Influenciam a Atualização do Leiaute</p>
+                            <p class="SubTitulo" id="top5-five">Situações que Influenciam a Atualização do Leiaute</p>
                             <hr>
 
                             <p>Cada atividade de armazém apresenta um fluxograma típico, o que não quer dizer que permaneça estático através dos anos. Novos procedimentos e novos equipamentos podem tornar obsoleto um arranjo de homem, equipamentos e materiais que era perfeitamente adequado para as condições vigentes na época de implantação, por causa da evolução tecnológica de métodos, processos, equipamentos e até, como acontece frequentemente, com respeito a novos materiais que surgem. O leiaute sofre alterações periódicas que influem profundamente na rotina do armazém.</p>
@@ -760,55 +760,57 @@ include('layout/header.php');
 
                             <p>Assim, não só a instalação inicial como também eventuais ampliações e modificações de adaptação aos produtos mutáveis são englobadas pelo leiaute. Uma organização que dispõe de pessoal devidamente treinado pode efetuar independentemente os estudos de leiaute. É o caso de indústrias que, devido a sua atividade, antecipam as mudanças periódicas no processo ou no produto.</p>
 
-                            <p>Quando se tratar de experiência isolada, própria da implantação de um novo armazém, mudanças nas instalações ou necessidade de atualização, a solução reside nos estudos efetuados por consultorias especializadas em assessoria industrial e racionalização de trabalho, analisando, entre outras, as seguintes situações que originam uma mudança de leiaute:</p>
+                            <p><strong> Quando se tratar de experiência isolada, própria da implantação de um novo armazém, mudanças nas instalações ou necessidade de atualização, a solução reside nos estudos efetuados por consultorias especializadas em assessoria industrial e racionalização de trabalho, analisando, entre outras, as seguintes situações que originam uma mudança de leiaute:</strong></p>
 
                             <ol type="a" class="Texto">
-                                <td><strong class="CorAzulEstadoEscuro"> Modificação do material pelo fabricante:</strong> Mercados altamente competitivos exigem muitas vezes modificações periódicas dos produtos, que afetam os equipamentos, a mão de obra e às vezes a área disponível.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"><strong class="CorAzulEstadoEscuro"> Modificação do material pelo fabricante:</strong> Mercados altamente competitivos exigem muitas vezes modificações periódicas dos produtos, que afetam os equipamentos, a mão de obra e às vezes a área disponível.</li>
+                                
                                 <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Lançamento de novo produto pelo fabricante:</strong> O desenvolvimento de um novo produto, ou mesmo a interrupção na fabricação de um produto que figurava na linha normal do fabricante, envolve modificações na estrutura de armazenagem; o novo leiaute deve ser desenvolvido a medida que a relação custo & benefício se torne significativa nas operações.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.5s"><strong class="CorAzulEstadoEscuro"> Lançamento de novo produto pelo fabricante:</strong> O desenvolvimento de um novo produto, ou mesmo a interrupção na fabricação de um produto que figurava na linha normal do fabricante, envolve modificações na estrutura de armazenagem; o novo leiaute deve ser desenvolvido a medida que a relação custo & benefício se torne significativa nas operações.</li>
+                                
                                 <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Variação na demanda:</strong> Um aumento ou uma redução significativa no consumo justifica estudos de capacidade ociosa, obsolescência iminente do material, adequação do equipamento existente, todos perfeitamente enquadrados dentro das finalidades do leiaute.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.7s"><strong class="CorAzulEstadoEscuro"> Variação na demanda:</strong> Um aumento ou uma redução significativa no consumo justifica estudos de capacidade ociosa, obsolescência iminente do material, adequação do equipamento existente, todos perfeitamente enquadrados dentro das finalidades do leiaute.</li>
+                                
                                 <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Obsolescência das instalações:</strong> Procedimentos, equipamentos e mesmo a edificação podem tornar-se um entrave na armazenagem de determinado produto. O problema do equipamento é o que menos afeta o leiaute nestes casos; a obsolescência de um processo exige, por outro lado, modificações sensíveis, ao passo que, no caso da edificação, o leiaute pode indicar a conveniência em se ampliarem as instalações, uma construção de novo bloco ou mesmo a mudança completa do depósito.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="0.9s"><strong class="CorAzulEstadoEscuro"> Obsolescência das instalações:</strong> Procedimentos, equipamentos e mesmo a edificação podem tornar-se um entrave na armazenagem de determinado produto. O problema do equipamento é o que menos afeta o leiaute nestes casos; a obsolescência de um processo exige, por outro lado, modificações sensíveis, ao passo que, no caso da edificação, o leiaute pode indicar a conveniência em se ampliarem as instalações, uma construção de novo bloco ou mesmo a mudança completa do depósito.</li>
+                                
                                 <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Ambiente de trabalho inadequado:</strong> O leiaute deve levar em conta as modificações necessárias para atenuar o efeito do ruído, das temperaturas anormais, presença de agentes agressivos, enfim, todos os fatores que podem afetar o rendimento de trabalho do elemento humano. O estudo e a disposição das estações de trabalho, acesso a materiais e ferramental fazem parte deste tópico.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="1.0s"><strong class="CorAzulEstadoEscuro"> Ambiente de trabalho inadequado:</strong> O leiaute deve levar em conta as modificações necessárias para atenuar o efeito do ruído, das temperaturas anormais, presença de agentes agressivos, enfim, todos os fatores que podem afetar o rendimento de trabalho do elemento humano. O estudo e a disposição das estações de trabalho, acesso a materiais e ferramental fazem parte deste tópico.</li>
+                                
                                 <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Necessidade de prevenção de acidentes:</strong> O leiaute deve prever a localização de uma série de instalações que possam atender em caráter de emergência os funcionários que entram em contato com produtos químicos altamente corrosivos, o isolamento ou confinamento de certos locais de trabalho, o dimensionamento e a demarcação de corredores, passagens, áreas de tráfego de veículos, obstruções etc., tendo por finalidade não só a proteção como também eventual atendimento de emergência de acidentados.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="1.2s"><strong class="CorAzulEstadoEscuro"> Necessidade de prevenção de acidentes:</strong> O leiaute deve prever a localização de uma série de instalações que possam atender em caráter de emergência os funcionários que entram em contato com produtos químicos altamente corrosivos, o isolamento ou confinamento de certos locais de trabalho, o dimensionamento e a demarcação de corredores, passagens, áreas de tráfego de veículos, obstruções etc., tendo por finalidade não só a proteção como também eventual atendimento de emergência de acidentados.</li>
+                                
                                 <br>
-                                <td><strong class="CorAzulEstadoEscuro"> Oportunidade de redução de custos:</strong> Um melhor aproveitamento da edificação da mão de obra e dos equipamentos, produtos de um leiaute adequado, traz consigo uma redução nos custos não só de estocagem, como também de manutenção.</li>
-                                </td>
+                                <li class="wow fadeInLeft" data-wow-delay="1.3s"><strong class="CorAzulEstadoEscuro"> Oportunidade de redução de custos:</strong> Um melhor aproveitamento da edificação da mão de obra e dos equipamentos, produtos de um leiaute adequado, traz consigo uma redução nos custos não só de estocagem, como também de manutenção.</li>
+                                
                             </ol>
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo">O Que é Um Sistema de Endereçamento?</p>
+                            <p class="SubTitulo" id="top5-six">O Que é Um Sistema de Endereçamento?</p>
                             <hr>
 
                             <p>O objetivo de um sistema de endereçamento de armazém é estabelecer os meios necessários à perfeita identificação da localização dos materiais estocados sob a responsabilidade do Almoxarifado. Deverá ser utilizada uma simbologia (sinalização) representativa de cada local de estocagem, abrangendo desde as divisões do armazém, em seções, as vias de circulação, até chegar ao menor espaço de unidade de estocagem, que poderá ser uma prateleira ou uma subdivisão da prateleira.</p>
 
-                            <p>O gestor do almoxarifado deverá ser o responsável pela manutenção do sistema de endereçamento, e para isso deverá dispor de um esquema de identificação que defina detalhadamente a posição e a situação dos espaços das respectivas áreas de estocagem. Esse esquema nada mais é do que a representação gráfica em forma de planta baixa do leiaute do armazém cuja definição estudamos no item anterior desta disciplina. Este esquema pode ser representado pela Figura abaixo.</p>
+                            <p><strong>
+                                O gestor do almoxarifado deverá ser o responsável pela manutenção do sistema de endereçamento, e para isso deverá dispor de um esquema de identificação que defina detalhadamente a posição e a situação dos espaços das respectivas áreas de estocagem. Esse esquema nada mais é do que a representação gráfica em forma de planta baixa do leiaute do armazém cuja definição estudamos no item anterior desta disciplina. Este esquema pode ser representado pela Figura abaixo.</strong></p>
 
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura01.png" data-bs-toggle="modal" data-bs-target="#Imagem01">
-                                    <img class="img-fluid wow fadeInDown" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura62.jpg" data-bs-toggle="modal" data-bs-target="#Imagem16">
+                                    <img class="img-fluid wow fadeInDown" src="imagens/Figura62.jpg" alt="Alt da imagem fica aqui">
                                 </a>
-                                <p class="FonteFigura"><strong>Figura XX: </strong>Nome da Figura Aqui</p>
+                                <p class="FonteFigura"><strong> Figura 59: Representação da Planta Baixa do Leiaute do Armazém
+</strong></p>
                             </div>
 
                             <!-- Imagem 01 - MODAL -->
-                            <div class="modal fade text-center" id="Imagem01" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal fade text-center" id="Imagem16" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura01.png" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura62.jpg" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
                                             <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
@@ -821,75 +823,170 @@ include('layout/header.php');
 
                             <p>A partir da planta baixa do leiaute do armazém, poderão ser atribuídos códigos de identificação de cada divisão ou subdivisão do armazém das vias de circulação, estantes até chegar ao menor espaço de unidade de estocagem. Após esse estudo deve ser providenciada a sinalização do armazém por intermédio de placas indicativas, pinturas no piso e outras formas de sinalização de forma que a partir da sequência de sinais um estoquista separador encontre qualquer um dos locais de estocagem dentro do armazém.</p>
 
+                            <div class="FiqueAtentoCaixa">
+                            <p class="FiqueAtentoTitulo"> Fique Atento</p>
+                            <div class="FiqueAtentoTexto">
                             <p>A cada menor unidade de estocagem do armazém será associado uma especificação de material denominada “Stock Keeping Unit” - SKU, em português “Unidade de Manutenção de Estoque”, é definido como um identificador único de um material estando normalmente associado a um código identificador.</p>
+                            </div>
+                        </div>
+
+                           
 
                             <p>O SKU, ao contrário de outras formas de organização de estoques, está relacionado diretamente ao número de itens mantidos em estoque. Assim, um almoxarifado que possui um Catálogo de Materiais com alto nível de padronização pode possuir um estoque volumoso, mas dificilmente contará com mais do que algumas dúzias de diferentes SKUs, pois o portfólio de materiais é relativamente pequeno. Por outro lado, um almoxarifado com um catálogo não padronizado conta com dezenas de milhares de SKUs distintos, pelo número de itens diferentes que é obrigado a manter em estoque.</p>
 
                             <p>Vale ainda lembrar que, no caso de materiais de uma mesma linha, mas com diferentes cores ou tamanhos e dependendo do caso até unidades de fornecimento diferentes, um SKU distinto é geralmente atribuído a cada uma dessas variantes.</p>
-
+                    <!-- Importante -->
+                        <div class="ImportanteCaixa">
+                            <p class="ImportanteTitulo"> Importante</p>
+                            <div class="ImportanteTexto">
                             <p>Quando estudamos a classificação e catalogação de materiais, vimos que entre as diversas fases do processo de classificação de materiais havia a fase de <strong>“codificação”</strong> que consiste na atribuição de uma série de números e/ou letras a cada item de material, de forma que essa informação, compilada em um único código, represente as características do item. Cada item terá, assim, um único código esse código é o SKU.</p>
-
+                            </div>
+                        </div>
+                            
+                    <!-- Saiba Mais -->
+                    <div class="SaibaMaisCaixa">
+                            <p class="SaibaMaisTitulo"> Saiba Mais</p>
+                            <div class="SaibaMaisTexto">
                             <p>Os SKUs foram criados para facilitar a comunicação do pessoal que diariamente estão em contato com milhares de produtos dentro de um armazém trabalhando com um volume de dados enorme, então para simplificar é muito mais fácil e rápido localizar pelo SKU "tal" do que ficar tentando descrever um determinado item estocado. Além disso, aplica-se todo o processo de gerenciamento de estoque.</p>
+                            </div>
+                        </div>
+                       
 
                             <p>Dependendo da filosofia de armazenagem cada SKU pode ter uma localização fixa ou variável no armazém. No caso da localização fixa, cada SKU é armazenado num local, no qual só pode ser encontrado aquele e mais nenhum SKU. No caso da localização variável, pode-se encontrar qualquer SKU em qualquer parte do armazém.</p>
-
-                            <p>Um sistema de endereçamento é um processo baseado na velha premissa de que tudo deve estar em seu lugar e que deve haver um lugar para tudo. Ele determina o melhor local para estocar cada SKU com base em uma série de fatores. O objetivo é reduzir o tempo de trajeto, aumentar a acurácia das separações, eliminar acidente e aumentar a utilização dos ativos tanto da mão de obra quanto do espaço do armazém.</p>
+                            <section id="pt2">
+                            <div class="bg-cinzaAzul container-fluid main-content">
+                                <div class="row">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-10">
+                                        <p class="caixa">
+                                        <h4 class="wow fadeInLeft" data-wow-delay="0.6s"> <p>Um sistema de endereçamento é um processo baseado na velha premissa de que tudo deve estar em seu lugar e que deve haver um lugar para tudo. Ele determina o melhor local para estocar cada SKU com base em uma série de fatores. O objetivo é reduzir o tempo de trajeto, aumentar a acurácia das separações, eliminar acidente e aumentar a utilização dos ativos tanto da mão de obra quanto do espaço do armazém.</p></h4>
+                                        </p>
+                                    </div>
+                                    <div class="col-md-1"></div>
+                                </div>
+                            </div>
+                        </section>
+                           
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo"> Tipos de Sistema de Endereçamento</p>
+                            <p class="SubTitulo" id="top5-seven"> Tipos de Sistema de Endereçamento</p>
                             <hr>
 
                             <p>Endereçar o armazém é uma excelente idéia no papel, mas, na realidade, poucos gestores de almoxarifado público a coloca em prática de forma disciplinada. A maioria alega saber fazer o endereçamento, entretanto o que geralmente temos é uma pessoa no controle do estoque que gera um relatório sobre o que está entrando no armazém e decide onde colocá-lo.</p>
 
                             <p>O benefício de um sistema de endereçamento eficaz pode ser significativo, sobretudo para o usuário final com grandes instalações e um grande número de SKUs (“Stock Keeping Unit”, unidade distinta mantida em estoque). Esta economia vem do aumento da produtividade dos colaboradores que possibilita destinar uma equipe menor para uma área de separação de requisições. Além disso, é possível conseguir redução das avarias, aumento da rapidez e da acurácia na realização de inventários.</p>
 
-                            <p>Mas para implantar um sistema de endereçamento faz necessário entender os tipos existentes e qual melhor se adapta as instalações disponíveis e a quantidade de SKUs estocados. Teoricamente pode se dividir os sistemas endereçamento em três categorias: sistema de memória, sistema de endereçamento fixo e sistema de endereçamento variável.</p>
+                            <p>Mas para implantar um sistema de endereçamento faz necessário entender os tipos existentes e qual melhor se adapta as instalações disponíveis e a quantidade de SKUs estocados. <strong>Teoricamente pode se dividir os sistemas endereçamento em três categorias: sistema de memória, sistema de endereçamento fixo e sistema de endereçamento variável.</strong> </p>
 
-                            <p>a) <strong class="CorAzulEstadoEscuro">Sistema de Memória:</strong> O sistema de endereçamento por memória é o sistema que depende da memória das pessoas. Este sistema pode funcionar bem se forem levados em conta alguns requisitos:</p>
 
-                            <ul class="none Texto">
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Apenas uma pessoa trabalha em uma determinada área de estocagem;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O número de SKU (unidade individual de estocagem) deve ser relativamente pequeno;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O número de locais diferentes de estocagem é relativamente pequeno.</li>
-                                </td>
+
+                            
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1" aria-expanded="false" aria-controls="flush-collapse1">
+                                        <strong>Sistema de memória</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse1" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> O sistema de endereçamento por memória é o sistema que depende da memória das pessoas. Este sistema pode funcionar bem se forem levados em conta alguns requisitos:
+                                           <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Apenas uma pessoa trabalha em uma determinada área de estocagem;</li>
+                                
+                                <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O número de SKU (unidade individual de estocagem) deve ser relativamente pequeno;</li>
+                                
+                              <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O número de locais diferentes de estocagem é relativamente pequeno.</li>
+                                <br>
                                 Caso esses requisitos não sejam cumpridos, o sistema de memória pode ser desastroso, devido ao sistema usar a memória do operador, que é limitada. Também deve ser levado em conta que este tipo de sistema pode trazer dificuldades no momento da troca de operadores, devido à informação de localização dos produtos estar guardada na memória do operador anterior.
-                                b) Sistema de endereçamento fixo: O sistema com endereçamento fixo é quando um SKU é designado para um lugar ou conjunto de lugares específicos no armazém. São usados geralmente dois tipos de estocagem fixa:
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Estocagem de itens em sequencia numérica;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Determinação do local baseado na rotatividade de um SKU e em seus níveis de estoque.</li>
-                                </td>
-                            </ul>
-
-                            <p>Nos sistemas de endereçamento fixo, os boxes são determinados pelo estoque máximo que se pode colocar neles. Uma estimativa do espaço necessário para definir a estocagem fixa é estimar duas vezes o estoque médio.</p>
-
-                            <p>O número de boxes vazios destinados a um SKU deve armazenar seu nível máximo de estoque. Então, o número de boxes vazios para estocagem definitiva é igual à soma dos espaços vazios exigidos para cada SKU.</p>
-
-                            <p>Este sistema facilita a memorização das posições dos produtos no estoque por que são fixas. Estudos comparativos entre o endereçamento fixo e variável, mostram que quando a estocagem fixa for baseada na rotatividade do SKU, pode haver ganhos econômicos maiores no tempo de viagem com relação aos sistemas de endereçamento variável. Uma das principais desvantagens é que existe uma ociosidade de espaços no armazém utilizando este sistema. Os mesmos estudos comparativos mostram que este tipo de estocagem pode exigir de 20% a 60 % mais boxes do que o necessário para estocagem variável.</p>
-
-                            <p>c) <strong class="CorAzulEstadoEscuro">Sistema de Endereçamento Variável: </strong> sistema de endereçamento variável se caracteriza por designar um SKU para armazenar aleatoriamente no armazém, ou seja, em qualquer lugar do armazém onde tiver um espaço disponível. O endereçamento variável geralmente funciona da seguinte maneira:</p>
-
-                            <ul class="none Texto">
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Após o recebimento de algum item, é feita uma consulta por intermédio de um sistema informatizado para verificar se já existe estoque deste item, e qual sua localização;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Verifica-se, então, se já existe um local que contém aquele item e se existe espaço disponível. Caso tenha, armazena-se o item neste local e atualiza-se o registro de localização;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Caso não exista o item recém chegado armazenado, é feita uma consulta via sistema, para se achar um ponto disponível de estocagem;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Atualiza-se, então, o registro de localização do material;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Quando requisita-se o item, consulta-se o seu registro para descobrir a sua localização;</li>
-                                </td>
-                                <td><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Retira-se, então, o material na quantidade desejada, e atualiza-se o registro de localização.</li>
-                                </td>
-                            </ul>
-
-                            <p>O sistema de endereçamento variável é mais indicado quando as condições de armazenagem variam significativamente em situações altamente sazonais e dinâmicas. O único inconveniente deste sistema é o perfeito método de controle que deve existir sobre o registro de localização no sistema informatizado, sob o risco de possuir material em estoque perdido em que somente será descoberto ao acaso ou na realização do inventário.</p>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+                           
 
 
+
+
+                 <!-- Accordion 01 -->
+                 <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2" aria-expanded="false" aria-controls="flush-collapse2">
+                                        <strong>Sistema de endereçamento fixo</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse2" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>  
+                              O sistema com endereçamento fixo é quando um SKU é designado para um lugar ou conjunto de lugares específicos no armazém. São usados geralmente dois tipos de estocagem fixa:
+                              <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Estocagem de itens em sequencia numérica;</li>
+                                
+                                <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Determinação do local baseado na rotatividade de um SKU e em seus níveis de estoque.</li>
+                                <br>
+                                <p>Nos sistemas de endereçamento fixo, os boxes são determinados pelo estoque máximo que se pode colocar neles. Uma estimativa do espaço necessário para definir a estocagem fixa é estimar duas vezes o estoque médio.
+O número de boxes vazios destinados a um SKU deve armazenar seu nível máximo de estoque. Então, o número de boxes vazios para estocagem definitiva é igual à soma dos espaços vazios exigidos para cada SKU.
+Este sistema facilita a memorização das posições dos produtos no estoque porque são fixas. Estudos comparativos entre o endereçamento fixo e variável mostram que quando a estocagem fixa for baseada na rotatividade do SKU, pode haver ganhos econômicos maiores no tempo de viagem com relação aos sistemas de endereçamento variável. Uma das principais desvantagens é que existe uma ociosidade de espaços no armazém utilizando este sistema. Os mesmos estudos comparativos mostram que este tipo de estocagem pode exigir de 20% a 60 % mais boxes do que o necessário para estocagem variável.
+</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+                           
+
+  <!-- Accordion 01 -->
+                 <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse3" aria-expanded="false" aria-controls="flush-collapse3">
+                                        <strong>Sistema de Endereçamento Variável</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse3" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>  
+                                        sistema de endereçamento variável se caracteriza por designar um SKU para armazenar aleatoriamente no armazém, ou seja, em qualquer lugar do armazém onde tiver um espaço disponível. O endereçamento variável geralmente funciona da seguinte maneira
+                                       <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Após o recebimento de algum item, é feita uma consulta por intermédio de um sistema informatizado para verificar se já existe estoque deste item, e qual sua localização;</li>
+                                
+                               <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Verifica-se, então, se já existe um local que contém aquele item e se existe espaço disponível. Caso tenha, armazena-se o item neste local e atualiza-se o registro de localização;</li>
+                                
+                               <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Caso não exista o item recém chegado armazenado, é feita uma consulta via sistema, para se achar um ponto disponível de estocagem;</li>
+                               
+                               <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Atualiza-se, então, o registro de localização do material;</li>
+                               
+                           <li>  <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Quando requisita-se o item, consulta-se o seu registro para descobrir a sua localização;</li>
+                               
+                             <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Retira-se, então, o material na quantidade desejada, e atualiza-se o registro de localização.</li>
+                              
+                                <br>
+                                <p>Nos sistemas de endereçamento fixo, os boxes são determinados pelo estoque máximo que se pode colocar neles. Uma estimativa do espaço necessário para definir a estocagem fixa é estimar duas vezes o estoque médio.
+O número de boxes vazios destinados a um SKU deve armazenar seu nível máximo de estoque. Então, o número de boxes vazios para estocagem definitiva é igual à soma dos espaços vazios exigidos para cada SKU.
+Este sistema facilita a memorização das posições dos produtos no estoque porque são fixas. Estudos comparativos entre o endereçamento fixo e variável mostram que quando a estocagem fixa for baseada na rotatividade do SKU, pode haver ganhos econômicos maiores no tempo de viagem com relação aos sistemas de endereçamento variável. Uma das principais desvantagens é que existe uma ociosidade de espaços no armazém utilizando este sistema. Os mesmos estudos comparativos mostram que este tipo de estocagem pode exigir de 20% a 60 % mais boxes do que o necessário para estocagem variável.
+<br>
+O sistema de endereçamento variável é mais indicado quando as condições de armazenagem variam significativamente em situações altamente sazonais e dinâmicas. O único inconveniente deste sistema é o perfeito método de controle que deve existir sobre o registro de localização no sistema informatizado, sob o risco de possuir material em estoque perdido em que somente será descoberto ao acaso ou na realização do inventário.
+</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+                           
+                          
+
+                           
+                             
+                                
+                            
+
+
+
+                         
+                                
+                          
+
+                           
+
+<br>
+<br>
                             <!-- SubTitulo -->
-                            <p class="SubTitulo">Características Das Sinalizações em Um Sistema De Endereça-Mento</p>
+                            <p class="SubTitulo" id="top5-eight">Características Das Sinalizações em Um Sistema De Endereça-Mento</p>
                             <hr>
 
                             <p>Seja qual for o sistema de endereçamento fixo ou variável, é necessário providenciar a sinalização do armazém é recomendável uma metodologia simples e de lógica fácil, que possa ser compreendida tanto pelos funcionários efetivos do armazém, como também pelos temporários, contratados em momentos de pico, a exemplo do que ocorre no fim de ano.</p>
@@ -898,26 +995,182 @@ include('layout/header.php');
 
                             <p>Com facilidade para movimentar-se no armazém, o funcionário tem clareza dos locais onde deve guardar e retirar os materiais, o que diminui muito os erros de endereçamento e mantém consistentes as informações físicas e dos sistemas de informação, como os softwares de gerenciamento de armazéns.</p>
 
-                            <p>A maneira como uma cidade identifica as moradias aplica-se, de forma análoga, aos endereços dentro de um armazém: ruas, números de casas e edifícios, andares e números de apartamentos são perfeitos para identificar corredores (ruas), módulos (edifícios), nível (andar) e vão (apartamento).</p>
+                            <section id="pt2">
+                            <div class="bg-cinzaAzul container-fluid main-content">
+                                <div class="row">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-10">
+                                        <p class="caixa">
+                                        <h4 class="wow fadeInLeft" data-wow-delay="0.6s">
+                            <p>A maneira como uma cidade identifica as moradias aplica-se, de forma análoga, aos endereços dentro de um armazém: ruas, números de casas e edifícios, andares e números de apartamentos são perfeitos para identificar corredores (ruas), módulos (edifícios), nível (andar) e vão (apartamento).
+                            Essa analogia com a vida das pessoas deixa o sistema muito conveniente para a localização das posições de armazenamento, pois já faz parte da cultura dos funcionários.
+                            </p></h4>
+                                        </p>
+                                    </div>
+                                    <div class="col-md-1"></div>
+                                </div>
+                            </div>
+                        </section>
 
-                            <p>Essa analogia com a vida das pessoas deixa o sistema muito conveniente para a localização das posições de armazenamento, pois já faz parte da cultura dos funcionários.</p>
-
+<br><br>
+                           
+                        <div class="ImportanteCaixa">
+                            <p class="ImportanteTitulo"> Importante</p>
+                            <div class="ImportanteTexto">
                             <p>Um princípio importante no conceito de endereçamento de armazéns é evitar o uso de letras. Estas são limitadas, confusas e não fazem uma referência direta de localização em nossa mente. Por exemplo, se uma pessoa estiver na rua 4 e precisar direcionar-se até a rua 14, imediatamente ela sabe que precisará deslocar-se dez ruas. Mas, se estiver na rua “D” e precisar ir até a rua “O”, quantas ruas terá de deslocar-se? O cálculo fica muito mais demorado.</p>
+                            </div>
+                        </div>
+                    
+<br>
+                            <p><strong>Acima de tudo é importante conceituar cada componente do sistema de endereçamento:</strong> </p>
 
-                            <p>Acima de tudo é importante conceituar cada componente do sistema de endereçamento:</p>
-
-                            <p>a) <strong class="CorAzulEstadoEscuro">Área:</strong> com o objetivo de ter uma metodologia que permita o crescimento do armazém, é interessante alocarmos códigos para diferentes áreas de armazenagem, como estruturas porta-palete, áreas de blocado interna e externa, assim por diante. Dessa forma, fica fácil, por exemplo, alugar o galpão seguinte e continuar a numeração dos corredores na sequência, sem ser necessário renumerar as ruas de outros locais. A identificação de área pode, ainda, indicar um segundo ou terceiro galpão, quer esteja no mesmo local ou em outro endereço, por exemplo.</p>
 
 
-                            <p>b) <strong class="CorAzulEstadoEscuro">Corredor:</strong> refere-se às ruas do armazém. Cada corredor deve ter um único número que o identifique dentro daquela mesma área. Considere utilizar nova sequência para os corredores de locais diferentes de trabalho, como explicado acima. Nas estruturas porta-palete, identifique os corredores e não cada lado individualmente. No geral, assinalamos números de forma ascendente, iniciando por 01, começando de um lado do galpão e terminando do outro. O usual é que os corredores sejam dispostos de forma alinhada às docas.</p>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                                        <strong>Área</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        
+                                <br>
+                                <p> Com o objetivo de ter uma metodologia que permita o crescimento do armazém, é interessante alocarmos códigos para diferentes áreas de armazenagem, como estruturas porta-palete, áreas de blocado interna e externa, assim por diante. Dessa forma, fica fácil, por exemplo, alugar o galpão seguinte e continuar a numeração dos corredores na sequência, sem ser necessário renumerar as ruas de outros locais. A identificação de área pode, ainda, indicar um segundo ou terceiro galpão, quer esteja no mesmo local ou em outro endereço, por exemplo.
+</p>
 
-                            <p>c) <strong class="CorAzulEstadoEscuro">Módulo:</strong> chamamos de “módulo” o conjunto de espaços de armazenagem compreendidos entre duas colunas da estrutura porta-palete. Os módulos também são chamados de prédios, pois de forma análoga ao endereçamento de uma cidade, cada rua (corredor) tem prédios (módulos) dos dois lados. Tendo em mente a mesma idéia usada nas cidades, identifique os módulos do lado esquerdo do corredor com numeração ímpar e os do lado direito com numeração par. Comece a numerar sempre pelo lado das docas, de forma a dar uma boa ideia espacial às pessoas, uma vez que o primeiro prédio de uma rua estará situado do lado próximo às docas.</p>
+<div class="text-center">
+                            <a href="imagens/Figura64.jpg" data-bs-toggle="modal" data-bs-target="#Imagem64">
+                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura64.jpg" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 64: </strong>Representação das Áreas do Armazém em Primeiro Plano e Área de Blocado ao Fundo de Porta Palete
+</p>
+                        </div>
 
-                            <p>d) <strong class="CorAzulEstadoEscuro">Nível:</strong> corresponde aos andares de um prédio (módulo). Comece assinalando o número 01 para o nível mais baixo e continue de modo ascendente até o nível mais alto.</p>
+                        <div class="modal fade text-center" id="Imagem64" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura64.jp" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGP</p>
+                                    </div>
+                                </div>
 
-                            <p>e) <strong class="CorAzulEstadoEscuro">Vão: </strong>o espaço em cada nível de um módulo é dividido em posições de armazenamento, posição porta-palete, posição de palete ou também conhecido por “vão”. Na analogia do endereçamento das cidades, uma posição porta-palete corresponde a um apartamento de um andar em um prédio da rua. Em cada nível, assinale números para cada posição de forma ascendente, a começar por 01 da esquerda para a direita.</p>
+                            </div>
+                        </div>
 
-                            <p>Uma vez definidos os conceitos de nosso sistema de endereçamento, fica fácil criar um código de endereçamento vertical, vejamos:</p>
+                                    </div>
+                                </div>
+
+                                
+
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                                        <strong>Corredor</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        
+                                <br>
+                                <p> Refere-se às ruas do armazém. Cada corredor deve ter um único número que o identifique dentro daquela mesma área. Considere utilizar nova sequência para os corredores de locais diferentes de trabalho, como explicado acima. Nas estruturas porta-palete, identifique os corredores e não cada lado individualmente. No geral, assinalamos números de forma ascendente, iniciando por 01, começando de um lado do galpão e terminando do outro. O usual é que os corredores sejam dispostos de forma alinhada às docas.
+</p>
+<div class="text-center">
+                            <a href="imagens/Figura65.png" data-bs-toggle="modal" data-bs-target="#Imagem65">
+                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura65.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 65: </strong>Representação das Áreas do Armazém em Primeiro Plano e Área de Blocado ao Fundo de Porta Palete
+</p>
+                        </div>
+
+                        <div class="modal fade text-center" id="Imagem65" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura65.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGP</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                                    </div>
+                                </div>
+
+                                
+
+                        </div>
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                                        <strong>Módulo</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        
+                                <br>
+                                <p> Chamamos de “módulo” o conjunto de espaços de armazenagem compreendidos entre duas colunas da estrutura porta-palete. Os módulos também são chamados de prédios, pois de forma análoga ao endereçamento de uma cidade, cada rua (corredor) tem prédios (módulos) dos dois lados. Tendo em mente a mesma idéia usada nas cidades, identifique os módulos do lado esquerdo do corredor com numeração ímpar e os do lado direito com numeração par. Comece a numerar sempre pelo lado das docas, de forma a dar uma boa ideia espacial às pessoas, uma vez que o primeiro prédio de uma rua estará situado do lado próximo às docas.
+</p>
+                                    </div>
+                                
+    </div>
+                                
+
+                           
+                         
+</div>
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                                        <strong>Nível</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        
+                                <br>
+                                <p> corresponde aos andares de um prédio (módulo). Comece assinalando o número 01 para o nível mais baixo e continue de modo ascendente até o nível mais alto.
+</p>
+                                    </div>
+                                </div>
+
+                                </div>
+
+                     
+                          
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+                                        <strong>Vão</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        
+                                <br>
+                                <p> Uma vez definidos os conceitos de nosso sistema de endereçamento, fica fácil criar um código de endereçamento vertical, vejamos:
+</p>
+                                    </div>
+                                </div>
+                                
+
+                         </div>       
+
+                          </div>
+
+                
+
 
                             <p>f) <strong class="CorAzulEstadoEscuro">Endereçamento de blocados:</strong> Para blocados, o endereçamento corresponde ao endereço de um bairro só de casas, ou seja, não haveria a necessidade de indicar o nível e tampouco o vão. É necessário endereçar apenas a área, a rua e o número da posição do palete, conforme a Figura abaixo.
 
@@ -1757,63 +2010,228 @@ include('layout/header.php');
                             <!-- SubSubTitulo -->
                             <p class="SubSubTitulo"> Preparação e realização do inventário:</p>
                             <hr>
+<!-- alterado -->
+                            <p><strong>Um bom planejamento e preparação para inventário é imprescindível para a obtenção de bons resultados. Deverá ser providenciado:<</strong>/p>
+<!-- alterado end -->
 
-                            <p>Um bom planejamento e preparação para inventário é imprescindível para a obtenção de bons resultados. Deverá ser providenciado:</p>
-
-                            <p>a) Constituição da COMISSÃO PERMANENTE INVENTARIANTE – CPI por intermédio de Portaria expedida pelo dirigente do órgão definindo representantes de diversas áreas do órgão, que serão responsáveis pela coordenação geral dos inventários, a CPI deve ser composta por:</p>
-
+<!-- Início Accordion -->
+<div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse11" aria-expanded="false" aria-controls="flush-collapse11">
+                                        <strong>a) Constituição da COMISSÃO PERMANENTE INVENTARIANTE –</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse11" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> CPI por intermédio de Portaria expedida pelo dirigente do órgão definindo representantes de diversas áreas do órgão, que serão responsáveis pela coordenação geral dos inventários, a CPI deve ser composta por:</p>
+                                        
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Coordenadores de Procedimentos.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Coordenador de Equipes de Contagem.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Equipes de Contagem.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Coordenadores de Procedimentos.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Coordenador de Equipes de Contagem.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Equipes de Contagem.</li>
                             </ul>
 
-                            <p>b) Definição do Período de Realização do Inventário, com divulgação interna e externa de forma que as requisições de materiais sejam antecipadas e postergadas as agendas de recebimento.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            <p>c) Definição do tipo e da abrangência do inventário: Se o inventário é rotativo ou geral e qual o universo das contagens.</p>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse22" aria-expanded="false" aria-controls="flush-collapse22">
+                                        <strong>b) Definição do Período de Realização do Inventário</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse22" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Com divulgação interna e externa de forma que as requisições de materiais sejam antecipadas e postergadas as agendas de recebimento.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse33" aria-expanded="false" aria-controls="flush-collapse33">
+                                        <strong>c) Definição do tipo e da abrangência do inventário:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse33" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Se o inventário é rotativo ou geral e qual o universo das contagens.</p>
+                                        
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Só material de estoque, ou também;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> material de propriedade de terceiros em poder do órgão e;</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> materiais recebidos de fornecedores durante o processo de inventário.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Só material de estoque, ou também;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> material de propriedade de terceiros em poder do órgão e;</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> materiais recebidos de fornecedores durante o processo de inventário.</li>
                             </ul>
 
                             <p>Segundo a característica do universo da contagem deve haver procedimento diferenciado.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 03 -->
+                        <!-- Accordion 04 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse44" aria-expanded="false" aria-controls="flush-collapse44">
+                                        <strong>d) Definição do grau de acurácia do inventário</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse44" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>  Ou seja, o grau de aceitação da divergência, sem que este desvio seja efetivamente contabilizado como um erro ou diferença no sistema de controle de estoque. A determinação de um grau de tolerância reduz a necessidade de reconciliações e ajustes de saldo desnecessários, em contraste com a política de tolerância zero.</p>
+                                        <p>O grau de acurácia do inventário pode ser calculado com a seguinte fórmula, gerando um índice:</p>
 
-                            <p>d) Definição do grau de acurácia do inventário, ou seja, o grau de aceitação da divergência, sem que este desvio seja efetivamente contabilizado como um erro ou diferença no sistema de controle de estoque. A determinação de um grau de tolerância reduz a necessidade de reconciliações e ajustes de saldo desnecessários, em contraste com a política de tolerância zero.</p>
+<ul class="none Texto">
+    <li class="fa fa-arrow-right CorVerdeClaroEstado" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> “Registros Corretos” consiste no número de itens cujo estoque real contado foi igual ao número de itens registrados no Sistema de Controle de Almoxarifado; e,</li>
+    <liclass="fa fa-arrow-right CorVerdeClaroEstado" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> “Registros Contados” consiste no número de itens registrados no Sistema de Controle de Almoxarifado.</li>
+</ul>
 
-                            <p>O grau de acurácia do inventário pode ser calculado com a seguinte fórmula, gerando um índice:</p>
+<p>O índice de acurácia de 100% é o ideal e demonstra que não houve divergência entre registros contados e registros corretos.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 04 -->
+                        <!-- Accordion 05 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item05">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse55" aria-expanded="false" aria-controls="flush-collapse55">
+                                        <strong>e) Mobilização e treinamento das equipes de contagem:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse55" class="accordion-collapse collapse" aria-labelledby="Item05" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> É importante o bom dimensionamento do número de pessoas e equipes envolvidas na contagem física e que estejam familiarizadas com a identificação dos itens do estoque.</p>
 
-                            <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> “Registros Corretos” consiste no número de itens cujo estoque real contado foi igual ao número de itens registrados no Sistema de Controle de Almoxarifado; e,</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> “Registros Contados” consiste no número de itens registrados no Sistema de Controle de Almoxarifado.</li>
-                            </ul>
+                                        <p>Devem ser efetuadas reuniões preparatórias em todos os níveis, de forma a proceder os esclarecimentos de todos os procedimentos de contagem e treinamento das equipes.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 05 -->
+                         <!-- Accordion 06 -->
+                         <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item06">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse66" aria-expanded="false" aria-controls="flush-collapse66">
+                                        <strong>f) Preparação dos locais de contagens que devem estar identificados especificando</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse66" class="accordion-collapse collapse" aria-labelledby="Item06" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> qual o tipo de material ali existente. Deve também ser elaborado um leiaute do local de forma a facilitar à sua identificação, bem como o dimensionamento das equipes necessárias.</p>
 
-                            <p>O índice de acurácia de 100% é o ideal e demonstra que não houve divergência entre registros contados e registros corretos.</p>
+                                        <p>Os estoques devem ser arrumados com antecedência. Nos dias anteriores ao inventário o responsável pelo armazém deve proceder ao empilhamento adequado de caixas e agrupamento de itens que estejam espalhados, de modo a facilitar a sua identificação e contagem.</p>
 
-                            <p>e) Mobilização e treinamento das equipes de contagem: É importante o bom dimensionamento do número de pessoas e equipes envolvidas na contagem física e que estejam familiarizadas com a identificação dos itens do estoque.</p>
+                                        <p>Os materiais em processo de recebimento/devolução deverão estar em área específica e isolados dos materiais a serem inventariados (devidamente identificados).</p>
 
-                            <p>Devem ser efetuadas reuniões preparatórias em todos os níveis, de forma a proceder os esclarecimentos de todos os procedimentos de contagem e treinamento das equipes.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 06 -->
+                        <!-- Accordion 07 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse77" aria-expanded="false" aria-controls="flush-collapse77">
+                                        <strong>f) Preparação dos locais de contagens que devem estar identificados especificando</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse77" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> serão suspensas durante o período do inventário, afim de não prejudicar as contagens.</p>
 
-                            <p>f) Preparação dos locais de contagens que devem estar identificados especificando, qual o tipo de material ali existente. Deve também ser elaborado um leiaute do local de forma a facilitar à sua identificação, bem como o dimensionamento das equipes necessárias.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 07 -->
+                        <!-- Accordion 08 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item08">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse88" aria-expanded="false" aria-controls="flush-collapse88">
+                                        <strong>h) Disponibilização do meio de registro das contagens</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse88" class="accordion-collapse collapse" aria-labelledby="Item08" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Salvo poucas exceções, o meio de registro será cartão com partes destacáveis para até três contagens, conforme figura .... Se necessário, os cartões poderão ser impressos em cores distintas para identificar diferentes tipos de estoque. Para os órgão que executam o controle de estoque por intermédio do SIGA, os cartões são substituídos por listagens de computador. As informações básicas além dos espaços reservados para as três contagens são: localização, descrição do material, código,unidade e data do inventário.</p>
 
-                            <p>Os estoques devem ser arrumados com antecedência. Nos dias anteriores ao inventário o responsável pelo armazém deve proceder ao empilhamento adequado de caixas e agrupamento de itens que estejam espalhados, de modo a facilitar a sua identificação e contagem.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura143.png" data-bs-toggle="modal" data-bs-target="#Imagem00">
+                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura143.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 129: Representação da  Ficha de Inventário</strong></p>
+                        </div>
 
-                            <p>Os materiais em processo de recebimento/devolução deverão estar em área específica e isolados dos materiais a serem inventariados (devidamente identificados).</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem00" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura143.png" alt="Alt da imagem fica aqui">                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura143.png" alt="Alt da imagem fica aqui">
 
-                            <p>g) As movimentações de materiais no Sistema de Controle de Estoque serão suspensas durante o período do inventário, afim de não prejudicar as contagens.</p>
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <p>h) Disponibilização do meio de registro das contagens, salvo poucas exceções, o meio de registro será cartão com partes destacáveis para até três contagens, conforme figura .... Se necessário, os cartões poderão ser impressos em cores distintas para identificar diferentes tipos de estoque. Para os órgão que executam o controle de estoque por intermédio do SIGA, os cartões são substituídos por listagens de computador. As informações básicas além dos espaços reservados para as três contagens são: localização, descrição do material, código,unidade e data do inventário.</p>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
-                            <p>i) Todo item do estoque sujeito ao inventário será contado necessariamente duas vezes. A primeira contagem é realizada pela 1ª equipe, a qual pode efetuá-la imediatamente após ter fixado no lote o cartão de inventário. Feitas as anotações de contagem na primeira parte do cartão, o executor da contagem o entregará ao responsável pela coordenação do inventário. A segunda equipe analogamente registrará o resultado da sua contagem na segunda parte do cartão, entregando-a ao responsável pela coordenação do inventário. Se a primeira contagem conferir com a segunda contagem, o inventário para este item está correto; no caso de não conferir, faz-se necessário uma terceira contagem por outra equipe, diferente das que contaram anteriormente. A tala identificadora do lote permanecerá afixada ao material como prova de que ele foi contado. Esta poderá ser retirada após o término do inventário.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 08 -->
+                        <!-- Accordion 09 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item09">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse99" aria-expanded="false" aria-controls="flush-collapse99">
+                                        <strong>i) Todo item do estoque sujeito ao inventário</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse99" class="accordion-collapse collapse" aria-labelledby="Item09" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Será contado necessariamente duas vezes. A primeira contagem é realizada pela 1ª equipe, a qual pode efetuá-la imediatamente após ter fixado no lote o cartão de inventário. Feitas as anotações de contagem na primeira parte do cartão, o executor da contagem o entregará ao responsável pela coordenação do inventário. A segunda equipe analogamente registrará o resultado da sua contagem na segunda parte do cartão, entregando-a ao responsável pela coordenação do inventário. Se a primeira contagem conferir com a segunda contagem, o inventário para este item está correto; no caso de não conferir, faz-se necessário uma terceira contagem por outra equipe, diferente das que contaram anteriormente. A tala identificadora do lote permanecerá afixada ao material como prova de que ele foi contado. Esta poderá ser retirada após o término do inventário.</p>
 
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 09 -->
+                        </div><br><br>
+                        <!-- FIM Accordion -->
+                           
                             <!-- SubSubTitulo -->
                             <p class="SubSubTitulo"> Conciliações e Ajustes</p>
                             <hr>
 
                             <p>O setor ou responsável envolvido no controle de estoque deverá providenciar justificativas para as variações ocorridas entre o estoque contábil e o inventariado. O departamento administrativo e financeiro providenciará a valorização do inventário em um mapa chamado “Controle das Diferenças de Inventário” como se vê na figura 85, será assim, efetuada a somatória dos valores contábil, físico, diferenças “a mais”, diferenças “a menos” e diferença global. Dentro da política da organização, os percentuais de diferenças podem ser aceitos ou não. Como regra geral para os itens classe A (de maior valor), não devem ser aceitos ajustes de inventário, procurando sempre justificar o motivo da diferença.</p>
-
+                       
+                            <div class="ImportanteCaixa">
+                            <p class="ImportanteTitulo"> Importante</p>
+                            <div class="ImportanteTexto">
                             <p>Após aprovado o ajuste do inventário, o Controle de Estoque emitirá a relação autorizando os devidos ajustes.</p>
+
+                            </div>
+                        </div>
+                        <br><br>
+                        
+                            
+                     
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
@@ -1838,7 +2256,7 @@ include('layout/header.php');
                                 </div>
                             </div>
                             <!-- Figura 01 - End -->
-
+<!-- nao alterado end -->
 
 
 
