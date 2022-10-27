@@ -37,7 +37,7 @@ include('layout/header.php');
                             <!-- INICIO CONTEUDO -->
 
                             <!-- Título -->
-                            <h2 class="Titulo">Controle de Estoque e Ressuprimento de Materiais</h2>
+                            <h2 class="Titulo">Controle de Estoque e Ressuprimento de Materiais oi</h2>
                             <hr>
 
                             <div class="bd-callout bd-callout-primary">
