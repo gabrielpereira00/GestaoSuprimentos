@@ -1666,181 +1666,923 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                             
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo">A Importância da Adoção de Um Sistema de Movimentação e Manuseio</p>
+                            <p class="SubTitulo" id="top5-nine" >A Importância da Adoção de Um Sistema de Movimentação e Manuseio</p>
                             <hr>
 
                             <p>Para que haja a transformação em um processo produtivo seja de um bem ou de um serviço, geralmente estão envolvidos três elementos que se movimentam no processo: homem, equipamento e material. Se não ocorrer essa movimentação não se pode pensar em termos de processo produtivo.</p>
 
+                            <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura84.png" data-bs-toggle="modal" data-bs-target="#Imagem33">
+                                <img class="img-fluid" src="imagens/Figura84.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 73: Representação da Relação Homem, Equipamento e Material</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem33" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura84.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
                             <p>Na maioria dos processos produtivos, o material é o elemento que se movimenta com maior intensidade, com exceção da construção de aviões, navios e equipamentos pesados, onde o homem e o equipamento convergem para o material e esses é que se movimentam.</p>
 
-                            <p>A movimentação e o transporte de material ocorrem de acordo com alguns elementos funcionais que darão a forma e a necessidade de equipamentos para operacionalizar tal movimentação, são estes:</p>
+                            <p><strong> A movimentação e o transporte de material ocorrem de acordo com alguns elementos funcionais que darão a forma e a necessidade de equipamentos para operacionalizar tal movimentação, são estes:</strong></p>
 
-                            <p>a) Granel: Também denominada de graneis, é aquele material que não é acondicionado em qualquer tipo de embalagem. Abrange os métodos e equipamentos de transportes usados desde a extração, até o armazenamento em toda a espécie de material a granel. Os graneis são cargas que necessitam ser individualizadas, subdividindo-se em graneis sólidos e graneis líquidos. São graneis sólidos: os minérios de ferro, manganês, bauxita, carvão, sal, trigo, soja, fertilizantes, etc. São graneis líquidos: o petróleo e seus subprodutos, óleos vegetais, etc.</p>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseone" aria-expanded="false" aria-controls="flush-collapseone">
+                                        <strong>a) Granel:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseone" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Também denominada de graneis, é aquele material que não é acondicionado em qualquer tipo de embalagem. Abrange os métodos e equipamentos de transportes usados desde a extração, até o armazenamento em toda a espécie de material a granel. Os graneis são cargas que necessitam ser individualizadas, subdividindo-se em graneis sólidos e graneis líquidos. São graneis sólidos: os minérios de ferro, manganês, bauxita, carvão, sal, trigo, soja, fertilizantes, etc. São graneis líquidos: o petróleo e seus subprodutos, óleos vegetais, etc.</p>
 
-                            <p>b) Cargas Unitárias: O critério de carga unitária baseia-se na constante necessidade de racionalização do espaço útil de armazenamento, com o máximo aproveitamento do conceito de cubagem. Porém, aliada à racionalização do espaço, a carga unitária favorece sobremaneira a boa movimentação do material, a rapidez de carga e descarga e, consequentemente, a redução dos custos. Aplicada exclusivamente às chamadas cargas gerais, consiste na reunião de certa quantidade de volumes isolados em uma única unidade de carga, com dimensões padronizadas ou não, cuja movimentação é feita por meios mecânicos. A mágica produzida pela carga unitária é elementar. Ao se reacomodar a carga solta em carga unitária, são palpáveis os ganhos de produtividade em tempo, espaço e custos que se podem obter mediante a utilização de pallets, conteineres, lingas, contentores flexíveis ou sapatas - os métodos mais empregados. Transformando pequenos volumes heterogêneos em grandes volumes homogêneos, a carga unitária facilita toda a sequencia de operações, desde a empresa produtora até o importador.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura85.png" data-bs-toggle="modal" data-bs-target="#Imagem35">
+                                <img class="img-fluid" src="imagens/Figura85.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 74: Representação dos Granéis</strong></p>
+                        </div>
 
-                            <p>c) Embalagem: A embalagem é um recipiente ou envoltura que armazena produtos temporariamente, individualmente ou agrupando unidades, tendo como principal função protegê-lo e estender o seu prazo de vida (shelf life), viabilizando sua distribuição, identificação e consumo.</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem35" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura85.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <p>A embalagem tornou-se ferramenta crucial para atender à sociedade em suas necessidades de alimentação, saúde, conveniência, disponibilizando produtos com segurança e informação para o bem estar das pessoas, possibilitando a acessibilidade a produtos frágeis, perecíveis, de alto ou baixo valor agregado.</p>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
-                            <p>Frente ao ambiente de mercado competitivo, a embalagem tornou-se estratégica para a competitividade dos negócios no que diz respeito à eficiência de envase, distribuição e venda.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            <p>Frente ao crescimento populacional do planeta, a embalagem tornou-se essencial para otimizar o aproveitamento dos alimentos e insumos demandados pela sociedade e para reduzir o desperdício global.</p>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsetwo" aria-expanded="false" aria-controls="flush-collapsetwo">
+                                        <strong>b) Cargas Unitárias:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> O critério de carga unitária baseia-se na constante necessidade de racionalização do espaço útil de armazenamento, com o máximo aproveitamento do conceito de cubagem. Porém, aliada à racionalização do espaço, a carga unitária favorece sobremaneira a boa movimentação do material, a rapidez de carga e descarga e, consequentemente, a redução dos custos. Aplicada exclusivamente às chamadas cargas gerais, consiste na reunião de certa quantidade de volumes isolados em uma única unidade de carga, com dimensões padronizadas ou não, cuja movimentação é feita por meios mecânicos. A mágica produzida pela carga unitária é elementar. Ao se reacomodar a carga solta em carga unitária, são palpáveis os ganhos de produtividade em tempo, espaço e custos que se podem obter mediante a utilização de pallets, conteineres, lingas, contentores flexíveis ou sapatas - os métodos mais empregados. Transformando pequenos volumes heterogêneos em grandes volumes homogêneos, a carga unitária facilita toda a sequencia de operações, desde a empresa produtora até o importador.</p>
 
-                            <p>d) Armazenamento:O armazenamento nada mais é do que um conjunto de funções que tem nele a recepção, descarga, carregamento, arrumação e conservação de um produto ou material, em qualquer fase do seu processamento ou na sua distribuição. Este processo envolve mercadorias, e apenas produz resultados quando é realizada uma operação com o objetivo de lhe acrescentar valor.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura86.png" data-bs-toggle="modal" data-bs-target="#Imagem36">
+                                <img class="img-fluid" src="imagens/Figura86.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 75: Representação das Cargas Unitárias</strong></p>
+                        </div>
 
-                            <p>e) Vias de Transporte: Abrange o estudo do carregamento, definição do modal de transporte, desembarque e transferência de qualquer tipo de material nos terminas das vias de transporte, ou seja, portos, aeroportos, ferrovias e rodovias.</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem36" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura86.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <p>f) Análise de Dados: Nessa área estão contidos todos os aspectos analíticos da movimentação de materiais, tais como: levantamento de rotas de transporte, disposição física de equipamentos, organização, treinamento, segurança, manutenção, padronização, análise de custos e outras técnicas para desenvolvimento de um sistema de movimentação de materiais.</p>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsethree" aria-expanded="false" aria-controls="flush-collapsethree">
+                                        <strong>c) Embalagem:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapsethree" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>A embalagem é um recipiente ou envoltura que armazena produtos temporariamente, individualmente ou agrupando unidades, tendo como principal função protegê-lo e estender o seu prazo de vida (shelf life), viabilizando sua distribuição, identificação e consumo.</p>
+                                        <p>A embalagem tornou-se ferramenta crucial para atender à sociedade em suas necessidades de alimentação, saúde, conveniência, disponibilizando produtos com segurança e informação para o bem estar das pessoas, possibilitando a acessibilidade a produtos frágeis, perecíveis, de alto ou baixo valor agregado.</p>
+
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura87.png" data-bs-toggle="modal" data-bs-target="#Imagem37">
+                                <img class="img-fluid" src="imagens/Figura87.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 76: Representação da Embalagem de Produtos</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem37" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura87.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                        
+                        <p>Frente ao ambiente de mercado competitivo, a embalagem tornou-se estratégica para a competitividade dos negócios no que diz respeito à eficiência de envase, distribuição e venda.</p>
+
+                        <p>Frente ao crescimento populacional do planeta, a embalagem tornou-se essencial para otimizar o aproveitamento dos alimentos e insumos demandados pela sociedade e para reduzir o desperdício global.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 03 -->
+                         <!-- Accordion 04 -->
+                         <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefour" aria-expanded="false" aria-controls="flush-collapsefour">
+                                        <strong>d) Armazenamento:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapsefour" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Armazenamento: O armazenamento nada mais é do que um conjunto de funções que tem nele a recepção, descarga, carregamento, arrumação e conservação de um produto ou material, em qualquer fase do seu processamento ou na sua distribuição. Este processo envolve mercadorias, e apenas produz resultados quando é realizada uma operação com o objetivo de lhe acrescentar valor.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura88.jpg" data-bs-toggle="modal" data-bs-target="#Imagem38">
+                                <img class="img-fluid" src="imagens/Figura88.jpg" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 77: Representação do Armazenamento</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem38" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura88.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 04 -->
+                        <!-- Accordion 05 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item05">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefive" aria-expanded="false" aria-controls="flush-collapsefive">
+                                        <strong>e) Vias de Transporte:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapsefive" class="accordion-collapse collapse" aria-labelledby="Item05" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Abrange o estudo do carregamento, definição do modal de transporte, desembarque e transferência de qualquer tipo de material nos terminas das vias de transporte, ou seja, portos, aeroportos, ferrovias e rodovias.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura89.png" data-bs-toggle="modal" data-bs-target="#Imagem39">
+                                <img class="img-fluid" src="imagens/Figura89.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 78: Representação das Vias de Transporte</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem39" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura89.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 05 -->
+                        <!-- Accordion 06 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item06">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsesix" aria-expanded="false" aria-controls="flush-collapsesix">
+                                        <strong>f) Análise de Dados:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapsesix" class="accordion-collapse collapse" aria-labelledby="Item06" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Nessa área estão contidos todos os aspectos analíticos da movimentação de materiais, tais como: levantamento de rotas de transporte, disposição física de equipamentos, organização, treinamento, segurança, manutenção, padronização, análise de custos e outras técnicas para desenvolvimento de um sistema de movimentação de materiais.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- Accordion 06 -->
+                        </div><br><br>
+                        <!-- FIM Accordion -->
+
+                        
 
                             <p>Em todos esses elementos funcionais influenciam o transporte e movimentação de materiais a questão de ordem é o custo, por que este influi sobremaneira no produto, afetando diretamente o seu custo final ao consumidor. Quando um acréscimo de custo agrega valor ao produto como no caso de uma instalação ou assistência técnica, este custo se torna aceitável, mas no caso do custo de movimentação, este não contribui em nada, podendo só ser barateado com uma seleção adequada do método mais compatível à sua natureza e ao regime de produção.</p>
 
                             <p>Se considerarmos a movimentação de materiais como um problema segmentado, separado dos demais (como estudamos na primeira fase da cadeia de suprimentos no início desta disciplina) podemos concluir que a simples redução dos trajetos percorridos pelo material em suas diversas etapas, do estoque à expedição, constituiria a solução ideal. Quando se pensa em termos macro considerando o conceito de gestão de cadeia de suprimentos, porém, esta solução simplista pode acarretar ociosidade de homens e equipamentos em determinadas estações de trabalho, anulando por completo o objetivo com reflexos no custo final ao consumidor.</p>
 
-                            <p>A adoção de um sistema de movimentação de materiais em qualquer componente da cadeia de suprimentos deve atender a quatro finalidades básicas: redução de custos, aumento de produtividade, melhoria das condições de trabalho e melhor distribuição.</p>
+                            <p><strong> A adoção de um sistema de movimentação de materiais em qualquer componente da cadeia de suprimentos deve atender a quatro finalidades básicas: redução de custos, aumento de produtividade, melhoria das condições de trabalho e melhor distribuição.</strong></p>
 
-                            <ol type="a" class="Texto">
-                                <li><strong>Redução de Custos:</strong> Por intermédio da redução dos níveis de estoque e utilização mais vantajosa do espaço disponível, aplicando um sistema de movimentação de material pode-se reduzir os seguintes custos:</li>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse01" aria-expanded="false" aria-controls="flush-collapse01">
+                                        <strong>Redução de Custos:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse01" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Por intermédio da redução dos níveis de estoque e utilização mais vantajosa do espaço disponível, aplicando um sistema de movimentação de material pode-se reduzir os seguintes custos:</p>
 
-                                <ul class="none Texto">
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custos de Mão de Obra:</strong> A utilização dos equipamentos de manuseio vai implicar a substituição de mão de obra braçal pelos meios mecanizados, liberando-a para outros serviços mais especializados dentro da organização, serviços esses que vão exigir menos esforço físico do homem.</li>
-                                    </td>
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custos de Materiais: </strong>Com um melhor acondicionamento e um transporte mais racional, o custo de perdas durante a armazenagem e transporte é reduzido.</li>
-                                    </td>
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Despesas Gerais: </strong>Racionalizando-se os processos de transporte e estoque, também caem os custos de despesas gerais, pois fica muito mais fácil manter os locais limpos, evitando risco de acidente de trabalho.</li>
-                                    </td>
-                                </ul>
+                                    <ul class="none Texto">
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custos de Mão de Obra:</strong> A utilização dos equipamentos de manuseio vai implicar a substituição de mão de obra braçal pelos meios mecanizados, liberando-a para outros serviços mais especializados dentro da organização, serviços esses que vão exigir menos esforço físico do homem.</li>
+    </td>
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Custos de Materiais: </strong>Com um melhor acondicionamento e um transporte mais racional, o custo de perdas durante a armazenagem e transporte é reduzido.</li>
+    </td>
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Despesas Gerais: </strong>Racionalizando-se os processos de transporte e estoque, também caem os custos de despesas gerais, pois fica muito mais fácil manter os locais limpos, evitando risco de acidente de trabalho.</li>
+    </td>
+</ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                                <li> <strong>Aumento da Produtividade:</strong> A adoção de um sistema de movimentação de material não se limitará apenas a movimentar, encaixotar e armazenar como também executar essas funções tendo em conta um melhor aproveitamento do tempo e espaço disponíveis de modo a maximizar a produtividade total do armazém nos seguintes itens:</li>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse02" aria-expanded="false" aria-controls="flush-collapse02">
+                                        <strong>Aumento da Produtividade:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse02" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> A adoção de um sistema de movimentação de material não se limitará apenas a movimentar, encaixotar e armazenar como também executar essas funções tendo em conta um melhor aproveitamento do tempo e espaço disponíveis de modo a maximizar a produtividade total do armazém nos seguintes itens:</p>
 
-                                <ul class="none Texto">
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Maior giro do estoque total:</strong> Com a introdução métodos e equipamentos de movimentação de material mecanizados torna-se mais rápido o recebimento e a saída dos materiais favorecendo uma maior rotatividade do estoque total.</li>
-                                    </td>
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Maior Capacidade de armazenagem:</strong> Os equipamentos para empilhar permitem explorar ao máximo a altura dos galpões, aumentando assim a capacidade de estocagem. Permitem também um melhor acondicionamento, contribuindo para aumento do espaço.</li>
-                                    </td>
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Melhor distribuição da armazenagem:</strong> Com a utilização de dispositivos para formação de cargas unitárias é possível montar um sistema de armazenagem muito mais bem organizado, com aplicação de pallets, corredores, estantes, sistema de endereçamento, etc.</li>
-                                    </td>
-                                </ul>
+<ul class="none Texto">
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Maior giro do estoque total:</strong> Com a introdução métodos e equipamentos de movimentação de material mecanizados torna-se mais rápido o recebimento e a saída dos materiais favorecendo uma maior rotatividade do estoque total.</li>
+    </td>
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Maior Capacidade de armazenagem:</strong> Os equipamentos para empilhar permitem explorar ao máximo a altura dos galpões, aumentando assim a capacidade de estocagem. Permitem também um melhor acondicionamento, contribuindo para aumento do espaço.</li>
+    </td>
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Melhor distribuição da armazenagem:</strong> Com a utilização de dispositivos para formação de cargas unitárias é possível montar um sistema de armazenagem muito mais bem organizado, com aplicação de pallets, corredores, estantes, sistema de endereçamento, etc.</li>
+    </td>
+</ul>
 
-                                <br>
-                                <li><strong> Melhoria das condições de trabalho:</strong> A melhoria introduzida com a adoção de sistemas de movimentação de cargas reflete-se também em melhores condições para o pessoal que trabalha no armazém. Com o uso de dispositivos destinados às cargas unitárias e a aplicação de equipamentos de manuseio, o risco de acidentes durante as operações é reduzido, desde que o sistema seja utilizado corretamente. Quando o manuseio de cargas é feito por máquinas, libera-se o homem para serviços menos mais especializados. Ao mesmo tempo, os que continuam trabalhando em serviços de movimentação de materiais trabalham com maior conforto reduzindo a fadiga, pois o equipamento faz o esforço pelo homem.</li>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
-                                <br>
-                                <li> <strong>Melhor distribuição: </strong> distribuição como uma atividade global na cadeia de suprimentos, inicia na preparação do produto e termina no consumidor final, é grandemente melhorada com a racionalização dos sistemas de movimentação e manuseio:</li>
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse03" aria-expanded="false" aria-controls="flush-collapse03">
+                                        <strong> Melhoria das condições de trabalho:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse03" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> A melhoria introduzida com a adoção de sistemas de movimentação de cargas reflete-se também em melhores condições para o pessoal que trabalha no armazém. Com o uso de dispositivos destinados às cargas unitárias e a aplicação de equipamentos de manuseio, o risco de acidentes durante as operações é reduzido, desde que o sistema seja utilizado corretamente. Quando o manuseio de cargas é feito por máquinas, libera-se o homem para serviços menos mais especializados. Ao mesmo tempo, os que continuam trabalhando em serviços de movimentação de materiais trabalham com maior conforto reduzindo a fadiga, pois o equipamento faz o esforço pelo homem.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 03 -->
+                        <!-- Accordion 04 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse04" aria-expanded="false" aria-controls="flush-collapse04">
+                                        <strong>Melhor distribuição:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse04" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>distribuição como uma atividade global na cadeia de suprimentos, inicia na preparação do produto e termina no consumidor final, é grandemente melhorada com a racionalização dos sistemas de movimentação e manuseio:</p>
 
-                                <ul class="none Texto">
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Melhoria na circulação:</strong> Com a criação de corredores bem definidos, e com endereçamento fácil e equipamentos eficientes, a circulação das mercadorias dentro dos armazéns ao longo da cadeia de suprimentos é sensivelmente melhorada. Quando se integra a unidade produtora com unidades regionais de armazenagem de produtos acabados, para distribuição aos pontos de venda, a utilização de métodos altamente eficientes de carga e descarga de mercadorias, bem como de estocagem, traz como consequência a melhor circulação entre estes pontos.</li>
-                                    </td>
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Localização estratégica de almoxarifado:</strong> Como dito no item anterior, a aplicação de sistemas de manuseio torna viável a criação de pontos de armazenagem em vários locais avançados e que estejam colocados estrategicamente próximos aos consumidores. Tudo isso só é possível graças à utilização de equipamentos de movimentação e armazenagem, pois o uso de cargas unitárias minimiza os custos do processo.</li>
-                                    </td>
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Melhoria dos serviços aos consumidores:</strong> Estando as mercadorias muito mais próxima aos centros consumidores, a chegada até o usuário final torna-se mais rápida, como menos riscos de deterioração ou quebra e menor custo; ou seja, o consumidor pode adquirir as mercadorias em melhor estado por melhores preços.</li>
-                                    </td>
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Maior disponibilidade:</strong> Da mesma forma, haverá sempre maior disponibilidade de produtos em cada região.</li>
-                                    </td>
-                                </ul>
-                            </ol>
+<ul class="none Texto">
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Melhoria na circulação:</strong> Com a criação de corredores bem definidos, e com endereçamento fácil e equipamentos eficientes, a circulação das mercadorias dentro dos armazéns ao longo da cadeia de suprimentos é sensivelmente melhorada. Quando se integra a unidade produtora com unidades regionais de armazenagem de produtos acabados, para distribuição aos pontos de venda, a utilização de métodos altamente eficientes de carga e descarga de mercadorias, bem como de estocagem, traz como consequência a melhor circulação entre estes pontos.</li>
+    </td>
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Localização estratégica de almoxarifado:</strong> Como dito no item anterior, a aplicação de sistemas de manuseio torna viável a criação de pontos de armazenagem em vários locais avançados e que estejam colocados estrategicamente próximos aos consumidores. Tudo isso só é possível graças à utilização de equipamentos de movimentação e armazenagem, pois o uso de cargas unitárias minimiza os custos do processo.</li>
+    </td>
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Melhoria dos serviços aos consumidores:</strong> Estando as mercadorias muito mais próxima aos centros consumidores, a chegada até o usuário final torna-se mais rápida, como menos riscos de deterioração ou quebra e menor custo; ou seja, o consumidor pode adquirir as mercadorias em melhor estado por melhores preços.</li>
+    </td>
+    <br>
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Maior disponibilidade:</strong> Da mesma forma, haverá sempre maior disponibilidade de produtos em cada região.</li>
+    </td>
+</ul>
+</ol>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 04 -->
+                        </div><br><br>
+                        <!-- FIM Accordion -->
+
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo"> Tipos de movimentação e suas características:</p>
+                            <p class="SubTitulo" id="top5-ten"> Tipos de movimentação e suas características:</p>
                             <hr>
 
-                            <p>Os principais tipos de movimentação em um armazém são:</p>
+                            <p><strong> Os principais tipos de movimentação em um armazém são:</strong></p>
 
-                            <p>a) <strong class="CorAzulEstadoEscuro">Recebimento:</strong> Mercadorias e materiais chegam, normalmente, ao armazém em quantidades maiores do que as expedidas. A primeira atividade de movimentação é a descarga de veículos. Na maioria dos armazéns, ela é manual. Entretanto, têm sido desenvolvidos métodos mecanizados e parcialmente automatizados capazes de adaptar-se às diferentes características dos produtos.</p>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne001" aria-expanded="false" aria-controls="flush-collapseOne001">
+                                        <strong>a) Recebimento:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne001" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Mercadorias e materiais chegam, normalmente, ao armazém em quantidades maiores do que as expedidas. A primeira atividade de movimentação é a descarga de veículos. Na maioria dos armazéns, ela é manual. Entretanto, têm sido desenvolvidos métodos mecanizados e parcialmente automatizados capazes de adaptar-se às diferentes características dos produtos.</p>
 
-                            <p>Geralmente, a descarga é feita por uma ou duas pessoas. Os produtos são empilhados, manualmente, em paletes ou em “slip sheet” para formar uma unidade a ser movimentada. Em alguns casos, esteiras transportadoras são usadas para descarregar os veículos mais rapidamente. Dessa forma, maior quantidade de mercadorias pode ser descarregada dos veículos para entrada no armazém.</p>
+                                    <p>Geralmente, a descarga é feita por uma ou duas pessoas. Os produtos são empilhados, manualmente, em paletes ou em “slip sheet” para formar uma unidade a ser movimentada. Em alguns casos, esteiras transportadoras são usadas para descarregar os veículos mais rapidamente. Dessa forma, maior quantidade de mercadorias pode ser descarregada dos veículos para entrada no armazém.</p>
+                                    <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura90.png" data-bs-toggle="modal" data-bs-target="#Imagem40">
+                                <img class="img-fluid" src="imagens/Figura90.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 79: Representação da Esteira Usada para Carregamento e Descarregamento de Veículos
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem40" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura90.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura91.jpg" data-bs-toggle="modal" data-bs-target="#Imagem41">
+                                <img class="img-fluid" src="imagens/Figura91.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 80: Representação da Carga Unitária Usando Slip Sheet </strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem41" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura91.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo002" aria-expanded="false" aria-controls="flush-collapseTwo002">
+                                        <strong>b) Manuseio Interno:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo002" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> O manuseio interno inclui toda e qualquer movimentação dos produtos dentro do armazém. Após o recebimento dos materiais, é necessária sua transferência interna para colocá-los em locais de armazenagem ou para separar pedidos. Finalmente, quando os pedidos são recebidos, os produtos solicitados são acumulados e transportados para a área de expedição. Existem dois tipos de manuseio dentro do armazém: <strong>transferência e separação.</strong> </p>
+
+<ul class="none Texto">
+    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Transferência:</strong> Existem pelo menos duas transferências em armazéns tradicionais. Primeiramente, as mercadorias são levadas para dentro do armazém e colocadas no local previamente determinado. Depois, os produtos são transferidos para a área de separação ou seleção à medida que são processados as requisições.</td>
+
+    <br><br><span class="wow fadeInDown" data-wow-delay="0.6s">Essa segunda movimentação pode ser suprimida quando as mercadorias possuem elevado peso e/ou volume. Na transferência final, os sortimentos de produtos solicitados pelos requisitantes são levados, diretamente, do armazém para a área de expedição.
+        </li>
+        <!-- Titulo Figura -->
+        <div class="text-center">
+                            <a href="imagens/Figura94.jpg" data-bs-toggle="modal" data-bs-target="#Imagem42">
+                                <img class="img-fluid" src="imagens/Figura94.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 81: Representação da Transferência para Área de Estocagem com Uso de Empilhadeira</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem42" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura94.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+        <br>
+        <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Separação:</strong> A separação dos produtos é uma função básica de armazenagem. O processo agrupa materiais, peças e produtos de acordo com as requisições dos solicitantes. Geralmente, a área de separação é localizada em um ponto do armazém que minimiza as distâncias a serem percorridas.</li>
+        </td>
+</ul>
+<!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura95.png" data-bs-toggle="modal" data-bs-target="#Imagem43">
+                                <img class="img-fluid" src="imagens/Figura95.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 82: Representação do Operador Efetuando a Separação de Requisições
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem43" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura95.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree003" aria-expanded="false" aria-controls="flush-collapseThree003">
+                                        <strong>c) Expedição: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseThree003" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> A expedição consiste, basicamente, na verificação e no carregamento das mercadorias nos veículos. Como no recebimento, a expedição é realizada, manualmente, na maioria dos sistemas. A expedição de cargas unitárias está se tornando cada vez mais comum porque, dessa forma, o tempo de carregamento de veículos pode ser reduzido consideravelmente.</p>
+                                    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura95.jpg" data-bs-toggle="modal" data-bs-target="#Imagem44">
+                                <img class="img-fluid" src="imagens/Figura96.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 83: Representação dos Operadores Efetuando Carregamento na Forma de Carga Unitária </strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem44" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura96.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div><br><br>
+                        <!-- Accordion 03 -->
+                        <!-- FIM Accordion -->
+
+                            
 
 
-                            <p>b) <strong class="CorAzulEstadoEscuro">Manuseio Interno:</strong> O manuseio interno inclui toda e qualquer movimentação dos produtos dentro do armazém. Após o recebimento dos materiais, é necessária sua transferência interna para colocá-los em locais de armazenagem ou para separar pedidos. Finalmente, quando os pedidos são recebidos, os produtos solicitados são acumulados e transportados para a área de expedição. Existem dois tipos de manuseio dentro do armazém: transferência e separação.</p>
 
-                            <ul class="none Texto">
-                                <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Transferência:</strong> Existem pelo menos duas transferências em armazéns tradicionais. Primeiramente, as mercadorias são levadas para dentro do armazém e colocadas no local previamente determinado. Depois, os produtos são transferidos para a área de separação ou seleção à medida que são processados as requisições.</td>
-
-                                <br><br><span class="wow fadeInDown" data-wow-delay="0.6s">Essa segunda movimentação pode ser suprimida quando as mercadorias possuem elevado peso e/ou volume. Na transferência final, os sortimentos de produtos solicitados pelos requisitantes são levados, diretamente, do armazém para a área de expedição.
-                                    </li>
-
-                                    <br>
-                                    <td><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Separação:</strong> A separação dos produtos é uma função básica de armazenagem. O processo agrupa materiais, peças e produtos de acordo com as requisições dos solicitantes. Geralmente, a área de separação é localizada em um ponto do armazém que minimiza as distâncias a serem percorridas.</li>
-                                    </td>
-                            </ul>
-
-                            <p>c) <strong class="CorAzulEstadoEscuro">Expedição:</strong> A expedição consiste, basicamente, na verificação e no carregamento das mercadorias nos veículos. Como no recebimento, a expedição é realizada, manualmente, na maioria dos sistemas. A expedição de cargas unitárias está se tornando cada vez mais comum porque, dessa forma, o tempo de carregamento de veículos pode ser reduzido consideravelmente.</p>
+                           
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo"> Premissas para facilitar a movimentação de materiais:</p>
+                            <p class="SubTitulo" id="top5-eleven"> Premissas para facilitar a movimentação de materiais:</p>
                             <hr>
 
-                            <p>Para que um sistema de movimentação de materiais seja eficiente, existem algumas premissas que dentro das possibilidades, devem ser levadas em consideração. São elas:</p>
+                            <p><strong> Para que um sistema de movimentação de materiais seja eficiente, existem algumas premissas que dentro das possibilidades, devem ser levadas em consideração. São elas:</strong></p>
 
-                            <table class="table table-bordered" style="border-color: #56a7b2;">
-                                <tbody>
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Obediência ao fluxo das operações:</strong> Disponha a trajetória dos materiais de forma que a mesma seja a sequência das operações, ou seja utilize sempre, dentro do possível um arranjo linear. Não deve haver desvios que não agregam valor ao produto, redundando, apenas, em perda de produtividade.</td>
-                                    </tr>
+                            <!-- Figura do lado do texto-->
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> a) Obediência ao fluxo das operações:</strong> Disponha a trajetória dos materiais, de forma que a mesma seja a sequência das operações, ou seja, utilize sempre, dentro do possível, um arranjo linear. Não deve haver desvios que não agregam valor ao produto, redundando apenas em perda de produtividade. </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura96.png" data-bs-toggle="modal" data-bs-target="#Imagem45">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura96.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 84: Representação da Trajetória dos Materiais
+</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem45" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura96.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Mínima distância:</strong> Reduza as distâncias e transporte pela eliminação de ziguezagues no fluxo de materiais. Quanto menores forem as distâncias percorridas, tanto menor a chance de ocorrerem erros e conseqüente perda de eficiência.</td>
-                                    </tr>
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Mínima manipulação:</strong> Reduza a frequência de transporte manual. O transporte mecânico custa menos que as operações manuais de carga e descarga, levantamento e armazenamento. Evite manipular os materiais tanto oquanto possível ao longo do ciclo de processamento. Assim como a mínima distância, quanto menos se manipula, menor a chance de erros.</td>
-                                    </tr>
+                        <!-- Figura do lado do texto-->
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> b)Mínima distância:</strong> Reduza as distâncias e transporte pela eliminação de ziguezagues no fluxo de materiais. Quanto menores forem as distâncias percorridas, menor a chance de ocorrerem erros, e consequente perda de eficiência. </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura97.png" data-bs-toggle="modal" data-bs-target="#Imagem46">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura97.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 85: Representação da Distância no Fluxo de Materiais
+</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem46" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura97.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Segurança e satisfação:</strong> Leve sempre em conta a segurança dos operadores e do pessoal circulante, quando selecionar os equipamentos de transporte de materiais. Como a mão de obra é um elemento importante do sistema, funcionários seguros e satisfeitos tendem a ter maior produtividade.</td>
-                                    </tr>
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Padronização:</strong> Use equipamento padronizado na medida do possível. O custo inicial é mais baixo, a manutenção é mais fácil e mais barata e a utilização desse equipamento é mais variada por ser mais flexível que equipamentos especializados. Quando se faz a padronização dos equipamentos, reduz-se a quantidade de peças de reposição em estoque, diminuindo o capital imobilizado e o custo do sistema.</td>
-                                    </tr>
+                        
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Flexibilidade:</strong> O valor de determinado equipamento para o usuário é proporcional à sua flexibilidade, isto é, capacidade de satisfazer ao transporte de vários tipos de carga, em condições variadas de trabalho. O sistema deve ter flexibilidade para poder manusear diferentes tipos de materiais, para que não haja necessidade de novos investimentos a qualquer mudança operacional.</td>
-                                    </tr>
+                        <!-- Figura do lado do texto-->
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> c) Mínima manipulação:</strong> Reduza a frequência de transporte manual. O transporte mecânico custa menos que as operações manuais de carga e descarga, levantamento e armazenamento. Evite manipular os materiais tanto quanto possível ao longo do ciclo de processamento. Assim como a mínima distância: quanto menos se manipula, menor a chance de erros. </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura98.png" data-bs-toggle="modal" data-bs-target="#Imagem47">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura98.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 86: Representação da Mínima Manipulação
+</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem47" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura98.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Máxima utilização do equipamento:</strong> Mantenha o equipamento ocupado tanto o quanto possível. Evite acúmulo de materiais nos terminais do ciclo de transporte. Se não puder manter o equipamento de baixo investimento, mantenha o quociente tão baixo o quanto possível (1/4 é considerado o ideal). Quando se utilizam, ao máximo, os equipamentos, o capital investido é plenamente empregado e dá mais retorno ao investimento.</td>
-                                    </tr>
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                                </div>
+                        </div>
+                                <!-- Figura do lado do texto-->
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> d) Segurança e satisfação: </strong> Leve sempre em conta a segurança dos operadores e do pessoal circulante, quando selecionar os equipamentos de transporte de materiais. Como a mão de obra é um elemento importante do sistema, funcionários seguros e satisfeitos tendem a ter maior produtividade. 
+ </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura99.png" data-bs-toggle="modal" data-bs-target="#Imagem48">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura99.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 87: Representação da Segurança e Satisfação dos Operadores
+</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem48" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura99.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Máxima utilização da gravidade:</strong> Use a gravidade sempre que possível. Pequenos trechos motorizados de transportadores podem elevar a carga a uma altura conveniente para suprir trechos longos de transporte por gravidade. A gravidade é uma energia gratuita. Assim, quanto mais tirarmos proveito dela, tanto mais eficiente será o manuseio.</td>
-                                    </tr>
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Máxima utilização do espaço disponível:</strong> Use o espaço vertical sempre que possível. Empilhe cargas ou utilize suportes especiais para isso. A racionalização do espaço disponível, com a preocupação de facilitar o trânsito de equipamentos de movimentação, melhora a eficiência do sistema.</td>
-                                    </tr>
+                         <!-- Figura do lado do texto-->
+                         <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> e)  Padronização:</strong> Use equipamento padronizado na medida do possível. O custo inicial é mais baixo, a manutenção é mais fácil e mais barata, e a utilização desse equipamento é mais variada por ser mais flexível que equipamentos especializados. Quando se faz a padronização dos equipamentos, reduz-se a quantidade de peças de reposição em estoque, diminuindo o capital imobilizado e o custo do sistema.
+ </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura100.png" data-bs-toggle="modal" data-bs-target="#Imagem49">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura100.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 88: Representação da Padronização dos Equipamentos
+</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem49" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura100.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Método alternativo:</strong> Faça uma previsão de um método alternativo de movimentação em caso de falha do meio principal de transporte (plano B). Essa alternativa pode ser bem menos eficiente que o processo principal, mas pode ser de grande valor em casos de emergência. Os procedimentos de manuseio devem, sempre que possível, contemplar métodos alternativos para a movimentação dos materiais, evitando ou reduzindo a perda de produtividade quando houver problemas. Exemplos: Colocação de pontos esparsos para instalação de uma “talha manual”, prever espaço pra movimentação de uma empilhadeira numa área coberta por uma ponte rolante.</td>
-                                    </tr>
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
+                        <!-- Figura do lado do texto-->
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> f)  Flexibilidade:</strong> O valor de determinado equipamento para o usuário é proporcional à sua flexibilidade, isto é, capacidade de satisfazer ao transporte de vários tipos de carga em condições variadas de trabalho. O sistema deve ter flexibilidade para poder manusear diferentes tipos de materiais, para que não haja necessidade de novos investimentos a qualquer mudança operacional. 
 
-                                    <tr>
-                                        <td></td>
-                                        <td><strong class="CorAzulEstadoEscuro"> Menor custo total:</strong> Selecione equipamentos com base em custos totais e não somente em custo inicial, custo operacional, ou custo de manutenção. O equipamento escolhido deve ser aquele que apresente menor custo total para uma vida útil razoável e uma taxa de retorno do investimento adequada.</td>
-                                    </tr>
-                                </tbody>
-                            </table>
+ </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura101.png" data-bs-toggle="modal" data-bs-target="#Imagem50">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura101.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 89: Representação da Flexibilidade do Equipamento.</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem50" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura101.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
 
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
+                         <!-- Figura do lado do texto-->
+                         <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> g)   Máxima utilização do equipamento:</strong> Mantenha o equipamento ocupado tanto quanto possível. Evite acúmulo de materiais nos terminais do ciclo de transporte. Se não puder manter o equipamento de baixo investimento, mantenha o quociente tão baixo o quanto possível (1/4 é considerado o ideal). Quando se utilizam ao máximo os equipamentos, o capital investido é plenamente empregado e dá mais retorno ao investimento. </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura102.png" data-bs-toggle="modal" data-bs-target="#Imagem51">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura102.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 90: Representação da Máxima Utilização do Equipamento</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem51" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura102.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
+                        <!-- Figura do lado do texto-->
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong> h) Máxima utilização da gravidade:</strong> Use a gravidade sempre que possível. Pequenos trechos motorizados de transportadores podem elevar a carga a uma altura conveniente para suprir trechos longos de transporte por gravidade. A gravidade é uma energia gratuita. Assim, quanto mais tirarmos proveito dela, mais eficiente será o manuseio. </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura103.png" data-bs-toggle="modal" data-bs-target="#Imagem52">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura103.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 91: Representação da Máxima Utilização da Gravidade</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem52" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura103.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
+                        <!-- Figura do lado do texto-->
+                        <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong>i) Máxima utilização do espaço disponível:</strong>Use o espaço vertical sempre que possível. Empilhe cargas ou utilize suportes especiais para isso. A racionalização do espaço disponível, com a preocupação de facilitar o trânsito de equipamentos de movimentação, melhora a eficiência do sistema. </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura104.png" data-bs-toggle="modal" data-bs-target="#Imagem53">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura104.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 91: Representação da Máxima Utilização da Gravidade</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem53" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura104.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
+                       <!-- Figura do lado do texto-->
+                       <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong>j) Método alternativo:</strong> Faça uma previsão de um método alternativo de movimentação em caso de falha do meio principal de transporte (plano B). Essa alternativa pode ser bem menos eficiente que o processo principal, mas pode ser de grande valor em casos de emergência. Os procedimentos de manuseio devem, sempre que possível, contemplar métodos alternativos para a movimentação dos materiais, evitando ou reduzindo a perda de produtividade quando houver problemas. Exemplos: Colocação de pontos esparsos para instalação de uma talha manual; prever espaço para movimentação de uma empilhadeira numa área coberta por uma ponte rolante. 
+ </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura105.png" data-bs-toggle="modal" data-bs-target="#Imagem54">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura105.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 93: Representação do Método Alternativo de Movimentação dos Materiais
+</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem54" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura105.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
+                        <!-- Figura do lado do texto-->
+                       <div class="row">
+                            <div class="col-md-6 col-sm-12">
+                                <p class="wow fadeInUp" data-wow-delay="0.5s"><strong>k) Menor custo total: </strong>Selecione equipamentos com base em custos totais e não somente em custo inicial, custo operacional, ou custo de manutenção. O equipamento escolhido deve ser aquele que apresente menor custo total para uma vida útil razoável e uma taxa de retorno do investimento adequada.  </p>
+                            </div>
+                            <div class="col-md-6 col-sm-12">
+                                <!-- Titulo Figura -->
+                                <div class="text-center wow fadeInDown">
+                                    <a href="imagens/Figura106.png" data-bs-toggle="modal" data-bs-target="#Imagem55">
+                                        <img class="img-fluid wow fadeInDown" data-wow-delay="0.5s" width="200" class="img-fluid" src="imagens/Figura106.png" alt="Alt da imagem fica aqui">
+                                        <p class="TituloFigura wow fadeInDown"><strong>Figura 94: Representação do Menor Custo Total de Equipamento</strong></p>
+                                    </a>
+                                </div>
+                                <!-- Imagem 01 - MODAL -->
+                                <div class="modal fade text-center" id="Imagem55" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                                        <div class="modal-content">
+                                            <div class="modal-body">
+                                                <img class="img-fluid" src="imagens/Figura106.png" alt="Alt da imagem fica aqui">
+                                            </div>
+                                            <div class="modal-footer text-center">
+                                                <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                                <!-- Figura 01 - End -->
+                            </div>
+                        </div>
+                           
                             <!-- SubTitulo -->
                             <p class="SubTitulo"> A escolha de um sistema de movimentação de materiais:</p>
                             <hr>

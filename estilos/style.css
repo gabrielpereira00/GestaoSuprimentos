@@ -30,6 +30,9 @@
 .sidebar-item1:hover{
     height: 25.1rem;
 }
+.sublinks{
+    padding: .5rem;
+}
 .sublinks li{
   margin-top: 1rem;
   list-style: none;
@@ -76,7 +79,15 @@
     transition: .7s;
 }
 .sidebar-item5:hover{
-    height: 45rem;
+    height: 80rem;
+}
+.sidebar-item6{
+    height: 5.3rem;
+    overflow: hidden;
+    transition: .7s;
+}
+.sidebar-item6:hover{
+    height: 35rem;
 }
 .img-fluid10 {
     height: 70 0% !important;

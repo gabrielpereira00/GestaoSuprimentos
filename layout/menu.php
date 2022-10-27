@@ -116,7 +116,29 @@
                                  <li><a href="#top5-six">5.6 O Que é Um Sistema de Endereçamento?</a></li>
                                  <li><a href="#top5-seven">5.7 Tipos de endereçamento</a></li>
                                  <li><a href="#top5-eight">5.8 Características das sinalizações em um sistema de endereçamento</a></li>
+                                 <li><a href="#top5-nine">5.9 A Importância da Adoção de Um Sistema de Movimentação e Manuseio </a></li>
+                                 <li><a href="#top5-ten">5.10 Tipos de movimentação e suas características: </a></li>
+                                 <li><a href="#top5-eleven">5.10 Premissas para facilitar a movimentação de materiais: </a></li>
 
+                                </ul>
+                            </div>
+                        </li>
+
+                        <li class="sidebar-item sidebar-item6">
+                            <div class="bd-callout-menu bd-callout-success-menu">
+                                <a href="Topico06.php" class="MenuTopico sidebar-link <?php if($page=='Topico06'){echo 'ativo';}?>">
+                                    <div id="menuNumero">06 </div>Legislação do almoxarifado
+                                </a>
+
+                                <ul class="sublinks">
+                                 <li><a href="#top6-one">Legislação Federal</a></li>
+                                 
+                                 <li><a href="#top6-two">6.1 lei Nº 4.320, de março de 1964:</a></li>
+                                 <li><a href="#top6-tree">6.1.2 portaria Nº 448 stn, DE 13 DE SETEMBRO DE 2002.</a></li>
+                                 <li><a href="#top6-four">6.2 Legislação Estadual.</a></li>
+                                 <li><a href="#top6-five">6.2.1 decreto Nº 27.786, de 02 de maio de 2005.</a></li>
+                                 <li><a href="#top6-six">6.2.2 decreto Nº 31.549, de 13 de Agosto de 2014.</a></li>
+                                 <li><a href="#top6-seven">6.2.3 decreto Nº 32.564, de 26 de Março de 2018.</a></li>
                                 </ul>
                             </div>
                         </li>
