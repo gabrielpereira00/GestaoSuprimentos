@@ -798,8 +798,8 @@ include('layout/header.php');
 
                             <!-- Titulo Figura -->
                             <div class="text-center">
-                                <a href="imagens/Figura62.jpg" data-bs-toggle="modal" data-bs-target="#Imagem16">
-                                    <img class="img-fluid wow fadeInDown" src="imagens/Figura62.jpg" alt="Alt da imagem fica aqui">
+                                <a href="imagens/Figura62.png" data-bs-toggle="modal" data-bs-target="#Imagem16">
+                                    <img class="img-fluid wow fadeInDown" src="imagens/Figura62.png" alt="Alt da imagem fica aqui">
                                 </a>
                                 <p class="FonteFigura"><strong> Figura 59: Representação da Planta Baixa do Leiaute do Armazém
 </strong></p>
@@ -810,7 +810,7 @@ include('layout/header.php');
                                 <div class="modal-dialog modal-dialog-centered modal-lg">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img class="img-fluid" src="imagens/Figura62.jpg" alt="Alt da imagem fica aqui">
+                                            <img class="img-fluid" src="imagens/Figura62.png" alt="Alt da imagem fica aqui">
                                         </div>
                                         <div class="modal-footer text-center">
                                             <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
@@ -842,7 +842,7 @@ include('layout/header.php');
                             <p>Quando estudamos a classificação e catalogação de materiais, vimos que entre as diversas fases do processo de classificação de materiais havia a fase de <strong>“codificação”</strong> que consiste na atribuição de uma série de números e/ou letras a cada item de material, de forma que essa informação, compilada em um único código, represente as características do item. Cada item terá, assim, um único código esse código é o SKU.</p>
                             </div>
                         </div>
-                            
+                            <br>
                     <!-- Saiba Mais -->
                     <div class="SaibaMaisCaixa">
                             <p class="SaibaMaisTitulo"> Saiba Mais</p>
@@ -850,7 +850,7 @@ include('layout/header.php');
                             <p>Os SKUs foram criados para facilitar a comunicação do pessoal que diariamente estão em contato com milhares de produtos dentro de um armazém trabalhando com um volume de dados enorme, então para simplificar é muito mais fácil e rápido localizar pelo SKU "tal" do que ficar tentando descrever um determinado item estocado. Além disso, aplica-se todo o processo de gerenciamento de estoque.</p>
                             </div>
                         </div>
-                       
+                       <br>
 
                             <p>Dependendo da filosofia de armazenagem cada SKU pode ter uma localização fixa ou variável no armazém. No caso da localização fixa, cada SKU é armazenado num local, no qual só pode ser encontrado aquele e mais nenhum SKU. No caso da localização variável, pode-se encontrar qualquer SKU em qualquer parte do armazém.</p>
                             <section id="pt2">
@@ -866,6 +866,7 @@ include('layout/header.php');
                                 </div>
                             </div>
                         </section>
+                        <br><br>
                            
 
                             <!-- SubTitulo -->
@@ -877,6 +878,12 @@ include('layout/header.php');
                             <p>O benefício de um sistema de endereçamento eficaz pode ser significativo, sobretudo para o usuário final com grandes instalações e um grande número de SKUs (“Stock Keeping Unit”, unidade distinta mantida em estoque). Esta economia vem do aumento da produtividade dos colaboradores que possibilita destinar uma equipe menor para uma área de separação de requisições. Além disso, é possível conseguir redução das avarias, aumento da rapidez e da acurácia na realização de inventários.</p>
 
                             <p>Mas para implantar um sistema de endereçamento faz necessário entender os tipos existentes e qual melhor se adapta as instalações disponíveis e a quantidade de SKUs estocados. <strong>Teoricamente pode se dividir os sistemas endereçamento em três categorias: sistema de memória, sistema de endereçamento fixo e sistema de endereçamento variável.</strong> </p>
+                            <br>
+
+                            <div class="text-center">
+                            <h6 class="fs-6 SmallCaps badge bg-warning text-dark"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                        </div>
+                        <br>
 
 
 
@@ -891,11 +898,11 @@ include('layout/header.php');
                                 <div id="flush-collapse1" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
                                     <div class="accordion-body">
                                         <p> O sistema de endereçamento por memória é o sistema que depende da memória das pessoas. Este sistema pode funcionar bem se forem levados em conta alguns requisitos:
-                                           <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Apenas uma pessoa trabalha em uma determinada área de estocagem;</li>
+                                           <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Apenas uma pessoa trabalha em uma determinada área de estocagem;</li>
                                 
-                                <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O número de SKU (unidade individual de estocagem) deve ser relativamente pequeno;</li>
+                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O número de SKU (unidade individual de estocagem) deve ser relativamente pequeno;</li>
                                 
-                              <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O número de locais diferentes de estocagem é relativamente pequeno.</li>
+                              <li> <i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O número de locais diferentes de estocagem é relativamente pequeno.</li>
                                 <br>
                                 Caso esses requisitos não sejam cumpridos, o sistema de memória pode ser desastroso, devido ao sistema usar a memória do operador, que é limitada. Também deve ser levado em conta que este tipo de sistema pode trazer dificuldades no momento da troca de operadores, devido à informação de localização dos produtos estar guardada na memória do operador anterior.
                                         </p>
@@ -919,9 +926,9 @@ include('layout/header.php');
                                     <div class="accordion-body">
                                         <p>  
                               O sistema com endereçamento fixo é quando um SKU é designado para um lugar ou conjunto de lugares específicos no armazém. São usados geralmente dois tipos de estocagem fixa:
-                              <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Estocagem de itens em sequencia numérica;</li>
+                              <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Estocagem de itens em sequencia numérica;</li>
                                 
-                                <li><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Determinação do local baseado na rotatividade de um SKU e em seus níveis de estoque.</li>
+                                <li><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Determinação do local baseado na rotatividade de um SKU e em seus níveis de estoque.</li>
                                 <br>
                                 <p>Nos sistemas de endereçamento fixo, os boxes são determinados pelo estoque máximo que se pode colocar neles. Uma estimativa do espaço necessário para definir a estocagem fixa é estimar duas vezes o estoque médio.
 O número de boxes vazios destinados a um SKU deve armazenar seu nível máximo de estoque. Então, o número de boxes vazios para estocagem definitiva é igual à soma dos espaços vazios exigidos para cada SKU.
@@ -944,17 +951,17 @@ Este sistema facilita a memorização das posições dos produtos no estoque por
                                     <div class="accordion-body">
                                         <p>  
                                         sistema de endereçamento variável se caracteriza por designar um SKU para armazenar aleatoriamente no armazém, ou seja, em qualquer lugar do armazém onde tiver um espaço disponível. O endereçamento variável geralmente funciona da seguinte maneira
-                                       <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Após o recebimento de algum item, é feita uma consulta por intermédio de um sistema informatizado para verificar se já existe estoque deste item, e qual sua localização;</li>
+                                       <li> <i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Após o recebimento de algum item, é feita uma consulta por intermédio de um sistema informatizado para verificar se já existe estoque deste item, e qual sua localização;</li>
                                 
-                               <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Verifica-se, então, se já existe um local que contém aquele item e se existe espaço disponível. Caso tenha, armazena-se o item neste local e atualiza-se o registro de localização;</li>
+                               <li> <i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Verifica-se, então, se já existe um local que contém aquele item e se existe espaço disponível. Caso tenha, armazena-se o item neste local e atualiza-se o registro de localização;</li>
                                 
-                               <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Caso não exista o item recém chegado armazenado, é feita uma consulta via sistema, para se achar um ponto disponível de estocagem;</li>
+                               <li> <i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Caso não exista o item recém chegado armazenado, é feita uma consulta via sistema, para se achar um ponto disponível de estocagem;</li>
                                
-                               <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Atualiza-se, então, o registro de localização do material;</li>
+                               <li> <iclass="fa fa-arrow-right CorVerdeClaroEstado"></i> Atualiza-se, então, o registro de localização do material;</li>
                                
-                           <li>  <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Quando requisita-se o item, consulta-se o seu registro para descobrir a sua localização;</li>
+                           <li>  <i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Quando requisita-se o item, consulta-se o seu registro para descobrir a sua localização;</li>
                                
-                             <li> <i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Retira-se, então, o material na quantidade desejada, e atualiza-se o registro de localização.</li>
+                             <li> <i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Retira-se, então, o material na quantidade desejada, e atualiza-se o registro de localização.</li>
                               
                                 <br>
                                 <p>Nos sistemas de endereçamento fixo, os boxes são determinados pelo estoque máximo que se pode colocar neles. Uma estimativa do espaço necessário para definir a estocagem fixa é estimar duas vezes o estoque médio.
@@ -966,25 +973,20 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                                     </div>
                                 </div>
                             </div>
+                            <br>
                             <!-- Fim Accordion 01 -->
-                           
-                          
+                            <!-- Importante -->
+                        <div class="ImportanteCaixa">
+                            <p class="ImportanteTitulo"> Importante</p>
+                            <div class="ImportanteTexto">
+                                <p>O sistema de endereçamento variável é mais indicado quando as condições de armazenagem variam significativamente em situações altamente sazonais e dinâmicas. O único inconveniente deste sistema é o perfeito método de controle que deve existir sobre o registro de localização no sistema informatizado, sob o risco de possuir material em estoque perdido, em que somente será descoberto ao acaso ou na realização do inventário.</p>
+                            </div>
+                        </div>
 
-                           
-                             
-                                
                             
-
-
-
-                         
-                                
-                          
-
                            
-
 <br>
-<br>
+<br>                  
                             <!-- SubTitulo -->
                             <p class="SubTitulo" id="top5-eight">Características Das Sinalizações em Um Sistema De Endereça-Mento</p>
                             <hr>
@@ -1024,218 +1026,612 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
 <br>
                             <p><strong>Acima de tudo é importante conceituar cada componente do sistema de endereçamento:</strong> </p>
 
-
-
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="Item01">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
-                                        <strong>Área</strong>
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1One" aria-expanded="false" aria-controls="flush-collapse1One">
+                                        <strong>a) Área:</strong>
                                     </button>
                                 </h2>
-                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                <div id="flush-collapse1One" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
                                     <div class="accordion-body">
-                                        
-                                <br>
-                                <p> Com o objetivo de ter uma metodologia que permita o crescimento do armazém, é interessante alocarmos códigos para diferentes áreas de armazenagem, como estruturas porta-palete, áreas de blocado interna e externa, assim por diante. Dessa forma, fica fácil, por exemplo, alugar o galpão seguinte e continuar a numeração dos corredores na sequência, sem ser necessário renumerar as ruas de outros locais. A identificação de área pode, ainda, indicar um segundo ou terceiro galpão, quer esteja no mesmo local ou em outro endereço, por exemplo.
-</p>
-
-<div class="text-center">
-                            <a href="imagens/Figura64.jpg" data-bs-toggle="modal" data-bs-target="#Imagem64">
-                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura64.jpg" alt="Alt da imagem fica aqui">
+                                        <p>Com o objetivo de ter uma metodologia que permita o crescimento do armazém, é interessante colocarmos códigos para diferentes áreas de armazenagem, como estruturas porta-palete, áreas de blocado interna e externa, assim por diante. Dessa forma, fica fácil, por exemplo, alugar o galpão seguinte e continuar a numeração dos corredores na sequência, sem ser necessário renumerar as ruas de outros locais. A identificação de área pode, ainda, indicar um segundo ou terceiro galpão, quer esteja no mesmo local ou em outro endereço, por exemplo.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura63.jpg" data-bs-toggle="modal" data-bs-target="#Imagem17">
+                                <img class="img-fluid" src="imagens/Figura63.jpg" alt="Alt da imagem fica aqui">
                             </a>
-                            <p class="FonteFigura"><strong>Figura 64: </strong>Representação das Áreas do Armazém em Primeiro Plano e Área de Blocado ao Fundo de Porta Palete
-</p>
+                            <p class="FonteFigura"><strong>  Figura 60: Representação das Áreas do Armazém em Primeiro Plano e Área de Blocado ao Fundo de Porta Palete </strong></p>
                         </div>
 
-                        <div class="modal fade text-center" id="Imagem64" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem17" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura64.jp" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid" src="imagens/Figura63.jpg" alt="Alt da imagem fica aqui">
                                     </div>
                                     <div class="modal-footer text-center">
-                                        <p class="TituloFigura"><strong>Fonte: </strong>EGP</p>
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                     </div>
                                 </div>
 
                             </div>
                         </div>
+                        <!-- Figura 01 - End -->
 
                                     </div>
                                 </div>
-
-                                
-
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="Item01">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
-                                        <strong>Corredor</strong>
+                            <!-- Fim Accordion 01 -->
+
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2Two" aria-expanded="false" aria-controls="flush-collapse2Two">
+                                        <strong>b) Corredor: </strong>
                                     </button>
                                 </h2>
-                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                <div id="flush-collapse2Two" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
                                     <div class="accordion-body">
-                                        
-                                <br>
-                                <p> Refere-se às ruas do armazém. Cada corredor deve ter um único número que o identifique dentro daquela mesma área. Considere utilizar nova sequência para os corredores de locais diferentes de trabalho, como explicado acima. Nas estruturas porta-palete, identifique os corredores e não cada lado individualmente. No geral, assinalamos números de forma ascendente, iniciando por 01, começando de um lado do galpão e terminando do outro. O usual é que os corredores sejam dispostos de forma alinhada às docas.
-</p>
-<div class="text-center">
-                            <a href="imagens/Figura65.png" data-bs-toggle="modal" data-bs-target="#Imagem65">
-                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura65.png" alt="Alt da imagem fica aqui">
+                                        <p> Refere-se às ruas do armazém. Cada corredor deve ter um único número que o identifique dentro daquela mesma área. Considere utilizar nova sequência para os corredores de locais diferentes de trabalho, como explicado acima. Nas estruturas porta-palete, identifique os corredores e não cada lado individualmente. No geral, assinalamos números de forma ascendente, iniciando por 01, começando de um lado do galpão e terminando do outro. O usual é que os corredores sejam dispostos de forma alinhada às docas.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura64.jpg" data-bs-toggle="modal" data-bs-target="#Imagem18">
+                                <img class="img-fluid" src="imagens/Figura64.jpg" alt="Alt da imagem fica aqui">
                             </a>
-                            <p class="FonteFigura"><strong>Figura 65: </strong>Representação das Áreas do Armazém em Primeiro Plano e Área de Blocado ao Fundo de Porta Palete
-</p>
+                            <p class="FonteFigura"><strong> Figura 61: Representação do Corredor (rua) do Armazém e Forma de Identificação
+</strong></p>
                         </div>
 
-                        <div class="modal fade text-center" id="Imagem65" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem18" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura65.png" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid" src="imagens/Figura64.jpg" alt="Alt da imagem fica aqui">
                                     </div>
                                     <div class="modal-footer text-center">
-                                        <p class="TituloFigura"><strong>Fonte: </strong>EGP</p>
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                     </div>
                                 </div>
 
                             </div>
                         </div>
+                        <!-- Figura 01 - End -->
 
                                     </div>
                                 </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
 
-                                
-
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse3Three" aria-expanded="false" aria-controls="flush-collapse3Three">
+                                        <strong>c) Módulo:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse3Three" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Chamamos de “módulo” o conjunto de espaços de armazenagem compreendidos entre duas colunas da estrutura porta-palete. Os módulos também são chamados de prédios, pois de forma análoga ao endereçamento de uma cidade, cada rua (corredor) tem prédios (módulos) dos dois lados. Tendo em mente a mesma ideia usada nas cidades, identifique os módulos do lado esquerdo do corredor com numeração ímpar e os do lado direito com numeração par. Comece a enumerar sempre pelo lado das docas, de forma a dar uma boa ideia espacial às pessoas, uma vez que o primeiro prédio de uma rua estará situado do lado próximo às docas.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura66.png" data-bs-toggle="modal" data-bs-target="#Imagem19">
+                                <img class="img-fluid" src="imagens/Figura66.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 62: Representação do Módulo (estrutura porta-palete)</strong></p>
                         </div>
 
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="Item01">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
-                                        <strong>Módulo</strong>
-                                    </button>
-                                </h2>
-                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
-                                    <div class="accordion-body">
-                                        
-                                <br>
-                                <p> Chamamos de “módulo” o conjunto de espaços de armazenagem compreendidos entre duas colunas da estrutura porta-palete. Os módulos também são chamados de prédios, pois de forma análoga ao endereçamento de uma cidade, cada rua (corredor) tem prédios (módulos) dos dois lados. Tendo em mente a mesma idéia usada nas cidades, identifique os módulos do lado esquerdo do corredor com numeração ímpar e os do lado direito com numeração par. Comece a numerar sempre pelo lado das docas, de forma a dar uma boa ideia espacial às pessoas, uma vez que o primeiro prédio de uma rua estará situado do lado próximo às docas.
-</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem19" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura66.png" alt="Alt da imagem fica aqui">
                                     </div>
-                                
-    </div>
-                                
-
-                           
-                         
-</div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="Item01">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
-                                        <strong>Nível</strong>
-                                    </button>
-                                </h2>
-                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
-                                    <div class="accordion-body">
-                                        
-                                <br>
-                                <p> corresponde aos andares de um prédio (módulo). Comece assinalando o número 01 para o nível mais baixo e continue de modo ascendente até o nível mais alto.
-</p>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
                                     </div>
                                 </div>
 
-                                </div>
-
-                     
-                          
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="Item01">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
-                                        <strong>Vão</strong>
-                                    </button>
-                                </h2>
-                                <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
-                                    <div class="accordion-body">
-                                        
-                                <br>
-                                <p> Uma vez definidos os conceitos de nosso sistema de endereçamento, fica fácil criar um código de endereçamento vertical, vejamos:
-</p>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
                                     </div>
                                 </div>
-                                
+                            </div>
+                        <!-- Accordion 03 -->
+                        <!-- Accordion 04 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4Four" aria-expanded="false" aria-controls="flush-collapse4Four">
+                                        <strong>d) Nível:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse4Four" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Corresponde aos andares de um prédio (módulo). Comece assinalando o número 01 para o nível mais baixo e continue de modo ascendente até o nível mais alto.</p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                      
+                        <!-- Accordion 04 --> 
+                        <!-- Accordion 05 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item05">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse5Five" aria-expanded="false" aria-controls="flush-collapse5Five">
+                                        <strong>e) Vão:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse5Five" class="accordion-collapse collapse" aria-labelledby="Item05" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>O espaço em cada nível de um módulo é dividido em posições de armazenamento, posição porta-palete, posição de palete ou também conhecido por “vão”. Na analogia do endereçamento das cidades, uma posição porta-palete corresponde a um apartamento de um andar em um prédio da rua. Em cada nível, assinale números para cada posição de forma ascendente, a começar por 01 da esquerda para a direita. </p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura68.png" data-bs-toggle="modal" data-bs-target="#Imagem20">
+                                <img class="img-fluid" src="imagens/Figura68.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>  Figura 63: Representação do Nível e Vão de uma Estrutura Porta-Palete</strong></p>
+                        </div>
 
-                         </div>       
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem20" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura68.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                          </div>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                        <p>Uma vez definidos os conceitos de nosso sistema de endereçamento, fica fácil criar um código de endereçamento vertical, vejamos:</p>
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura69.png" data-bs-toggle="modal" data-bs-target="#Imagem21">
+                                <img class="img-fluid" src="imagens/Figura69.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 64: Representação da Codificação de uma Estrutura Porta-Palete  </strong></p>
+                        </div>
 
-                
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem21" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura69.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                      
+                        <!-- Accordion 05 --> 
+                        <!-- Accordion 06 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item06">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse6Six" aria-expanded="false" aria-controls="flush-collapse6Six">
+                                        <strong>f) Endereçamento de blocados:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse6Six" class="accordion-collapse collapse" aria-labelledby="Item06" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>Para blocados, o endereçamento corresponde ao endereço de um bairro só de casas, ou seja, não haveria a necessidade de indicar o nível e tampouco o vão. É necessário endereçar apenas a área, a rua e o número da posição do palete, conforme a figura abaixo.
+</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figur71.png" data-bs-toggle="modal" data-bs-target="#Imagem22">
+                                <img class="img-fluid" src="imagens/Figura71.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 65: Representação da Armazenagem Blocada e sua Estrutura de Codificação</strong></p>
+                        </div>
 
-                            <p>f) <strong class="CorAzulEstadoEscuro">Endereçamento de blocados:</strong> Para blocados, o endereçamento corresponde ao endereço de um bairro só de casas, ou seja, não haveria a necessidade de indicar o nível e tampouco o vão. É necessário endereçar apenas a área, a rua e o número da posição do palete, conforme a Figura abaixo.
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem22" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura71.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <p>g) <strong class="CorAzulEstadoEscuro">Sinalização e identificação do endereçamento: </strong> vez demonstrado como endereçar as posições do armazém, faremos algumas considerações sobre a sinalização e a etiquetagem dos endereços para que possam ser utilizados corretamente no dia a dia.</p>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                                    </div>
+                                </div>
+                            </div>
+                      
+                        <!-- Accordion 06 --> 
+                        <!-- Accordion 07 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item07">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse7Seven" aria-expanded="false" aria-controls="flush-collapse7Seven">
+                                        <strong>g) Sinalização e identificação do endereçamento:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse7Seven" class="accordion-collapse collapse" aria-labelledby="Item07" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Uma vez demonstrado como endereçar as posições do armazém, faremos algumas considerações sobre a sinalização e a etiquetagem dos endereços, para que possam ser utilizados corretamente no dia a </p>
+                                        <p>Em primeiro lugar, é importante saber que a sinalização é o menor investimento em relação à operação do armazém. Lembre-se sempre de que a devida sinalização ajuda os funcionários a localizar-se e deslocar-se com rapidez aos locais indicados. O investimento feito na sinalização é rapidamente recuperado pela otimização do processo de armazenamento e expedição.
+                                        O erro de um funcionário ao alocar um palete na posição errada acarreta no descontrole de dois endereços, aquele em que o palete deveria ser armazenado e aquele onde o funcionário decerto o armazenou. </p>
+                                        <p>Algumas vezes, as etiquetas de endereçamento não recebem a merecida atenção na construção de um armazém. As etiquetas ficam sempre para a última hora, quando todo o orçamento já foi gasto e a data de início da operação está no limite. Mas à medida que aparecem as dificuldades para implementar um sistema de informação e a problemática do inventário geral para dar partida ao uso do sistema informatizado de endereçamento, o usuário percebe sua real importâ </p>                                    
+                                        <p>É muito comum encontrarmos longarinas repletas de várias camadas de etiquetas de papel, mas esse tipo de material é de vida curta e exige muita manutenção, pois são facilmente retiradas, perfuradas e rasuradas. As etiquetas de endereçamento devem ser planejadas com cuidado, de modo que estejam sempre ao alcance dos operadores de empilhadeiras. Uma posição de armazenamento sem etiqueta ou com etiqueta sem condições de ser lida induz ao erro e à inutilização daquele espaço, o que gera prejuízo para a organização.
+                                        </p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                      
+                        <!-- Accordion 07 --> 
+                        <!-- Accordion 08 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item08">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse8Eitgh" aria-expanded="false" aria-controls="flush-collapse8Eitgh">
+                                        <strong>h) Placas de rua:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse8Eitgh" class="accordion-collapse collapse" aria-labelledby="Item08" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p>O início da sinalização e o endereçamento de um armazém começam pelas placas de rua, ou placas de corredor, como é o termo certo. Elas devem ser de tamanho adequado para o local, permitindo que sejam vistas a distância. Uma das medidas mais usadas é 300 x 400 mm. Elas devem ser instaladas no começo, meio e fim de cada corredor. No começo e no fim, aconselha-se a utilização de duas placas em “L”, de forma que possam ser lidas tanto por quem transita na rua de acesso entre as docas e os corredores das estruturas porta-palete, quanto por quem está dentro de um dos corredores. No centro do corredor, mais uma placa deve identificar a localização do funcionário sem que ele tenha de deslocar-se para saber onde se encontra.</p>
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura72.png" data-bs-toggle="modal" data-bs-target="#Imagem23">
+                                <img class="img-fluid" src="imagens/Figura72.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 66: Representação do Modelo de Placa de Sinalização de Corredores do Armazém (rua)</strong></p>
+                        </div>
 
-                            <p>Em primeiro lugar, é importante saber que a sinalização é o menor investimento em relação à operação do armazém. Lembre-se sempre de que a devida sinalização ajuda os funcionários a localizar-se e deslocar-se com rapidez aos locais indicados. O investimento feito na sinalização é rapidamente recuperado pela otimização do processo de armazenamento e expedição.</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem23" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura72.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <p>O erro de um funcionário ao alocar um palete na posição errada acarreta no descontrole de dois endereços, aquele em que o palete deveria ser armazenado e aquele onde o funcionário decerto o armazenou.</p>
-
-                            <p>Algumas vezes, as etiquetas de endereçamento não recebem a merecida atenção na construção de um armazém. As etiquetas ficam sempre para a última hora, quando todo o orçamento já foi gasto e a data de início da operação está no limite. Mas, à medida que aparecem as dificuldades para implementar um sistema de informação e a problemática do inventário geral para dar partida ao uso do sistema informatizado de endereçamento, o usuário percebe sua real importância.</p>
-
-                            <p>É muito comum encontrarmos longarinas repletas de várias camadas de etiquetas de papel, mas esse tipo de material é de vida curta e exige muita manutenção, pois são facilmente retiradas, perfuradas e rasuradas. As etiquetas de endereçamento devem ser planejadas com cuidado, de modo que estejam sempre ao alcance dos operadores de empilhadeiras. Uma posição de armazenamento sem etiqueta ou com etiqueta sem condições de ser lida induz ao erro e à inutilização daquele espaço, o que gera prejuízo para a organização.</p>
-
-                            <p>h) <strong class="CorAzulEstadoEscuro">Placas de rua:</strong> O início da sinalização e o endereçamento de um armazém começam pelas placas de rua, ou placas de corredor, como é o termo certo. Elas devem ser de tamanho adequado para o local, permitindo que sejam vistas a distância. Uma das medidas mais usadas é 300 x 400 mm. Elas devem ser instaladas no começo, meio e fim de cada corredor. No começo e no fim, aconselha-se a utilização de duas placas em “L”, de forma que possam ser lidas tanto por quem transita na rua de acesso entre as docas e os corredores das estruturas porta-palete, quanto por quem está dentro de um dos corredores. No centro do corredor, mais uma placa deve identificar a localização do funcionário sem que ele tenha de deslocar-se para saber onde se encontra.</p>
-
-                            <p>Se o armazém tiver “túneis”, é aconselhável que cada rua que o túnel atravessar tenha também uma placa de rua para indicar ao operador sua localização naquele momento.</p>
-
-                            <p>i)<strong class="CorAzulEstadoEscuro"> Etiquetas de Endereçamento:</strong></p>
-
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                        <p>Se o armazém tiver “túneis”, é aconselhável que cada rua que o túnel atravessar tenha também uma placa de rua para indicar ao operador a sua localização naquele momento.</p>
+                                    </div>
+                                </div>
+                            </div>
+                      
+                        <!-- Accordion 08 --> 
+                        <!-- Accordion 09 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse9Nine" aria-expanded="false" aria-controls="flush-collapse9Nine">
+                                        <strong>i) Etiquetas de endereçamento:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapse9Nine" class="accordion-collapse collapse" aria-labelledby="Item09" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        
                             <ul class="none Texto">
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Etiquetas de endereço porta-palete:</strong> Abaixo de cada posição porta-palete, deve existir uma etiqueta que identifique seu endereço. Essa etiqueta, fabricada com código de barras e setas para direcionamento, é aplicada na longarina logo abaixo do palete. Na primeira longarina, identificamos a posição de picking (estoque fracionado) e, nas demais, identificamos o pulmão (estoque embalado); estas serão lidas por funcionários nas operações de inventário. Nesse processo, os funcionários são levados por plataformas elevatórias ou gaiolas até o palete, lá fazendo a contagem e a leitura da etiqueta na posição para associar a mercadoria ao endereço. Dessa forma, o tempo gasto em inventário torna-se menor, pois não é necessário que o operador desça até a posição da etiqueta de coluna, podendo fazer a contagem por nível de cada estrutura.
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Etiquetas de endereço porta-palete:</strong> Abaixo de cada posição porta-palete, deve existir uma etiqueta que identifique seu endereço. Essa etiqueta, fabricada com código de barras e setas para direcionamento, é aplicada na longarina logo abaixo do palete. Na primeira longarina, identificamos a posição de picking (estoque fracionado) e, nas demais, identificamos o pulmão (estoque embalado); estas serão lidas por funcionários nas operações de inventário. Nesse processo, os funcionários são levados por plataformas elevatórias ou gaiolas até o palete, lá fazendo a contagem e a leitura da etiqueta na posição para associar a mercadoria ao endereço. Dessa forma, o tempo gasto em inventário torna-se menor, pois não é necessário que o operador desça até a posição da etiqueta de coluna, podendo fazer a contagem por nível de cada estrutura.
 
                                     <br><br>O primeiro nível (chão) não possui longarina e, por isso, na longarina que separa o primeiro e o segundo nível, colocam-se as etiquetas de ambos os níveis, utilizando setas para indicar cada posição. Para seguir o mesmo padrão, as demais etiquetas de inventário devem ter o mesmo modelo das setas, sempre apontando para o palete acima da longarina.
                                 </li>
+                                <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura73.png" data-bs-toggle="modal" data-bs-target="#Imagem24">
+                                <img class="img-fluid" src="imagens/Figura73.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 67: Representação das Etiquetas de Endereçamento</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem24" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura73.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Etiquetas multinível:</strong> Nas operações de movimentação do dia a dia, os operadores de empilhadeira não sobem até a posição onde o palete está armazenado. Por isso, a leitura do código de barras do endereço é feita com uma etiqueta afixada na coluna do módulo e na altura do operador, de modo que ele possa ler a etiqueta sentado na empilhadeira sem ter de fazer qualquer manobra adicional. Essas etiquetas possuem os mesmos endereços das etiquetas de inventário, que estão em cada posição porta-palete, identificam cada lateral de um prédio e suas setas direcionam o lado a ser armazenado.</li>
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Etiquetas multinível:</strong> Nas operações de movimentação do dia a dia, os operadores de empilhadeira não sobem até a posição onde o palete está armazenado. Por isso, a leitura do código de barras do endereço é feita com uma etiqueta afixada na coluna do módulo e na altura do operador, de modo que ele possa ler a etiqueta sentado na empilhadeira sem ter de fazer qualquer manobra adicional. Essas etiquetas possuem os mesmos endereços das etiquetas de inventário, que estão em cada posição porta-palete, identificam cada lateral de um prédio e suas setas direcionam o lado a ser armazenado.</li>
+                                <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura74.png" data-bs-toggle="modal" data-bs-target="#Imagem25">
+                                <img class="img-fluid" src="imagens/Figura74.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 68: Representação dos Tipos de Etiquetas de Endereço Porta-Palete (longarina e multinível)</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem25" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura74.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Etiquetas de identificação de nível:</strong> No caso de estruturas verticais com mais de quatro andares, aconselha-se a utilização de cores para a identificação de cada nível. A utilização de cores auxilia o colaborador na operação dos níveis. Essas identificações são aplicadas nas colunas ao lado dos paletes. São etiquetas coloridas, retangulares e podem conter o número relativo ao andar que sinalizam. Em conjunto com essas etiquetas de localização de nível, as etiquetas de coluna (multinível) devem possuir as mesmas cores de referência de cada andar.</li>
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Etiquetas de identificação de nível:</strong> No caso de estruturas verticais com mais de quatro andares, aconselha-se a utilização de cores para a identificação de cada nível. A utilização de cores auxilia o colaborador na operação dos níveis. Essas identificações são aplicadas nas colunas ao lado dos paletes. São etiquetas coloridas, retangulares e podem conter o número relativo ao andar que sinalizam. Em conjunto com essas etiquetas de localização de nível, as etiquetas de coluna (multinível) devem possuir as mesmas cores de referência de cada andar.</li>
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Etiquetas de endereço de blocados:</strong> No caso de blocados, onde não existem estruturas metálicas, as etiquetas de endereçamento podem ser aplicadas no piso ou suspensas.</li>
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Etiquetas de endereço de blocados:</strong> No caso de blocados, onde não existem estruturas metálicas, as etiquetas de endereçamento podem ser aplicadas no piso ou suspensas.</li>
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Etiquetas de piso – sobrepostas:</strong> Para endereçar as posições de uma área blocada no piso, pode-se utilizar um suporte de proteção instalado sobre o piso e afixado por parafusos. Essa sistemática permite uma rápida aplicação da etiqueta com apenas dois ou quatro furos.</li>
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Etiquetas de piso – sobrepostas:</strong> Para endereçar as posições de uma área blocada no piso, pode-se utilizar um suporte de proteção instalado sobre o piso e afixado por parafusos. Essa sistemática permite uma rápida aplicação da etiqueta com apenas dois ou quatro furos.</li>
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Etiquetas de piso – embutidas:</strong> Quando o ressalto de um suporte de sobrepor for inconveniente ao trânsito de empilhadeiras ou transpaleteiras, a solução é utilizar um suporte embutido no piso, instalado de forma alinhada com toda a superfície, sem qualquer ressalto. É importante lembrar que as etiquetas ficarão expostas à abrasão causada pela passagem das rodas das empilhadeiras e devem ser fabricadas com material resistente e apropriado para a identificação de piso.</li>
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Etiquetas de piso – embutidas:</strong> Quando o ressalto de um suporte de sobrepor for inconveniente ao trânsito de empilhadeiras ou transpaleteiras, a solução é utilizar um suporte embutido no piso, instalado de forma alinhada com toda a superfície, sem qualquer ressalto. É importante lembrar que as etiquetas ficarão expostas à abrasão causada pela passagem das rodas das empilhadeiras e devem ser fabricadas com material resistente e apropriado para a identificação de piso.</li>
+                                <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura75.png" data-bs-toggle="modal" data-bs-target="#Imagem26">
+                                <img class="img-fluid" src="imagens/Figura75.png" alt="Alt da imagem fica aqui">
+                            </a>
+                           
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem26" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura75.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                         <!-- Titulo Figura -->
+                         <div class="text-center">
+                            <a href="imagens/Figura76.png" data-bs-toggle="modal" data-bs-target="#Imagem26.">
+                                <img class="img-fluid" src="imagens/Figura76.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>  Figura 69: Representação dos Tipos de Etiquetas de Endereço de Piso (rua e blocado)</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem26." tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura76.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Endereçamento aéreo:</strong> Outra forma de endereçar áreas blocadas é a utilização de etiquetas aéreas, que ficam afixadas em cabos de aço, de forma que a torre da empilhadeira não as atinja. Essas etiquetas ficam a uma distância aproximada de 5 ou 6 metros de altura do piso, mas podem-se encontrar casos em que elas fiquem mais elevadas. As mesmas são fabricadas para leitura de longa distância, de até 12 m ou mais.
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Endereçamento aéreo:</strong> Outra forma de endereçar áreas blocadas é a utilização de etiquetas aéreas, que ficam afixadas em cabos de aço, de forma que a torre da empilhadeira não as atinja. Essas etiquetas ficam a uma distância aproximada de 5 ou 6 metros de altura do piso, mas podem-se encontrar casos em que elas fiquem mais elevadas. As mesmas são fabricadas para leitura de longa distância, de até 12 m ou mais.
 
                                     <br><br>Elas são feitas de materiais de fundo reflexível, que retornam uma quantidade maior da luz laser dos leitores de código de barras, com tamanho em torno de 250 x 150 mm. Quando se utiliza uma solução assim, deve-se fazer boa combinação do leitor e da qualidade e definição das barras do código a ser lido. O leitor deve ser de longa distância (long range), e possuir laser com potência adequada à aplicação.
+                                    <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura77.png" data-bs-toggle="modal" data-bs-target="#Imagem26">
+                                <img class="img-fluid" src="imagens/Figura77.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 70: Representação da Etiqueta Aérea de Leitura de Longa Distância</strong></p>
+                        </div>
 
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem26" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura77.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
                                     <br><br>O leitor de longa distância normalmente possui dois estágios em seu gatilho; primeiro ele gera um ponto laser fixo de maior visibilidade, depois outro para a leitura. O ponto fixo auxilia o colaborador a mirar no código de barras. As barras do código também devem ser adequadas e permitir melhor leitura em longa distância.
                                     Antes da aquisição dos coletores, deve-se levar em consideração o modo de armazenagem e a sinalização que será utilizada, para que – no caso de etiquetas de longa distância – o investimento dos coletores seja direcionado aos “long range”.
                                 </li>
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Sinalização de trânsito de empilhadeiras:</strong> Durante a elaboração do projeto de um armazém, leva-se em conta o tipo de equipamento de movimentação que será usado. Na busca pela otimização de espaço, é comum encontrarmos corredores estreitos onde apenas uma empilhadeira pode transitar por vez. Nesses casos, recomenda-se a definição da mão de direção para cada rua do armazém, de modo que as empilhadeiras se movimentem sem o risco de colisões e prováveis acidentes de trabalho.
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sinalização de trânsito de empilhadeiras:</strong> Durante a elaboração do projeto de um armazém, leva-se em conta o tipo de equipamento de movimentação que será usado. Na busca pela otimização de espaço, é comum encontrarmos corredores estreitos onde apenas uma empilhadeira pode transitar por vez. Nesses casos, recomenda-se a definição da mão de direção para cada rua do armazém, de modo que as empilhadeiras se movimentem sem o risco de colisões e prováveis acidentes de trabalho.
 
                                     <br><br>A sinalização do piso tem o objetivo de evitar acidentes e alertar os operados de empilhadeira sobre a mão de direção de cada rua, a preferência nos cruzamentos e os túneis, através de sinais pintados no piso, como “Pare” e “Túnel”.
                                 </li>
+                                <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura78.png" data-bs-toggle="modal" data-bs-target="#Imagem27">
+                                <img class="img-fluid" src="imagens/Figura78.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem27" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura78.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                         <!-- Titulo Figura -->
+                         <div class="text-center">
+                            <a href="imagens/Figura79.png" data-bs-toggle="modal" data-bs-target="#Imagem28">
+                                <img class="img-fluid" src="imagens/Figura79.png" alt="Alt da imagem fica aqui">
+                            </a>
+                           
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem28" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura79.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                         <!-- Titulo Figura -->
+                         <div class="text-center">
+                            <a href="imagens/Figura80.png" data-bs-toggle="modal" data-bs-target="#Imagem29">
+                                <img class="img-fluid" src="imagens/Figura80.png" alt="Alt da imagem fica aqui">
+                            </a>
+                           
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem29" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura80.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                         <!-- Titulo Figura -->
+                         <div class="text-center">
+                            <a href="imagens/Figura81.png" data-bs-toggle="modal" data-bs-target="#Imagem30">
+                                <img class="img-fluid" src="imagens/Figura81.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>  Figura 71: Representação da Sinalização de Trânsito de Empilhadeiras</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem30" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura81.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Faixas limitadoras e faixas de pedestres:</strong> Faixas de largura entre 10 e 15 cm são utilizadas para demarcar as posições de blocados e o alinhamento dos paletes no piso inferior de uma estrutura.
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Faixas limitadoras e faixas de pedestres:</strong> Faixas de largura entre 10 e 15 cm são utilizadas para demarcar as posições de blocados e o alinhamento dos paletes no piso inferior de uma estrutura.
 
                                     <br><br>A pintura de faixas de pedestre evita acidentes e auxilia na convivência pacífica entre operadores de empilhadeira, demais funcionários e visitantes.
                                     <br><br>A correta sinalização interna atende aos padrões internacionais e demonstra organização e preocupação com a prevenção de acidentes.
                                 </li>
+                                <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura82.png" data-bs-toggle="modal" data-bs-target="#Imagem31">
+                                <img class="img-fluid" src="imagens/Figura82.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem31" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura82.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura83.png" data-bs-toggle="modal" data-bs-target="#Imagem32">
+                                <img class="img-fluid" src="imagens/Figura83.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>  Figura 72: Representação da Faixa de Pedestre e Faixas Limitadoras</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem32" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura83.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
                                 <br>
-                                <li class="wow fadeInDown"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Orientações sobre o uso de código de barras: Algumas observações importantes sobre o uso de código de barras nas etiquetas de endereçamento:</li>
+                                <li class="wow fadeInDown"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Orientações sobre o uso de código de barras: Algumas observações importantes sobre o uso de código de barras nas etiquetas de endereçamento:</li>
 
                                 <br>
                                 <ol class="Texto">
@@ -1251,8 +1647,23 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                                     <li> Dois fatores limitam a largura de barras de um código: o primeiro é a quantidade de caracteres a serem codificados, por isso a importância da compactação; o outro é o espaço físico disponível para a etiqueta. No caso das colunas, esse espaço é limitado por sua largura que, na maioria dos casos, é em torno de 70 mm a 80 mm.</li>
                                 </ol>
                             </ul>
-
                             <p>Use sempre o código de menor quantidade de caracteres. Normalmente, um endereço pode ser codificado em dez dígitos: dois dígitos para área, dois dígitos para corredor, três dígitos para módulo, dois dígitos para nível e um dígito para vão.</p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                      
+                        <!-- Accordion 09 --> 
+                     </div><br><br>
+                        <!-- FIM Accordion -->
+
+
+                
+
+
+                           
+
+                            
 
                             <!-- SubTitulo -->
                             <p class="SubTitulo">A Importância da Adoção de Um Sistema de Movimentação e Manuseio</p>
