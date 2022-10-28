@@ -2196,8 +2196,8 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                                     <p> A expedição consiste, basicamente, na verificação e no carregamento das mercadorias nos veículos. Como no recebimento, a expedição é realizada, manualmente, na maioria dos sistemas. A expedição de cargas unitárias está se tornando cada vez mais comum porque, dessa forma, o tempo de carregamento de veículos pode ser reduzido consideravelmente.</p>
                                     <!-- Titulo Figura -->
 <div class="text-center">
-                            <a href="imagens/Figura95.jpg" data-bs-toggle="modal" data-bs-target="#Imagem44">
-                                <img class="img-fluid" src="imagens/Figura96.jpg" width="200" alt="Alt da imagem fica aqui">
+                            <a href="imagens/Figura095.jpg" data-bs-toggle="modal" data-bs-target="#Imagem44">
+                                <img class="img-fluid" src="imagens/Figura095.jpg" width="200" alt="Alt da imagem fica aqui">
                             </a>
                             <p class="FonteFigura"><strong>Figura 83: Representação dos Operadores Efetuando Carregamento na Forma de Carga Unitária </strong></p>
                         </div>
@@ -2207,7 +2207,7 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                             <div class="modal-dialog modal-dialog-centered modal-lg">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <img class="img-fluid" src="imagens/Figura96.jpg" alt="Alt da imagem fica aqui">
+                                        <img class="img-fluid" src="imagens/Figura095.jpg" alt="Alt da imagem fica aqui">
                                     </div>
                                     <div class="modal-footer text-center">
                                         <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
@@ -2708,11 +2708,11 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                             <!-- Accordion 01 -->
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="Item01">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1um" aria-expanded="false" aria-controls="flush-collapse1um">
                                         <strong>a)Tipo de sistema:</strong>
                                     </button>
                                 </h2>
-                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                <div id="flush-collapse1um" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
                                     <div class="accordion-body">
                                     <p> Uma decisão que é coincidente com o dimensionamento e configurações do armazém é a seleção do tipo de sistema de movimentação de materiais a ser usado. Escolhas comuns incluem um sistema manual, um sistema de empilhadeira palete, um sistema de transportadores, um sistema automatizado de estocagem e retirada, ou um sistema de combinação entre esses tipos.</p>
 
@@ -2837,11 +2837,11 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                             <!-- Accordion 02 -->
                             <div class="accordion-item Texto">
                                 <h2 class="accordion-header" id="Item02">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2Dois" aria-expanded="false" aria-controls="flush-collapse2Dois">
                                         <strong>b)Substituição de equipamento:</strong>
                                     </button>
                                 </h2>
-                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                <div id="flush-collapse2Dois" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
                                     <div class="accordion-body">
                                     <p> O equipamento de manuseio de materiais tem freqüentemente uma vida mais curta do que prateleiras de estocagem, escaninhos, mezaninos e outros dispositivos não mecânicos usados no processo de manuseio. Conseqüentemente, é necessário às vezes desenvolver uma política para substituir o equipamento quando se desgasta ou torna-se obsoleto. A necessidade para uma política de substituição é muito clara no caso das empilhadeiras, as quais tem uma vida econômica não muito longa e devem ser substituídas com freqüência, mas a necessidade de uma política ocorre também em vários segmentos dos sistemas de movimentação a granel ou dos sistemas de transportadores nos quais a vida útil do equipamento pode ser muito mais longa. Não é incomum para a organização usar regras empíricas de substituição, como substituir empilhadeiras a cada 5 anos. As regras empíricas baseadas na experiência podem ser muito boas. Entretanto, quando tal experiência não está disponível para ajudar a desenvolver diretrizes para política, ou quando estas regras empíricas não foram testadas por uma análise econômica "fundamentada", é útil ter um meio analítico de desenvolver políticas de substituição.</p>
 
@@ -3691,7 +3691,8 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
     <tbody>
         <tr>
             <td>Usos</td>
-            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arow-right CorVerdeClaroEstado"></i> • Em usinas de força.</span>
+            <td>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em usinas de força.</span>
                 <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Oficinas mecânicas.</span>
                 <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Armazéns.</span>
                 <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pátios externos.</span>
@@ -4215,7 +4216,7 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                             <p class="SubSubTitulo"> Preparação e realização do inventário:</p>
                             <hr>
 <!-- alterado -->
-                            <p><strong>Um bom planejamento e preparação para inventário é imprescindível para a obtenção de bons resultados. Deverá ser providenciado:<</strong>/p>
+                            <p><strong>Um bom planejamento e preparação para inventário é imprescindível para a obtenção de bons resultados. Deverá ser providenciado:</strong></p>
 <!-- alterado end -->
 
 <!-- Início Accordion -->

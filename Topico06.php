@@ -357,12 +357,16 @@ include('layout/header.php');
                                 </div>
                             </div>
                             <br>
-                            <p class="SubTitulo" id="top6-six">6.2.2Decreto Nº 31.549, de 13 de agosto de 2014.</p>
+                            <p class="SubTitulo" id="top6-six">6.2.2 Decreto Nº 31.549, de 13 de agosto de 2014.</p>
                             <hr>
+
+                            
 
                             <p>Dispõe sobre a utilização obrigatória dos sistemas corporativos de gestão patrimonial pelos órgãos e entidades da administração pública direta, autárquica e fundacional do Poder Executivo Estadual e dá outras providências.</p>
                             <!-- Fim Accordion 01 -->
-                            
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
                             <!-- Accordion 02 -->
                             <div class="accordion-item Texto">
                                 <h2 class="accordion-header" id="Item02">
