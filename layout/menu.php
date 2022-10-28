@@ -118,7 +118,10 @@
                                  <li><a href="#top5-eight">5.8 Características das sinalizações em um sistema de endereçamento</a></li>
                                  <li><a href="#top5-nine">5.9 A Importância da Adoção de Um Sistema de Movimentação e Manuseio </a></li>
                                  <li><a href="#top5-ten">5.10 Tipos de movimentação e suas características: </a></li>
-                                 <li><a href="#top5-eleven">5.10 Premissas para facilitar a movimentação de materiais: </a></li>
+                                 <li><a href="#top5-eleven">5.11 Premissas para facilitar a movimentação de materiais: </a></li>
+                                 <li><a href="#top5-twelve">5.12 A escolha de um sistema de movimentação de materiais: </a></li>
+                                 <li><a href="#top5-thirteen">5.13 Equipamentos utilizados nos sistemas de movimentação de materiais: </a></li>
+                                 <li><a href="#top5-fourteen">5.14 Inventários: </a></li>
 
                                 </ul>
                             </div>

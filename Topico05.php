@@ -2584,178 +2584,785 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                         </div>
                            
                             <!-- SubTitulo -->
-                            <p class="SubTitulo"> A escolha de um sistema de movimentação de materiais:</p>
+                            <p class="SubTitulo" id="top5-twelve"> A escolha de um sistema de movimentação de materiais:</p>
                             <hr>
 
                             <p>O manuseio de materiais dentro de um armazém ou das áreas de estocagem é tipicamente uma atividade de mão-de-obra intensiva, já que a maioria do manuseio de materiais nas organizações é feita manualmente ou, na melhor das hipóteses de forma semi automática. A disposição da mercadoria, a extensão na qual o equipamento é usado e o grau de automação afeta os custos de movimentação de materiais. Descobrir a sua melhor combinação é a tarefa do projeto de sistema de movimentação de materiais.</p>
 
-                            <p>O sistema de movimentação de materiais deve ser selecionado para ser uma parte integral de toda a atividade do sistema de estocagem. Não é necessariamente o ponto inicial do projeto do sistema de estocagem nem seu ponto final. Entretanto, a organização pode fazer as primeiras aproximações grosseiras para o projeto final sem tentar equilibrar todos os fatores simultaneamente. Nesta análise, a organização deve levar em conta diversas questões:</p>
+                            <p><strong> O sistema de movimentação de materiais deve ser selecionado para ser uma parte integral de toda a atividade do sistema de estocagem. Não é necessariamente o ponto inicial do projeto do sistema de estocagem nem seu ponto final. Entretanto, a organização pode fazer as primeiras aproximações grosseiras para o projeto final sem tentar equilibrar todos os fatores simultaneamente. Nesta análise, a organização deve levar em conta diversas questões:</strong></p>
 
                             <ol type="a">
-                                <li> Primeira, os sistemas de movimentação de materiais adotados pelos outros impõem restrições sobre a escolha? Por exemplo, se os principais fornecedores do armazém fizerem entregas em paletes de 48 por 48 polegadas, um sistema de movimentação de materiais projetado para paletes de 32 por 40 polegadas pode exigir repaletização das mercadorias entrantes para evitar incompatibilidades de equipamentos ou ineficiências de espaço de estocagem.</li>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"> Primeira, os sistemas de movimentação de materiais adotados pelos outros impõem restrições sobre a escolha? Por exemplo, se os principais fornecedores do armazém fizerem entregas em paletes de 48 por 48 polegadas, um sistema de movimentação de materiais projetado para paletes de 32 por 40 polegadas pode exigir repaletização das mercadorias entrantes para evitar incompatibilidades de equipamentos ou ineficiências de espaço de estocagem.</li>
+                                <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura107.png" data-bs-toggle="modal" data-bs-target="#Imagem56">
+                                <img class="img-fluid" src="imagens/Figura107.png" width="700" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 95: Representação do Sistema de Movimentação de Materiais</strong></p>
+                        </div>
 
-                                <li> Segunda, o projeto do armazém impõe restrições na escolha de equipamentos? Teto baixo, edifício de multiestocagem, corredores estreitos e longas distâncias dentro do armazém podem tomar alguns equipamentos pouco práticos. Isto é, quando as distâncias de percurso são longas, a movimentação manual de mercadorias resulta em custos de mão-de-obra excessivos. Similarmente, o uso de caminhões de empilhadeira e elevadores em armazéns de multiestocagem pode ser ineficiente.</li>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem56" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura107.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                                <li> Terceira, a natureza e o nível do sistema de carregamento depende muito da seleção de equipamentos? Quando o volume do processamento no armazém varia consideravelmente ou as características de manuseio da combinação de produtos não são razoavelmente constantes um sistema e movimentação de materiais manual, com seu baixo custo de investimento e alto grau de flexibilidade para alterar as condições, freqüentemente é a melhor escolha. Inversamente, quando um volume firme, substancial, pode ser antecipado, justifica-se o uso de mais equipamento mecanizado. O capital, na forma de equipamento, é usado para substituir mão-de-obra, mas os níveis de investimentos mais altos podem não ser recuperados se o sistema se tomar obsoleto muito rapidamente. Este é um perigo particular com sistemas inteiramente mecanizados tais como sistemas de estocagem e retirada automatizados: Indubitavelmente, a razão para a popularidade dos sistemas de empilhadeira-palete é que oferecem um bom equilíbrio entre mecanização e flexibilidade.</li>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
-                                <li> Quarta, as características dos produtos podem ser determinantes? Produtos a granel, tais como pós e líquidos, podem ser manuseados com maior eficiência através de um sistema de tanques e pipas em vez de na sua forma embalada, através de empilhadeira-palete. Uma combinação dos tamanhos de produtos, dos pesos e das configurações podem limitar o equipamento aos tipos mais flexíveis ou requer que uma combinação dos tipos de equipamentos seja utilizada para satisfazer várias características de produtos.</li>
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"> Segunda, o projeto do armazém impõe restrições na escolha de equipamentos? Teto baixo, edifício de multiestocagem, corredores estreitos e longas distâncias dentro do armazém podem tomar alguns equipamentos pouco práticos. Isto é, quando as distâncias de percurso são longas, a movimentação manual de mercadorias resulta em custos de mão-de-obra excessivos. Similarmente, o uso de caminhões de empilhadeira e elevadores em armazéns de multiestocagem pode ser ineficiente.</li>
+                                <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura108.png" data-bs-toggle="modal" data-bs-target="#Imagem57">
+                                <img class="img-fluid" src="imagens/Figura108.png" width="700" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 96: Representação do Armazém de Equipamentos
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem57" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura108.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"> Terceira, a natureza e o nível do sistema de carregamento depende muito da seleção de equipamentos? Quando o volume do processamento no armazém varia consideravelmente ou as características de manuseio da combinação de produtos não são razoavelmente constantes um sistema e movimentação de materiais manual, com seu baixo custo de investimento e alto grau de flexibilidade para alterar as condições, freqüentemente é a melhor escolha. Inversamente, quando um volume firme, substancial, pode ser antecipado, justifica-se o uso de mais equipamento mecanizado. O capital, na forma de equipamento, é usado para substituir mão-de-obra, mas os níveis de investimentos mais altos podem não ser recuperados se o sistema se tomar obsoleto muito rapidamente. Este é um perigo particular com sistemas inteiramente mecanizados tais como sistemas de estocagem e retirada automatizados: Indubitavelmente, a razão para a popularidade dos sistemas de empilhadeira-palete é que oferecem um bom equilíbrio entre mecanização e flexibilidade.</li>
+                                <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura109.png" data-bs-toggle="modal" data-bs-target="#Imagem58">
+                                <img class="img-fluid" src="imagens/Figura109.png" width="700" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 96: Representação do Armazém de Equipamentos
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem58" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura109.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+                                <li class="wow fadeInLeft" data-wow-delay="0.3s"> Quarta, as características dos produtos podem ser determinantes? Produtos a granel, tais como pós e líquidos, podem ser manuseados com maior eficiência através de um sistema de tanques e pipas em vez de na sua forma embalada, através de empilhadeira-palete. Uma combinação dos tamanhos de produtos, dos pesos e das configurações podem limitar o equipamento aos tipos mais flexíveis ou requer que uma combinação dos tipos de equipamentos seja utilizada para satisfazer várias características de produtos.</li>
+                                <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura110.png" data-bs-toggle="modal" data-bs-target="#Imagem59">
+                                <img class="img-fluid" src="imagens/Figura110.png" width="700" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 96: Representação do Armazém de Equipamentos
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem59" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura110.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
                             </ol>
 
                             <p>Finalmente, o planejamento para contingências pode influenciar o projeto do sistema. Enquanto os sistemas de movimentação de materiais se tornam mais automatizados e integrados, tornam-se mais sujeitos à parada total quando qualquer segmento individual falhar. Se a confiabilidade do sistema afeta extremamente o serviço ao cliente, os custos relacionados ao sistema (tais como a demora e as cargas detidas) ou custos operacionais do sistema, então, sistemas menos mecanizados ou sistemas mecanizados com redundância embutida podem ser o melhor caminho para o projeto do sistema final.</p>
 
-                            <p>Uma vez que o sistema de movimentação de materiais básico foi esboçado pela organização, questões de projeto mais detalhadas devem ser respondidas, tais como o tipo de sistema e a política de reposição do equipamento.</p>
+                            <p><strong> Uma vez que o sistema de movimentação de materiais básico foi esboçado pela organização, questões de projeto mais detalhadas devem ser respondidas, tais como o tipo de sistema e a política de reposição do equipamento.</strong></p>
 
-                            <p>a) <strong class="CorAzulEstadoEscuro">Tipo de sistema:</strong> Uma decisão que é coincidente com o dimensionamento e configurações do armazém é a seleção do tipo de sistema de movimentação de materiais a ser usado. Escolhas comuns incluem um sistema manual, um sistema de empilhadeira palete, um sistema de transportadores, um sistema automatizado de estocagem e retirada, ou um sistema de combinação entre esses tipos.</p>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                        <strong>a)Tipo de sistema:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Uma decisão que é coincidente com o dimensionamento e configurações do armazém é a seleção do tipo de sistema de movimentação de materiais a ser usado. Escolhas comuns incluem um sistema manual, um sistema de empilhadeira palete, um sistema de transportadores, um sistema automatizado de estocagem e retirada, ou um sistema de combinação entre esses tipos.</p>
 
-                            <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema de Movimentação Manual:</strong> o manuseio de materiais é manual caracterizado por um alto grau de atividade humana.</li>
-                                </li>
+<ul class="none Texto">
+    <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema de Movimentação Manual:</strong> o manuseio de materiais é manual caracterizado por um alto grau de atividade humana.</li>
+    </li>
+    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura111.png" data-bs-toggle="modal" data-bs-target="#Imagem60">
+                                <img class="img-fluid" src="imagens/Figura111.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 96: Representação do Armazém de Equipamentos
+</strong></p>
+                        </div>
 
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema de Empilhadeira Palete:</strong> o manuseio de materiais é apoiado por assistência mecânica utilizando o conceito de carga unitária, tais como: transportes e caminhões industriais para movimentar materiais; paletes, empilhadeiras, prateleiras, estante porta palete, etc.</li>
-                                </li>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem60" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura111.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema de Transportadores:</strong> o manuseio de materiais é apoiado por assistência mecânica onde a carga movimentada é fracionada ou não padronizada, tais como: transportadores, carrosséis para a estocagem; interruptores e solenóides para o controle dos equipamentos;</li>
-                                </li>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
-                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema Automatizado de Estocagem:</strong> o manuseio automatizado caracterizado pelo uso de veículos guiados, paletizadores automatizados, equipamentos automatizados de estocagem e retirada, e identificação automatizada dos materiais;</li>
-                                </li>
-                            </ul>
+    <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema de Empilhadeira Palete:</strong> o manuseio de materiais é apoiado por assistência mecânica utilizando o conceito de carga unitária, tais como: transportes e caminhões industriais para movimentar materiais; paletes, empilhadeiras, prateleiras, estante porta palete, etc.</li>
+    </li>
+    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura112.png" data-bs-toggle="modal" data-bs-target="#Imagem61">
+                                <img class="img-fluid" src="imagens/Figura112.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 96: Representação do Armazém de Equipamentos
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem61" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura112.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+    <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema de Transportadores:</strong> o manuseio de materiais é apoiado por assistência mecânica onde a carga movimentada é fracionada ou não padronizada, tais como: transportadores, carrosséis para a estocagem; interruptores e solenóides para o controle dos equipamentos;</li>
+    </li>
+    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura113.png" data-bs-toggle="modal" data-bs-target="#Imagem62">
+                                <img class="img-fluid" src="imagens/Figura113.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 96: Representação do Armazém de Equipamentos
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem62" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura113.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+    <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Sistema Automatizado de Estocagem:</strong> o manuseio automatizado caracterizado pelo uso de veículos guiados, paletizadores automatizados, equipamentos automatizados de estocagem e retirada, e identificação automatizada dos materiais;</li>
+    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura114.png" data-bs-toggle="modal" data-bs-target="#Imagem63">
+                                <img class="img-fluid" src="imagens/Figura114.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 96: Representação do Armazém de Equipamentos
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem63" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura114.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    </li>
+</ul>
 
 
-                            <p>Esta escolha pode começar com uma análise financeira de retorno do investimento similar àquela geralmente usada para a seleção do tipo de armazém. À escolha final, devem ser adicionadas considerações subjetivas, tais como risco, flexibilidade e obsolescência. Em uma escala menor do que o sistema de movimentação de materiais inteiro, partes individuais de equipamento variam em suas capacidades e potencialidades. Cada uma tem um investimento inicial diferente, uma despesa operacional anual e um valor residual. A seleção é outra vez por comparação mediante uma análise financeira do retorno sobre o investimento.</p>
+<p>Esta escolha pode começar com uma análise financeira de retorno do investimento similar àquela geralmente usada para a seleção do tipo de armazém. À escolha final, devem ser adicionadas considerações subjetivas, tais como risco, flexibilidade e obsolescência. Em uma escala menor do que o sistema de movimentação de materiais inteiro, partes individuais de equipamento variam em suas capacidades e potencialidades. Cada uma tem um investimento inicial diferente, uma despesa operacional anual e um valor residual. A seleção é outra vez por comparação mediante uma análise financeira do retorno sobre o investimento.</p>
 
-                            <p>b) <strong class="CorAzulEstadoEscuro">Substituição de equipamento:</strong> O equipamento de manuseio de materiais tem freqüentemente uma vida mais curta do que prateleiras de estocagem, escaninhos, mezaninos e outros dispositivos não mecânicos usados no processo de manuseio. Conseqüentemente, é necessário às vezes desenvolver uma política para substituir o equipamento quando se desgasta ou torna-se obsoleto. A necessidade para uma política de substituição é muito clara no caso das empilhadeiras, as quais tem uma vida econômica não muito longa e devem ser substituídas com freqüência, mas a necessidade de uma política ocorre também em vários segmentos dos sistemas de movimentação a granel ou dos sistemas de transportadores nos quais a vida útil do equipamento pode ser muito mais longa. Não é incomum para a organização usar regras empíricas de substituição, como substituir empilhadeiras a cada 5 anos. As regras empíricas baseadas na experiência podem ser muito boas. Entretanto, quando tal experiência não está disponível para ajudar a desenvolver diretrizes para política, ou quando estas regras empíricas não foram testadas por uma análise econômica "fundamentada", é útil ter um meio analítico de desenvolver políticas de substituição.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            <p>Para políticas de substituição, formas especiais da análise de valor atual podem ser úteis, embora outros métodos, tais como prazo de retomo e retorno simples sobre o investimento, podem ser empregados. Há diversas características-chave para observar tais problemas. Primeiro, o ciclo de substituição é esperado e continuará indefinidamente no futuro? Segundo, os custos operacionais do equipamento tendem a aumentar ao longo dos anos com a sua idade? Terceiro, como ocorrem melhorias tecnológicas, o equipamento subseqüente pode ser mais eficiente? Para comparar o fluxo de cicIos da substituição de diferentes extensões, é recomendável que a organização aliada a análise qualitativa utilize também métodos quantitativos de engenharia econômica.</p>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                        <strong>b)Substituição de equipamento:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> O equipamento de manuseio de materiais tem freqüentemente uma vida mais curta do que prateleiras de estocagem, escaninhos, mezaninos e outros dispositivos não mecânicos usados no processo de manuseio. Conseqüentemente, é necessário às vezes desenvolver uma política para substituir o equipamento quando se desgasta ou torna-se obsoleto. A necessidade para uma política de substituição é muito clara no caso das empilhadeiras, as quais tem uma vida econômica não muito longa e devem ser substituídas com freqüência, mas a necessidade de uma política ocorre também em vários segmentos dos sistemas de movimentação a granel ou dos sistemas de transportadores nos quais a vida útil do equipamento pode ser muito mais longa. Não é incomum para a organização usar regras empíricas de substituição, como substituir empilhadeiras a cada 5 anos. As regras empíricas baseadas na experiência podem ser muito boas. Entretanto, quando tal experiência não está disponível para ajudar a desenvolver diretrizes para política, ou quando estas regras empíricas não foram testadas por uma análise econômica "fundamentada", é útil ter um meio analítico de desenvolver políticas de substituição.</p>
+
+<p>Para políticas de substituição, formas especiais da análise de valor atual podem ser úteis, embora outros métodos, tais como prazo de retomo e retorno simples sobre o investimento, podem ser empregados. Há diversas características-chave para observar tais problemas. Primeiro, o ciclo de substituição é esperado e continuará indefinidamente no futuro? Segundo, os custos operacionais do equipamento tendem a aumentar ao longo dos anos com a sua idade? Terceiro, como ocorrem melhorias tecnológicas, o equipamento subseqüente pode ser mais eficiente? Para comparar o fluxo de cicIos da substituição de diferentes extensões, é recomendável que a organização aliada a análise qualitativa utilize também métodos quantitativos de engenharia econômica.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+                        </div><br><br>
+                        
+                        <!-- FIM Accordion -->
+
+                            
+                            
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo"> Equipamentos utilizados nos sistemas de movimentação de materiais:</p>
+                            <p class="SubTitulo" id="top5-thirteen"> Equipamentos utilizados nos sistemas de movimentação de materiais:</p>
                             <hr>
-
+                            
                             <p>Selecionar equipamentos de movimentação não é tarefa fácil. Principalmente porque cada operação não pode ser vista isoladamente, mas como parte integrante de todo o sistema de produção e estocagem, devendo-se evitar estrangulamento e/ou ociosidades. É também porque cada uma das alternativas possíveis tem sempre seus prós e contras. Em alguns casos, é o equipamento que exige alto investimento e mostra pouca flexibilidade em contraposição ao equipamento de uso mais generalizado, que se mostra pouco produtivo. Outras vezes, o confronto toma a forma de opção entre elevada automatização com muito investimento, contra equipamentos mais baratos, que exigem mão de obra adicional e mais espaço. Vejamos alguns equipamentos básicos.</p>
 
-                            <p>a) <strong class="CorAzulEstadoEscuro">Carretas:</strong> Isoladas ou em comboios, transportam grandes volumes entre unidades industriais, a distâncias intermediárias muito grandes para empilhadeiras e pequenas demais para caminhões. Existem modelos próprios para o transporte de cargas específicas. Comboios podem movimentar cargas de 20 a 40t à velocidade de 5 a 10 km/h. As carretas podem ser deixadas em pontos diferentes, para carga ou descara, e apanhadas pelo trator na volta. A seleção das carretas é determinada pelo fluxo de movimentação entre as unidades a serem cobertas pela facilidade de carga e descarga do material a ser transportado.</p>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseUm" aria-expanded="false" aria-controls="flush-collapseUm">
+                                        <strong>a) Carretas:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseUm" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Isoladas ou em comboios, transportam grandes volumes entre unidades industriais, a distâncias intermediárias muito grandes para empilhadeiras e pequenas demais para caminhões. Existem modelos próprios para o transporte de cargas específicas. Comboios podem movimentar cargas de 20 a 40t à velocidade de 5 a 10 km/h. As carretas podem ser deixadas em pontos diferentes, para carga ou descara, e apanhadas pelo trator na volta. A seleção das carretas é determinada pelo fluxo de movimentação entre as unidades a serem cobertas pela facilidade de carga e descarga do material a ser transportado.</p>
 
-                            <p>Grandes concentrações de peso exigem carretas baixas reforçadas. Fábricas nacionais produzem unidades com capacidade entre 1.500 e 10.000 kg, dotadas de freio mecânico ou automático.</p>
+<p>Grandes concentrações de peso exigem carretas baixas reforçadas. Fábricas nacionais produzem unidades com capacidade entre 1.500 e 10.000 kg, dotadas de freio mecânico ou automático.</p>
 
-                            <p>A escolha de tração é determinada pelo peso a ser transportado. Potência necessária: 1,5 CV na barra de tração para cada tonelada de carga bruta. Podem ser utilizados jipes, tratores ou carrinhos elétricos. O jipe é o mais indicado para trabalho descontínuo, porque pode – quando ocioso – ser aproveitado em outros setores. Tratores leves e microtratores são utilizados quando se deseja elevada tração. Para cargas leves, o carrinho elétrico pode dar bons resultados. Em pisos planos transporta carga de até 1 t à velocidade de 9 km/h, e tem autonomia de 23 km. Equipado com caçamba pode transportar líquidos e granéis.</p>
+<p>A escolha de tração é determinada pelo peso a ser transportado. Potência necessária: 1,5 CV na barra de tração para cada tonelada de carga bruta. Podem ser utilizados jipes, tratores ou carrinhos elétricos. O jipe é o mais indicado para trabalho descontínuo, porque pode – quando ocioso – ser aproveitado em outros setores. Tratores leves e microtratores são utilizados quando se deseja elevada tração. Para cargas leves, o carrinho elétrico pode dar bons resultados. Em pisos planos transporta carga de até 1 t à velocidade de 9 km/h, e tem autonomia de 23 km. Equipado com caçamba pode transportar líquidos e granéis.</p>
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de carga entre departamentos</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de Gruós de motores da fábrica para a linha de montagem.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de barras de ferro e outras cargas compridas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de grandes volumes de produção para a expedição.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo investimento</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo custo operacional</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Necessidade de poucos veículos de tração.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Flexibilidade</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não exigem pisos especiais, embora o rendimento diminua de até 50% em solos acidentados.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem mão de obra adicional e equipamentos extras de carga e descarga.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+<!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura115.jpg" data-bs-toggle="modal" data-bs-target="#Imagem64">
+                                <img class="img-fluid" src="imagens/Figura115.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                        </div>
 
-                            <p>b) <strong class="CorAzulEstadoEscuro"> Carrinhos:</strong> Os mais antigos e mais simples equipamentos para manejo de cargas. Transportam de 50 a 100 kg e são encontrados praticamente em qualquer depósito. Baseado nos modelos mais simples, foram criados tipos aperfeiçoados, como carrinho de plataforma elevatória (para paletes), que inclui modelos especiais para manejo de tambores, bobinas e plataformas (quatro rodízios). Há uma variedade enorme, classificada em pelo menos sete grupos diferentes:</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem64" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura115.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Carrinho tipo alavanca: Consistem em uma longa barra que termina em um nariz de aço. Apoiam-se em duas rodas pequenas. Sua capacidade atinge 0.5 t, mas restringe-se a curtas distâncias.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Plataformas rolantes: Compreendem extenso grupo cuja característica principal é apresentar superfície carregadora plana. Grande capacidade de carga e raio de alcance limitado (menos de 10 m).</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Carrinhos de uma roda: Consistem em uma caixa ou plataforma montada sobre duas barras e provida de roda central. São muito usados em construção e fundição. Com impulso de 20 kg o trabalhador pode deslocar 100 kg. Seu raio de ação atinge algumas centenas de metros.</li>
-                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Carrinhos de duas rodas: São mais usados. Podem transportar cargas de até 250 kg num raio de 50m.</li>
-                                <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Carrinhos de rodas múltiplas: Tem plataforma lisa e são equipados com três, quatro ou seis rodas, dispostas em várias posições. São fabricados para trabalhar num raio de ação de 150 m e têm múltiplas aplicações.</li>
-                                <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Carrinhos especiais: São construídos para aplicações específicas, transporte de louça, bobinas de papel, latas, tambores, engrenagens.</li>
-                                <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Carrinhos elevadores: Possuem dispositivos para levantar, transportar e depositar de novo no solo o estrado. Alguns são específicos para cargas paletizadas.</li>
-                            </ul>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                        <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura116.jpg" data-bs-toggle="modal" data-bs-target="#Imagem65">
+                                <img class="img-fluid" src="imagens/Figura116.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 102: Modelo de Carreta
+</strong></p>
+                        </div>
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Formação de lotes para despacho.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de cargas a curtas distâncias.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Auxiliar de operações mecanizadas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Trabalhos de conservação e reparação.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de matérias-primas e semiacabados em linhas de produção e montagem.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo custo.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Versatilidade</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Silenciosos.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixíssimo custo de manutenção.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade de carga e raio de ação limitados.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa velocidade de operação.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mais mão de obre que os equipamentos mecanizados.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa produtividade</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem65" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura116.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <p>c) <strong class="CorAzulEstadoEscuro"> Elevadores:</strong> Dividem-se de acordo com a Associação Brasileira de Normas Técnicas em três categorias:</p>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
-                            <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Elevador de Carga: Semelhante aos elevadores de passageiros, são todavia mais rústicos; podem ser montados em torres metálicas, completamente fechadas.</li>
-                                </li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Monta cargas: capacidade máxima de 300 kg e dimensões máximas de 1,10 x 1,10 x 1,10m.</li>
-                                </li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Elevador Móvel: Utilizado em armazéns com elevado aproveitamento vertical em cargas não paletizadas.</li>
-                                </li>
-                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-cube CorVerdeClaroEstado"></i> Elevador de alçapão: Utilizado na carga e descarga de garrafas, latas, caixas, etc., entre o pavimento térreo e o subsolo.</li>
-                                </li>
-                            </ul>
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de carga entre departamentos</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de Gruós de motores da fábrica para a linha de montagem.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de barras de ferro e outras cargas compridas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de grandes volumes de produção para a expedição.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo investimento</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo custo operacional</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Necessidade de poucos veículos de tração.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Flexibilidade</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não exigem pisos especiais, embora o rendimento diminua de até 50% em solos acidentados.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem mão de obra adicional e equipamentos extras de carga e descarga.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
+
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseDois" aria-expanded="false" aria-controls="flush-collapseDois">
+                                        <strong>b) Carrinhos</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseDois" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Os mais antigos e mais simples equipamentos para manejo de cargas. Transportam de 50 a 100 kg e são encontrados praticamente em qualquer depósito. Baseado nos modelos mais simples, foram criados tipos aperfeiçoados, como carrinho de plataforma elevatória (para paletes), que inclui modelos especiais para manejo de tambores, bobinas e plataformas (quatro rodízios). Há uma variedade enorme, classificada em pelo menos sete grupos diferentes:</p>
+
+<ul class="none Texto">
+    <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Carrinho tipo alavanca: Consistem em uma longa barra que termina em um nariz de aço. Apoiam-se em duas rodas pequenas. Sua capacidade atinge 0.5 t, mas restringe-se a curtas distâncias.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura117.jpg" data-bs-toggle="modal" data-bs-target="#Imagem66">
+                                <img class="img-fluid" src="imagens/Figura117.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong> Figura 103: Carrinho Tipo Alavanca</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem66" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura117.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Plataformas rolantes: Compreendem extenso grupo cuja característica principal é apresentar superfície carregadora plana. Grande capacidade de carga e raio de alcance limitado (menos de 10 m).</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura118.jpg" data-bs-toggle="modal" data-bs-target="#Imagem67">
+                                <img class="img-fluid" src="imagens/Figura118.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 104: Carrinho Plataforma Rolante
+
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem67" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura118.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Carrinhos de uma roda: Consistem em uma caixa ou plataforma montada sobre duas barras e provida de roda central. São muito usados em construção e fundição. Com impulso de 20 kg o trabalhador pode deslocar 100 kg. Seu raio de ação atinge algumas centenas de metros.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura119.jpg" data-bs-toggle="modal" data-bs-target="#Imagem68">
+                                <img class="img-fluid" src="imagens/Figura119.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 105: Carrinho de Uma Roda
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem68" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura119.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Carrinhos de duas rodas: São mais usados. Podem transportar cargas de até 250 kg num raio de 50m.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura120.jpg" data-bs-toggle="modal" data-bs-target="#Imagem69">
+                                <img class="img-fluid" src="imagens/Figura120.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 106: Carrinho de Duas Rodas</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem69" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura120.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Carrinhos de rodas múltiplas: Tem plataforma lisa e são equipados com três, quatro ou seis rodas, dispostas em várias posições. São fabricados para trabalhar num raio de ação de 150 m e têm múltiplas aplicações.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura121.jpg" data-bs-toggle="modal" data-bs-target="#Imagem70">
+                                <img class="img-fluid" src="imagens/Figura121.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 107: Carrinho de Múltiplas Rodas</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem70" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura121.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li class="wow fadeInDown" data-wow-delay="1.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Carrinhos especiais: São construídos para aplicações específicas, transporte de louça, bobinas de papel, latas, tambores, engrenagens.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura122.png" data-bs-toggle="modal" data-bs-target="#Imagem71">
+                                <img class="img-fluid" src="imagens/Figura122.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 107: Carrinho de Múltiplas Rodas
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem71" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura122.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li class="wow fadeInDown" data-wow-delay="2.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Carrinhos elevadores: Possuem dispositivos para levantar, transportar e depositar de novo no solo o estrado. Alguns são específicos para cargas paletizadas.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura123.png" data-bs-toggle="modal" data-bs-target="#Imagem72">
+                                <img class="img-fluid" src="imagens/Figura123.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 110: Carrinho com Elevador para Carga Geral</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem72" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura123.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+</ul>
+
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Formação de lotes para despacho.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de cargas a curtas distâncias.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Auxiliar de operações mecanizadas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Trabalhos de conservação e reparação.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de matérias-primas e semiacabados em linhas de produção e montagem.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo custo.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Versatilidade</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Silenciosos.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixíssimo custo de manutenção.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade de carga e raio de ação limitados.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa velocidade de operação.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mais mão de obre que os equipamentos mecanizados.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa produtividade</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+
+                            <!-- Accordion C -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="ItemC">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseC" aria-expanded="false" aria-controls="flush-collapseC">
+                                        <strong>c) Elevadores: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseC" class="accordion-collapse collapse" aria-labelledby="ItemC" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                        <p> Dividem-se de acordo com a Associação Brasileira de Normas Técnicas em três categorias: </p>
+                                    <ul class="none Texto">
+    <li ><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Elevador de Carga: Semelhante aos elevadores de passageiros, são, todavia, mais rústicos; podem ser montados em torres metálicas, completamente fechadas.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura125.png" data-bs-toggle="modal" data-bs-target="#Imagem73">
+                                <img class="img-fluid" src="imagens/Figura125.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 111: Elevador de Carga </strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem73" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura125.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li ><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Monta cargas: Capacidade máxima de 300 kg e dimensões máximas de 1,10 x 1,10 x 1,10 m.
+</li>
+ <!-- Titulo Figura -->
+ <div class="text-center">
+                            <a href="imagens/Figura126.png" data-bs-toggle="modal" data-bs-target="#Imagem74">
+                                <img class="img-fluid" src="imagens/Figura126.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 112: Elevador Monta Carga</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem74" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura126.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li ><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Elevador Móvel: Utilizado em armazéns com elevado aproveitamento vertical em cargas não paletizadas.</li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura127.png" data-bs-toggle="modal" data-bs-target="#Imagem74">
+                                <img class="img-fluid" src="imagens/Figura127.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 113: Elevador Móvel
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem74" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura127.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    <li ><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Elevador de Alçapão: Utilizado na carga e descarga de garrafas, latas, caixas etc., entre o pavimento térreo e o subsolo. </li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura128.png" data-bs-toggle="modal" data-bs-target="#Imagem75">
+                                <img class="img-fluid" src="imagens/Figura128.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 114: Elevador de Alçapão</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem75" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura128.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+    </ul> <br><br>
+    <table class="table table-bordered">
+    <tbody>  
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte entre andares diferentes;</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Carga e descarga entre pavimento térreo e subsolo;</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Vencer desníveis entre a rua e o piso do armazém.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">•  Ocupam menos espaço que outros equipamentos;</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• São relativamente baratos.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem cuidados na operação para evitar acidentes;</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menos velozes que outros equipamentos.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion C -->
 
 
-                            <table class="table table-bordered" border-color: #44833d;>
-                                <tbody>
-                                    <tr>
-                                        <td class="colunaverde">Usos</td>
-                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte entre andares diferentes.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Carga e descarga entre pavimento térreo e subsolo.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Vencer desníveis entre a rua e o piso do armazém.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Ocupam menos espaço que outros equipamentos.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• São relativamente baratos.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem cuidados na operação para evitar acidentes.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menos velozes que outros equipamentos.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-
-                            <br>
-                            <p>d) <strong class="CorAzulEstadoEscuro"> Empilhadeiras Frontais</strong>: Quando utilizadas continuamente, apresentam indiscutíveis vantagens em relação ao trabalho braçal. Proporcionam flexibilidade operacional, reduzem à metade os custos de movimentação, possibilitam maior aproveitamento do espaço de armazenagem e melhor arrumação das cargas. A empilhadeira constitui-se basicamente de uma unidade locomotora, dotada de controles hidráulicos e acionada por motor elétrico, à gasolina, à diesel ou GLP. Sobre uma coluna ou quadro de elevação, correm garfos, que fazem a carga e descarga e suportam o peso. O equipamento move-se sobre rodas pneumáticas ou de borracha maciça. As colunas podem ter apenas um ou mais estágios – o que possibilita alturas de elevação de até 12 m – e se inclinam para a frente ou para trás, para depositar ou apanhar carga. Em vez de garfos, a empilhadeira pode dispor de aríete – para carregar pneus, por exemplo; pega cargas hidráulicas para peças de ferro; ou caçamba para minério ou metais fundidos.
+                            <!-- Accordion 03 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item03">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTres" aria-expanded="false" aria-controls="flush-collapseTres">
+                                        <strong>d) Empilhadeiras Frontais: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTres" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>Quando utilizadas continuamente, apresentam indiscutíveis vantagens em relação ao trabalho braçal. Proporcionam flexibilidade operacional, reduzem à metade os custos de movimentação, possibilitam maior aproveitamento do espaço de armazenagem e melhor arrumação das cargas. A empilhadeira constitui-se basicamente de uma unidade locomotora, dotada de controles hidráulicos e acionada por motor elétrico, à gasolina, à diesel ou GLP. Sobre uma coluna ou quadro de elevação, correm garfos, que fazem a carga e descarga e suportam o peso. O equipamento move-se sobre rodas pneumáticas ou de borracha maciça. As colunas podem ter apenas um ou mais estágios – o que possibilita alturas de elevação de até 12 m – e se inclinam para a frente ou para trás, para depositar ou apanhar carga. Em vez de garfos, a empilhadeira pode dispor de aríete – para carregar pneus, por exemplo; pega cargas hidráulicas para peças de ferro; ou caçamba para minério ou metais fundidos.
                             <p>A velocidade máxima do equipamento varia de 10km/h (elétricas) até 35 km/h (a diesel).</p>
 
                             <p>A empilhadeira elétrica é lenta e só pode operar em pisos bastante regulares. Tem, todavia, baixo custo operacional e não polui o ambiente. É indicada para ambientes fechados e que exijam higiene, como câmaras frigoríficas, indústrias químicas e alimentícias. Os modelos a GLP ou Diesel são relativamente mais caros. Mas poluem menos o ambiente e quando utilizados a plena capacidade têm custo operacional menor que as versões à gasolina.</p>
 
                             <p>As condições do piso determinam a rodagem. Se o piso é irregular, não é aconselhável a utilização de empilhadeira com rodas maciças. Uma seleção adequada depende da análise dos dados.</p>
+                            <!-- Figura 01 - End -->
+    <li ><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Elevador de Alçapão: Utilizado na carga e descarga de garrafas, latas, caixas etc., entre o pavimento térreo e o subsolo. </li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura129.png" data-bs-toggle="modal" data-bs-target="#Imagem76">
+                                <img class="img-fluid" src="imagens/Figura129.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 115: Empilhadeira Frontal
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem76" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura129.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
                             <table class="table table-bordered">
                                 <tbody>
@@ -2782,355 +3389,762 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                                     </tr>
                                 </tbody>
                             </table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 03 -->
 
-                            <p>e) <strong class="CorAzulEstadoEscuro"> Empilhadeiras Laterais</strong>: Manobra cargas pesadas, compridas e desajeitadas em pequenos espaços a maiores distâncias que as convencionais. Equipamento versátil e flexível – algumas movem-se para frente, para trás e para os lados; são capazes de desempenhar as funções de um caminhão médio, de uma ponte rolante, e guindaste ou mesmo de uma empilhadeira frontal. Tendo o sistema de elevação instalado na sua parte lateral, pode deslocar-se no sentido de maior dimensão da carga que é apoiada na plataforma. A coluna e os garfos têm deslocamento lateral, permitindo cargas sem equipamentos auxiliares, além de facilitar a formação e alinhamento de pilhas. Para colocar a carga sobre o chassi, o equipamento utiliza o recuo da coluna. Na descarga, opera da mesma forma que as empilhadeiras convencionais. Fabricadas em capacidades que vão desde ½ até 45t, podem ser divididas em dois grupos: as de raio de ação limitado e as de raio de ação longo. As do primeiro tipo – de utilização na produção e armazenagem de cargas paletizadas – são geralmente movidas a motor elétrico. Caracterizam-se por grande liberdade de movimento. Já as outras reúnem as vantagens de uma empilhadeira convencional às de um caminhão de entrega. São indicadas para operar ao ar livre.</p>
+                            <!-- Accordion 04 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item04">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseQuatro" aria-expanded="false" aria-controls="flush-collapseQuatro">
+                                        <strong>e) Empilhadeiras Laterais:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseQuatro" class="accordion-collapse collapse" aria-labelledby="Item04" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Manobra cargas pesadas, compridas e desajeitadas em pequenos espaços a maiores distâncias que as convencionais. Equipamento versátil e flexível – algumas movem-se para frente, para trás e para os lados; são capazes de desempenhar as funções de um caminhão médio, de uma ponte rolante, e guindaste ou mesmo de uma empilhadeira frontal. Tendo o sistema de elevação instalado na sua parte lateral, pode deslocar-se no sentido de maior dimensão da carga que é apoiada na plataforma. A coluna e os garfos têm deslocamento lateral, permitindo cargas sem equipamentos auxiliares, além de facilitar a formação e alinhamento de pilhas. Para colocar a carga sobre o chassi, o equipamento utiliza o recuo da coluna. Na descarga, opera da mesma forma que as empilhadeiras convencionais. Fabricadas em capacidades que vão desde ½ até 45t, podem ser divididas em dois grupos: as de raio de ação limitado e as de raio de ação longo. As do primeiro tipo – de utilização na produção e armazenagem de cargas paletizadas – são geralmente movidas a motor elétrico. Caracterizam-se por grande liberdade de movimento. Já as outras reúnem as vantagens de uma empilhadeira convencional às de um caminhão de entrega. São indicadas para operar ao ar livre.</p>
+                                    <!-- Figura 01 - End -->
+    <li ><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Elevador de Alçapão: Utilizado na carga e descarga de garrafas, latas, caixas etc., entre o pavimento térreo e o subsolo. </li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura131.png" data-bs-toggle="modal" data-bs-target="#Imagem77">
+                                <img class="img-fluid" src="imagens/Figura131.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 117: Empilhadeira Lateral de Raio de Ação Longa
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td>De raio de ação limitado:
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na estocagem de cargas paletizadas eliminam corredores transversais e permitem corredores de acesso mais estreito (1,70m).</span>
-                                            De raio de ação longo:
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No escoamento ou suprimento de linhas de montagem, onde proporcionam redução de área de até 50% em relação às convencionais.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em terrenos acidentados ou .pisos irregulares.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em serrarias podem fazer quase toda a movimentação interna de materiais desde a recepção até expedição.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na laminação, além de serem úteis na movimentação de chapas, servem também para paletizar lingotes de mais de 15 t e transportar peças quentes (acima de 700º c).</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na trefilação, movimentam rolos de arame e barras compridas, auxiliam a fabricação de telas e realizam operações de cargas e descargas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Nas indústrias de pré-moldados, removem com suavidade e firmeza peças ainda não curadas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na construção civil, movimentam e descarregam blocos pré-moldados, madeira, além de armar e desarmar andaimes.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em obras públicas, ajudam a assentar tubos compridos, mesmo se acondicionados em armações unitárias. Líquidos que não podem ser muito agitados são transportados nas plataformas da empilhadeira graças à sua boa estabilidade.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na indústria química, transportam produtos perigosos, com baixo risco.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na indústria automobilística, manuseiam chassi, tanto para descarga de carretas, como no suprimento de linhas de montagem.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em portos, manobram pesados contenedores de até 45t.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte urbano, podem ser usadas para entregas de até 10 km de distância.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td> De raio de ação limitado
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Grande altura de empilhamento (até 12 m).</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Dispensam equipamentos auxiliares.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Melhor aproveitamento de espaço, uma vez que operam em corredores estreitos – apenas alguns centímetros a mais que a largura do palete.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Tem mais estabilidade que as empilhadeiras convencionais.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menor velocidade de elevação que as empilhadeiras convencionais.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não ultrapassam pilhas ou obstáculos.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Preço inicial maior que o das empilhadeira convencionais, embora os custos de manutenção sejam equivalentes.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não são fabricadas no Brasil.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem mão de obra adicional e equipamentos extras de carga e descarga.</span>
-                                            <br><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.</span>
-                                            <br><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+</strong></p>
+                        </div>
 
-                            <p>f) <strong class="CorAzulEstadoEscuro"> Empilhadeiras Manuais</strong>: Equipamento intermediário entre o carrinho manual e a empilhadeira motorizada. Movimentada e guiada manualmente, a empilhadeira manual possui, todavia, mecanismo de elevação manual, hidráulico, elétrico ou eletro-hiraulico. Desloca-se sobre rodízios de náilon ou borracha e é equipada com torre telescópica-dobrável, para permitir a passagem por caminhos estreitos e portas. Capacidade de carga variável entre 300 e 1500 kg. Podem vir equipadas com os seguintes dispositivos:</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem77" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura131.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Garfo: Para movimentar cargas paletizadas.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Plataforma: Para receber pacotes, peças, estampos, etc.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.8s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Tarugo: Eixo horizontal usado no transo, tem porte de rolos de arame, pneus, bobinas de papel.</li>
-                                <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Lança com gancho: Semelhante ao tarugo tem gancho na extremidade para pendurar a carga; utilizada em frigoríficos, açougues e matadouros.</li>
-                                <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Tambor basculante: Arco que suporta o recipiente por alças ou garfos. Usado no transporte e estocagem de tachos, tambores e barris. Serve também para entornar líquidos quentes, ácidos, etc.</li>
-                            </ul>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Alimentação de máquinas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Estocagem de cargas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Grande altura.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Carga e descarga de caminhões.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Auxiliar de empilhadeira motorizada.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo preço.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não exige operador especializado.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Raio de ação limitado.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade limitada a 1.500 kg.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa velocidade de operação.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td>De raio de ação limitado:
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na estocagem de cargas paletizadas eliminam corredores transversais e permitem corredores de acesso mais estreito (1,70m).</span>
+                De raio de ação longo:
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No escoamento ou suprimento de linhas de montagem, onde proporcionam redução de área de até 50% em relação às convencionais.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em terrenos acidentados ou .pisos irregulares.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em serrarias podem fazer quase toda a movimentação interna de materiais desde a recepção até expedição.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na laminação, além de serem úteis na movimentação de chapas, servem também para paletizar lingotes de mais de 15 t e transportar peças quentes (acima de 700º c).</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na trefilação, movimentam rolos de arame e barras compridas, auxiliam a fabricação de telas e realizam operações de cargas e descargas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Nas indústrias de pré-moldados, removem com suavidade e firmeza peças ainda não curadas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na construção civil, movimentam e descarregam blocos pré-moldados, madeira, além de armar e desarmar andaimes.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em obras públicas, ajudam a assentar tubos compridos, mesmo se acondicionados em armações unitárias. Líquidos que não podem ser muito agitados são transportados nas plataformas da empilhadeira graças à sua boa estabilidade.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na indústria química, transportam produtos perigosos, com baixo risco.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na indústria automobilística, manuseiam chassi, tanto para descarga de carretas, como no suprimento de linhas de montagem.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em portos, manobram pesados contenedores de até 45t.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte urbano, podem ser usadas para entregas de até 10 km de distância.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td> De raio de ação limitado
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Grande altura de empilhamento (até 12 m).</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Dispensam equipamentos auxiliares.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Melhor aproveitamento de espaço, uma vez que operam em corredores estreitos – apenas alguns centímetros a mais que a largura do palete.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Tem mais estabilidade que as empilhadeiras convencionais.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menor velocidade de elevação que as empilhadeiras convencionais.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não ultrapassam pilhas ou obstáculos.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Preço inicial maior que o das empilhadeira convencionais, embora os custos de manutenção sejam equivalentes.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não são fabricadas no Brasil.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem mão de obra adicional e equipamentos extras de carga e descarga.</span>
+                <br><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Se o número de paradas é muito grande, a velocidade de operação torna-se reduzida.</span>
+                <br><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige operador – tipo de controle sem operador ainda mão é fabricado no Brasil.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 04 -->
+                        <!-- Accordion 05 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item05">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseCinco" aria-expanded="false" aria-controls="flush-collapseCinco">
+                                        <strong>f) Empilhadeiras Manuai :</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseCinco" class="accordion-collapse collapse" aria-labelledby="Item05" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>Equipamento intermediário entre o carrinho manual e a empilhadeira motorizada. Movimentada e guiada manualmente, a empilhadeira manual possui, todavia, mecanismo de elevação manual, hidráulico, elétrico ou eletro-hiraulico. Desloca-se sobre rodízios de náilon ou borracha e é equipada com torre telescópica-dobrável, para permitir a passagem por caminhos estreitos e portas. Capacidade de carga variável entre 300 e 1500 kg. Podem vir equipadas com os seguintes dispositivos:</p>
 
+<ul class="none Texto">
+    <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Garfo: Para movimentar cargas paletizadas.</li>
+    <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Plataforma: Para receber pacotes, peças, estampos, etc.</li>
+    <li class="wow fadeInDown" data-wow-delay="0.8s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Tarugo: Eixo horizontal usado no transo, tem porte de rolos de arame, pneus, bobinas de papel.</li>
+    <li class="wow fadeInDown" data-wow-delay="1.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Lança com gancho: Semelhante ao tarugo tem gancho na extremidade para pendurar a carga; utilizada em frigoríficos, açougues e matadouros.</li>
+    <li class="wow fadeInDown" data-wow-delay="1.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Tambor basculante: Arco que suporta o recipiente por alças ou garfos. Usado no transporte e estocagem de tachos, tambores e barris. Serve também para entornar líquidos quentes, ácidos, etc.</li>
+</ul>
+<!-- Figura 01 - End -->
+<li ><i class="fa fa-arrow-right CorVerdeClaroEstado"></i>Elevador de Alçapão: Utilizado na carga e descarga de garrafas, latas, caixas etc., entre o pavimento térreo e o subsolo. </li>
+     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura130.jpg" data-bs-toggle="modal" data-bs-target="#Imagem78">
+                                <img class="img-fluid" src="imagens/Figura130.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 118: Empilhadeira Manual</strong></p>
+                        </div>
 
-                            <p>g) <strong class="CorAzulEstadoEscuro"> Guindaste Móvel:</strong> Dois tipos: (a) lança hidráulica montada em plataforma de deslocamento manual (b) veículo totalmente motorizado, com cabina, da qual o operador controla os movimentos da máquina. A capacidade dos modelos de série do mercado nacional chega a 33.000 kg. A possibilidade de se adaptarem dispositivos extras torna a aplicação dos guindastes móveis muito variada. Embora possam operar – especialmente os de menor capacidade – com lança a altura elevada, podem ser projetados para trabalhar em áreas restritas, passando através de portas. Geralmente utilizam um jib (que normalmente atinge 9 m de comprimento) extensível, capaz de operar no sentido vertical a alturas moderadas. A área de ação chega a 360º, mas o aumento do comprimento da lança reduz a capacidade de carga. A lança giratória possibilita a movimentação de cargas com o guindaste parado.
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem78" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura130.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em pátios de manobras ferroviárias, para carregar vagões.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de cargas e carregamento de navios em portos.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Montagem industrial.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Construção pesada.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Terminais de levantamento em áreas restritas.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Opera cargas não paletizadas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A lança atinge locais de difícil acesso.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimenta-se em qualquer sentido.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Uso muito versátil.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporta cargas em locais em que o piso é obstáculo.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Mais lento que os equipamentos especializados.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não pode ser utilizado em lugares de altura limitada.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não passa em corredores estreitos.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
-                            <p>h) <strong class="CorAzulEstadoEscuro"> Pontes rolantes:</strong> Movimentam desde pequenas cargas de 599 kg até pesadíssimos geradores ou transformadores de 300 t. A possibilidade de utilização de acessórios diferentes – ganchos, âncora, caçambas, garras ou pinças – amplia o campo de aplicação do equipamento, que vai desde o transporte de peças, tubos e barras, passando por cagas a granel, sucatas, até lingotes quentes, “panelas” e aço líquido e carregamento de fornos.</p>
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Alimentação de máquinas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Estocagem de cargas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Grande altura.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Carga e descarga de caminhões.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Auxiliar de empilhadeira motorizada.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo preço.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não exige operador especializado.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Raio de ação limitado.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade limitada a 1.500 kg.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixa velocidade de operação.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 05 -->
+                        <!-- Accordion 06 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item06">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSeis" aria-expanded="false" aria-controls="flush-collapseSeis">
+                                        <strong>g) Guindaste Móvel: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseSeis" class="accordion-collapse collapse" aria-labelledby="Item06" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Dois tipos: (a) lança hidráulica montada em plataforma de deslocamento manual (b) veículo totalmente motorizado, com cabina, da qual o operador controla os movimentos da máquina. A capacidade dos modelos de série do mercado nacional chega a 33.000 kg. A possibilidade de se adaptarem dispositivos extras torna a aplicação dos guindastes móveis muito variada. Embora possam operar – especialmente os de menor capacidade – com lança a altura elevada, podem ser projetados para trabalhar em áreas restritas, passando através de portas. Geralmente utilizam um jib (que normalmente atinge 9 m de comprimento) extensível, capaz de operar no sentido vertical a alturas moderadas. A área de ação chega a 360º, mas o aumento do comprimento da lança reduz a capacidade de carga. A lança giratória possibilita a movimentação de cargas com o guindaste parado.</p>
+                                     <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura134.jpg" data-bs-toggle="modal" data-bs-target="#Imagem79">
+                                <img class="img-fluid" src="imagens/Figura134.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 119: Guindaste Móvel Manual
+</strong></p>
+                        </div>
 
-                            <p>Basicamente, a ponte rolante é constituída por uma ou mais vigas que correm sobre trilhos, a altura suficiente para não interferir com a movimentação no piso. Geralmente é instalada um pouco abaixo do nível do telhado. Combina a capacidade de levantar carga com o movimento horizontal em dois sentidos, que só é limitado pelas colunas e pelo comprimento dos trilhos. Na seleção, os pontos básicos são a capacidade de elevação, a frequência de operação e a velocidade desejada.</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem79" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura134.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arow-right CorVerdeClaroEstado"></i> • Em usinas de força.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Oficinas mecânicas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Armazéns.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pátios externos.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Linhas de montagem.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Siderurgia, no carregamento de fornos, laminação e em pátios de lingoteiras.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Usinas de açúcar.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Durabilidade elevada.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode movimentar cargas ultrapesadas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não interferem no trabalho ao nível do solo.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Modelos para operação ao nível do solo podem ser operados por pessoal não especializado.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Podem carregar e descarregar em qualquer ponto, possibilitando adequado posicionamento da carga.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem estruturas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Quando o edifício não é especialmente construído para receber a ponte, a adaptação encarece muito o investimento.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Preço inicial relativamente alto.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Área de movimentação definida.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Requer mão de obra adicional, ao nível do solo.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+                         <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura132.png" data-bs-toggle="modal" data-bs-target="#Imagem80">
+                                <img class="img-fluid" src="imagens/Figura132.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 120: Guindaste Móvel Motorizado
+</strong></p>
+                        </div>
 
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem80" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura132.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
 
-                            <p>i) <strong class="CorAzulEstadoEscuro"> Ponte rolante empilhadeira:</strong> Soluciona problemas que não poderiam ser resolvidos por uma empilhadeira ou por uma ponte rolante convencional. Consiste em uma ponte rolante com duas vigas principais , na qual será acoplado um carrinho de girar completamente sobre si mesmo, de forma contínua. Desse carrinho sai, em direção ao solo, um mastro, no qual corre – verticalmente – um conjunto de garfos. O sistema permite movimentos nas três dimensões. Nos sentidos longitudinal e transversal, aponte rolante e o carrinho – que tem movimento transversal e rotativo cobrem todos os cantos do armazém. No sentido vertical, o conjunto de garfos desliza no mastro – movimento telescópico – e pode ser acrescido de movimento giratório. O equipamento é operado através de cabine instalada ao lado do conjunto de garfos e pode acompanhar todos os movimentos – verticais e horizontais da carga.</p>
-
-                            <p>Pode movimentar desde produtos semiacabados, passando por perfilados, fardos, madeira até tubos, perfis e trefilados, de prensas para prateleiras e dessas para outras máquinas ou expedição.</p>
-
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Para alturas de empilhamento superiores a 6m.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na estocagem de grandes volumes de materiais.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Necessidade de fluxo rápido de carga.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em áreas de estocagem restrita.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em pisos pouco resistentes e irregulares, que impossibilitem a utilização de empilhadeira convencional.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Quando planos de carga e descarga são diferentes, impossibilitando a utilização de ponte rolante convencional, mesmo com o auxílio de operadores para virar a mercadoria.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Permite elevadas alturas de empilhamento.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Elimina corredores – que chegam a absorver até 70% da área útil.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Aumenta a velocidade de operação, permitindo fluxo mais rápido da carga.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige investimento maior que uma empilhadeira ou ponte rolante convencional.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Manutenção é mais cara.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-
-                            <p>j) <strong class="CorAzulEstadoEscuro"> Pórtico rolante:</strong> Muito semelhante à ponte rolante, projetado geralmente para trabalhar ao ar livre (especialmente em portos), possui estrutura própria, que corre sobre trilhos assentados no piso.</p>
-
-                            <p>Em relação à ponte rolante oferece vantagens para comprimento de rolamentos maiores - acima de 50 m , onde a construção de uma estrutura metálica ou de concreto armado torna-se muito cara. Quanto maior o vão, mais indicada torna-se a ponte rolante, porque quando as pernas do pórtico estão muito separadas torna-se difícil conseguir um funcionamento rápido e macio. Mas há certos trabalhos, como o levantamento de cargas muito pesadas, em que o pórtico é definitivamente mais indicado que a ponte.</p>
-
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na movimentação ao ar livre de cargas pesadas, em pequenos vão e grandes comprimentos de rolamento.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td> Em relação à ponte rolante
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Maior capacidade de carga.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possibilidade de deslocamento a maiores distâncias.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer estrutura.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td> Em relação à ponte rolante
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Uso mais restrito e em vão menores.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menos seguro.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Interfere com o tráfego no piso</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Mais caro.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-
-                            <p>k) <strong class="CorAzulEstadoEscuro"> Talhas:</strong> Indicadas para deslocar cargas pesadas, volumosas ou desajeitadas, com frequência variável. Elétrica, manual ou pneumática, pode ser utilizada fixa – apenas para levantar cargas – ou ser adaptada a monovias e monotrilhos, para fazer grandes deslocamentos de carga. Quando os movimentos internos são compostos de pequenos deslocamentos verticais ou horizontais, a talha pode ser excelente solução para transporte interno.
-
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Em deslocamentos verticais.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em deslocamentos horizontais, quando adaptadas a monovias.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em ambos os casos, na movimentação de cargas pesadas e desajeitadas.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo .custo inicial</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Facilidade de instalação.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Desaconselhada para produção em série.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mão de obra auxiliar.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
 
-                            <p>l) <strong class="CorAzulEstadoEscuro"> Transportador de Corrente:</strong> Consiste em uma série de troles de aço com rodas metálicas, que se deslocam na aba inferior de uma viga guia de perfil em I. O acondicionamento é feito de corrente sem fim. O sistema é muito utilizado no transporte de produtos fabricados em série, baixa velocidade e em circuito fechado. Cada um desses troles possui um braço e um dispositivo de sustentação para receber a carga, variável em formato, conforme o formato da carga. Assim, para cargas pequenas – parafusos porcas, etc. – podem ser utilizadas cestas de arame, que são facilmente colocadas e retiradas dos troles. Bobinas de chapa ou arame podem ser suspensas por ganchos reforçados. Metais fundidos podem ser transportados em bandejas de resfriamento de grande superfície.</p>
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em pátios de manobras ferroviárias, para carregar vagões.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimentação de cargas e carregamento de navios em portos.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Montagem industrial.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Construção pesada.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Terminais de levantamento em áreas restritas.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Opera cargas não paletizadas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A lança atinge locais de difícil acesso.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Movimenta-se em qualquer sentido.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Uso muito versátil.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporta cargas em locais em que o piso é obstáculo.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Mais lento que os equipamentos especializados.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não pode ser utilizado em lugares de altura limitada.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não passa em corredores estreitos.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 06 -->
+                        <!-- Accordion 07 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item07">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSete" aria-expanded="false" aria-controls="flush-collapseSete">
+                                        <strong>h) Pontes rolantes: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseSete" class="accordion-collapse collapse" aria-labelledby="Item07" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>Movimentam desde pequenas cargas de 599 kg até pesadíssimos geradores ou transformadores de 300 t. A possibilidade de utilização de acessórios diferentes – ganchos, âncora, caçambas, garras ou pinças – amplia o campo de aplicação do equipamento, que vai desde o transporte de peças, tubos e barras, passando por cagas a granel, sucatas, até lingotes quentes, “panelas” e aço líquido e carregamento de fornos.</p>
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Secções de pintura e decapagens de indústrias, principalmente automobilísticas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de reses abatidas em frigoríficos.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em qualquer situação que exija transporte em série, a velocidade não muito elevada.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Libera área do piso para fins produtivos.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode fazer curvas e vencer elevações com facilidade.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Permite boa sincronização nas operações de montagem.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige estruturas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Área de operação predeterminadas e difícil de ser remanejada.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mão de obra auxiliar ao nível de solo.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+<p>Basicamente, a ponte rolante é constituída por uma ou mais vigas que correm sobre trilhos, a altura suficiente para não interferir com a movimentação no piso. Geralmente é instalada um pouco abaixo do nível do telhado. Combina a capacidade de levantar carga com o movimento horizontal em dois sentidos, que só é limitado pelas colunas e pelo comprimento dos trilhos. Na seleção, os pontos básicos são a capacidade de elevação, a frequência de operação e a velocidade desejada.</p>
+<!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura136.jpg" data-bs-toggle="modal" data-bs-target="#Imagem81">
+                                <img class="img-fluid" src="imagens/Figura136.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 121: Guindaste Ponte Rolante
+</strong></p>
+                        </div>
 
-                            <p>m) <strong class="CorAzulEstadoEscuro"> Transportador de</strong> rodízios: Movimenta cargas unitárias médias e leves, tais como embalagens, caixas, engradados, componentes e contenedores com material a granel. Pode ser instalado no interior da fábrica, em galpões ou ao ar livre. A carga é deslocada pela ação da gravidade, com pequeno auxílio do operador sobre rodízios de alumínio (cargas leves, capacidade até 50 kg/m), nailon (entre 50 e 100 kg/m) ou aço (até 300 kg/m) Um declive de 1% permite vencer distâncias de até 20 m. Quando o material deve percorrer grandes distâncias na vertical, pode ser usado o sistema helicoidal, ou o em ziguezague. Existem sistemas desmontáveis, que podem ser deslocados.</p>
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem81" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura136.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arow-right CorVerdeClaroEstado"></i> • Em usinas de força.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Oficinas mecânicas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Armazéns.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pátios externos.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Linhas de montagem.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Siderurgia, no carregamento de fornos, laminação e em pátios de lingoteiras.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Usinas de açúcar.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Durabilidade elevada.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode movimentar cargas ultrapesadas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não interferem no trabalho ao nível do solo.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Modelos para operação ao nível do solo podem ser operados por pessoal não especializado.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Podem carregar e descarregar em qualquer ponto, possibilitando adequado posicionamento da carga.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exigem estruturas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Quando o edifício não é especialmente construído para receber a ponte, a adaptação encarece muito o investimento.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Preço inicial relativamente alto.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Área de movimentação definida.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Requer mão de obra adicional, ao nível do solo.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 07 -->
+                        <!-- Accordion 08 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item08">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOito" aria-expanded="false" aria-controls="flush-collapseOito">
+                                        <strong>i) Ponte rolante empilhadeira: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOito" class="accordion-collapse collapse" aria-labelledby="Item08" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>Soluciona problemas que não poderiam ser resolvidos por uma empilhadeira ou por uma ponte rolante convencional. Consiste em uma ponte rolante com duas vigas principais , na qual será acoplado um carrinho de girar completamente sobre si mesmo, de forma contínua. Desse carrinho sai, em direção ao solo, um mastro, no qual corre – verticalmente – um conjunto de garfos. O sistema permite movimentos nas três dimensões. Nos sentidos longitudinal e transversal, aponte rolante e o carrinho – que tem movimento transversal e rotativo cobrem todos os cantos do armazém. No sentido vertical, o conjunto de garfos desliza no mastro – movimento telescópico – e pode ser acrescido de movimento giratório. O equipamento é operado através de cabine instalada ao lado do conjunto de garfos e pode acompanhar todos os movimentos – verticais e horizontais da carga.</p>
+
+<p>Pode movimentar desde produtos semiacabados, passando por perfilados, fardos, madeira até tubos, perfis e trefilados, de prensas para prateleiras e dessas para outras máquinas ou expedição.</p>
+<!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura137.jpg" data-bs-toggle="modal" data-bs-target="#Imagem82">
+                                <img class="img-fluid" src="imagens/Figura137.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 122: Ponte Rolante Empilhadeira
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem82" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura137.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Para alturas de empilhamento superiores a 6m.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na estocagem de grandes volumes de materiais.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Necessidade de fluxo rápido de carga.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em áreas de estocagem restrita.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em pisos pouco resistentes e irregulares, que impossibilitem a utilização de empilhadeira convencional.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Quando planos de carga e descarga são diferentes, impossibilitando a utilização de ponte rolante convencional, mesmo com o auxílio de operadores para virar a mercadoria.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Permite elevadas alturas de empilhamento.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Elimina corredores – que chegam a absorver até 70% da área útil.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Aumenta a velocidade de operação, permitindo fluxo mais rápido da carga.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige investimento maior que uma empilhadeira ou ponte rolante convencional.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Manutenção é mais cara.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 08 -->
+                        <!-- Accordion 09 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item09">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseNove" aria-expanded="false" aria-controls="flush-collapseNove">
+                                        <strong>j) Pórtico rolante: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseNove" class="accordion-collapse collapse" aria-labelledby="Item09" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Muito semelhante à ponte rolante, projetado geralmente para trabalhar ao ar livre (especialmente em portos), possui estrutura própria, que corre sobre trilhos assentados no piso.</p>
+
+<p>Em relação à ponte rolante oferece vantagens para comprimento de rolamentos maiores - acima de 50 m , onde a construção de uma estrutura metálica ou de concreto armado torna-se muito cara. Quanto maior o vão, mais indicada torna-se a ponte rolante, porque quando as pernas do pórtico estão muito separadas torna-se difícil conseguir um funcionamento rápido e macio. Mas há certos trabalhos, como o levantamento de cargas muito pesadas, em que o pórtico é definitivamente mais indicado que a ponte.</p>
+<!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura138.jpg" data-bs-toggle="modal" data-bs-target="#Imagem83">
+                                <img class="img-fluid" src="imagens/Figura138.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 123: Pórtico Rolante
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem83" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura138.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na movimentação ao ar livre de cargas pesadas, em pequenos vão e grandes comprimentos de rolamento.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td> Em relação à ponte rolante
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Maior capacidade de carga.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possibilidade de deslocamento a maiores distâncias.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer estrutura.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td> Em relação à ponte rolante
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Uso mais restrito e em vão menores.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Menos seguro.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Interfere com o tráfego no piso</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Mais caro.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 09 -->
+                        <!-- Accordion 10 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item10">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseDez" aria-expanded="false" aria-controls="flush-collapseDez">
+                                        <strong>k) Talhas: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseDez" class="accordion-collapse collapse" aria-labelledby="Item10" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>Indicadas para deslocar cargas pesadas, volumosas ou desajeitadas, com frequência variável. Elétrica, manual ou pneumática, pode ser utilizada fixa – apenas para levantar cargas – ou ser adaptada a monovias e monotrilhos, para fazer grandes deslocamentos de carga. Quando os movimentos internos são compostos de pequenos deslocamentos verticais ou horizontais, a talha pode ser excelente solução para transporte interno.</p>
+                                    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura139.jpg" data-bs-toggle="modal" data-bs-target="#Imagem84">
+                                <img class="img-fluid" src="imagens/Figura139.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 124: Talha
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem84" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura139.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Em deslocamentos verticais.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em deslocamentos horizontais, quando adaptadas a monovias.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em ambos os casos, na movimentação de cargas pesadas e desajeitadas.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Baixo .custo inicial</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Facilidade de instalação.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><span class="wow fadeInDown" data-wow-delay="0.3s">• Desaconselhada para produção em série.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mão de obra auxiliar.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 10 -->
+                        <!-- Accordion 11 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item11">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOnze" aria-expanded="false" aria-controls="flush-collapseOnze">
+                                        <strong>l) Transportador de Corrente:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseOnze" class="accordion-collapse collapse" aria-labelledby="Item11" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Consiste em uma série de troles de aço com rodas metálicas, que se deslocam na aba inferior de uma viga guia de perfil em I. O acondicionamento é feito de corrente sem fim. O sistema é muito utilizado no transporte de produtos fabricados em série, baixa velocidade e em circuito fechado. Cada um desses troles possui um braço e um dispositivo de sustentação para receber a carga, variável em formato, conforme o formato da carga. Assim, para cargas pequenas – parafusos porcas, etc. – podem ser utilizadas cestas de arame, que são facilmente colocadas e retiradas dos troles. Bobinas de chapa ou arame podem ser suspensas por ganchos reforçados. Metais fundidos podem ser transportados em bandejas de resfriamento de grande superfície.</p>
+                                    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura140.jpg" data-bs-toggle="modal" data-bs-target="#Imagem85">
+                                <img class="img-fluid" src="imagens/Figura140.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 125: Transportador de Corrente
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem85" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura140.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Secções de pintura e decapagens de indústrias, principalmente automobilísticas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Transporte de reses abatidas em frigoríficos.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em qualquer situação que exija transporte em série, a velocidade não muito elevada.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Libera área do piso para fins produtivos.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode fazer curvas e vencer elevações com facilidade.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Permite boa sincronização nas operações de montagem.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige estruturas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Área de operação predeterminadas e difícil de ser remanejada.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Exige mão de obra auxiliar ao nível de solo.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 11 -->
+                        <!-- Accordion 12 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item12">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseDoze" aria-expanded="false" aria-controls="flush-collapseDoze">
+                                        <strong>m) Transportador de rodízios: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseDoze" class="accordion-collapse collapse" aria-labelledby="Item12" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Movimenta cargas unitárias médias e leves, tais como embalagens, caixas, engradados, componentes e contenedores com material a granel. Pode ser instalado no interior da fábrica, em galpões ou ao ar livre. A carga é deslocada pela ação da gravidade, com pequeno auxílio do operador sobre rodízios de alumínio (cargas leves, capacidade até 50 kg/m), nailon (entre 50 e 100 kg/m) ou aço (até 300 kg/m) Um declive de 1% permite vencer distâncias de até 20 m. Quando o material deve percorrer grandes distâncias na vertical, pode ser usado o sistema helicoidal, ou o em ziguezague. Existem sistemas desmontáveis, que podem ser deslocados.</p>
+                                    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura141.jpg" data-bs-toggle="modal" data-bs-target="#Imagem86">
+                                <img class="img-fluid" src="imagens/Figura141.jpg" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 126: Transportador de Rodízios
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem86" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura141.jpg" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na preparação de lotes de expedição.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No empacotamento de produto acabado.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em linha de montagem.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte entre andares diferentes.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer acionamento mecânico, por funcionar em declive.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Ocupa pouco espaço.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer operador especializado.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A estrutura de sustentação é simples e leve.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode fazer curvas.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade de cargas e de produção limitadas.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A carga exige orientação manual nas curvas.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na preparação de lotes de expedição.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No empacotamento de produto acabado.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Em linha de montagem.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No transporte entre andares diferentes.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td> <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer acionamento mecânico, por funcionar em declive.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Ocupa pouco espaço.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Não requer operador especializado.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A estrutura de sustentação é simples e leve.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pode fazer curvas.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Capacidade de cargas e de produção limitadas.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• A carga exige orientação manual nas curvas.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 12 -->
+                        <!-- Accordion 13 -->
+                        <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item13">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTreze" aria-expanded="false" aria-controls="flush-collapseTreze">
+                                        <strong>n) Transelevadores:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseTreze" class="accordion-collapse collapse" aria-labelledby="Item13" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>A implantação da nova tecnologia na logística dos transelevadores, busca automatizar o deslocamento de mercadorias no armazém, por intermédio software associado a robótica com manuseio fácil, rápido e com alta produtividade independente das condições climáticas. São máquinas criadas para o armazenamento automático de pallets. Deslocam-se nos corredores e realizam funções de entrada reposicionamento e saída de mercadorias. Os transelevadores são guiados por um software de gestão que coordena todos os movimentos.</p>
 
-                            <p>n) <strong class="CorAzulEstadoEscuro"> Transelevadores:</strong> A implantação da nova tecnologia na logística dos transelevadores, busca automatizar o deslocamento de mercadorias no armazém, por intermédio software associado a robótica com manuseio fácil, rápido e com alta produtividade independente das condições climáticas. São máquinas criadas para o armazenamento automático de pallets. Deslocam-se nos corredores e realizam funções de entrada reposicionamento e saída de mercadorias. Os transelevadores são guiados por um software de gestão que coordena todos os movimentos.</p>
+                                    <!-- Titulo Figura -->
+<div class="text-center">
+                            <a href="imagens/Figura142.png" data-bs-toggle="modal" data-bs-target="#Imagem87">
+                                <img class="img-fluid" src="imagens/Figura142.png" width="200" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 127:  Representação da Operação com Transelevador
+</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem87" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura142.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>EGPCE</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
 
 
-                            <table class="table table-bordered">
-                                <tbody>
-                                    <tr>
-                                        <td>Usos</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na automatização de lotes de expedição.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No reposicionamento automático de mercadorias.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No máximo aproveitamento vertical do armazém.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Vantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Intervenção mínima do operador.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Rapidez na execução.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possível redução da área de armazenamento.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Organização e capacidade de expedição rápida.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Controle de estoques.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possibilidade de adequar-se a condições de trabalho especiais, por exemplo: temperaturas adversas, umidade extrema.</span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Desvantagens</td>
-                                        <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Investimento auto.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Adaptação do armazém e capacitação de operadores.</span>
-                                            <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pouca flexibilidade e necessidade de um esquema de redundância.</span>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
+<table class="table table-bordered">
+    <tbody>
+        <tr>
+            <td>Usos</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Na automatização de lotes de expedição.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No reposicionamento automático de mercadorias.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• No máximo aproveitamento vertical do armazém.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Vantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Intervenção mínima do operador.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Rapidez na execução.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possível redução da área de armazenamento.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Organização e capacidade de expedição rápida.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Controle de estoques.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Possibilidade de adequar-se a condições de trabalho especiais, por exemplo: temperaturas adversas, umidade extrema.</span>
+            </td>
+        </tr>
+        <tr>
+            <td>Desvantagens</td>
+            <td><br><span class="wow fadeInDown" data-wow-delay="0.3s">• Investimento auto.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Adaptação do armazém e capacitação de operadores.</span>
+                <br><span class="wow fadeInDown" data-wow-delay="0.3s">• Pouca flexibilidade e necessidade de um esquema de redundância.</span>
+            </td>
+        </tr>
+    </tbody>
+</table>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <!-- Accordion 12 -->
+                        
 
+                        </div><br><br>
+                        <!-- FIM Accordion -->                 
+                                                                                            
                             <!-- SubTitulo -->
-                            <p class="SubTitulo"> Inventários:</p>
+                            <p class="SubTitulo" id="top5-fourteen"> Inventários:</p>
                             <hr>
 
                             <p>Uma questão igualmente importante para a gestão da armazenagem é desenvolver técnicas de como organizar um inventário com o objetivo de compatibilizar a quantidade física dos estoques com os registros escriturais de controle. O inventário é muito útil nos momentos críticos, tais como: alta rotatividade, mudanças de responsabilidade na gestão, encerramento de exercício financeiro e mudança de sistema de controle.</p>
 
-                            <p>Para entender melhor essa questão estudaremos os seguintes tópicos:</p>
+                            <p><strong> Para entender melhor essa questão estudaremos os seguintes tópicos:</strong></p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> O que é um inventário e tipos de inventário.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Preparação e realização do inventário.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Conciliações e ajustes.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> O que é um inventário e tipos de inventário.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Preparação e realização do inventário.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Conciliações e ajustes.</li>
                             </ul>
 
                             <p class="SubSubTitulo"> O que é um inventário e tipos de inventário:</p>
@@ -3139,26 +4153,63 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                             <p>Uma das funções que justificam a importância da gestão da armazenagem é a função de “Controle de Estoque” caracterizada pela precisão nos registros de estoque e controle efetivo das movimentações. Dessa forma, a operação do controle de estoque deve vir ao encontro dos objetivos de custos e de serviços pretendidos pela organização, em função disso deve-se efetuar contagens físicas de seus itens de estoque para verificar:</p>
 
                             <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Discrepâncias em quantidade e valor, entre o estoque físico e o registro escritural.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Acerto entre o estoque físico e o registro escritural e conciliação com o estoque contábil.</li>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> Apuração do valor total do estoque (contábil) para efeito de balanços ou balancetes.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Discrepâncias em quantidade e valor, entre o estoque físico e o registro escritural.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Acerto entre o estoque físico e o registro escritural e conciliação com o estoque contábil.</li>
+                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Apuração do valor total do estoque (contábil) para efeito de balanços ou balancetes.</li>
                             </ul>
 
-                            <p>Por isso é importante que o inventário seja realizado próximo ao encerramento do ano fiscal. Os inventários podem ser:</p>
+                            <p><strong> Por isso é importante que o inventário seja realizado próximo ao encerramento do ano fiscal. Os inventários podem ser:</strong></p>
 
-                            <p>a)<strong class="CorAzulEstadoEscuro"> Gerais:</strong> Efetuados ao final do exercício contábil, abrangem todos os itens de estoque de uma só vez. São operações de duração relativamente prolongada, que, por incluir quantidade elevada de itens, impossibilitam as reconciliações, análise das causas de divergências e ajustes na profundidade.</p>
+                            <!-- Início Accordion -->
+                        <div class="accordion accordion-flush" id="AccordionFase01">
+                            <center>
+                                <h6 class="fs-6 SmallCaps badge bg-warning"><i class="fa fa-lightbulb"></i> Clique nos títulos abaixo para mais informações</h6>
+                            </center>
+                            <!-- Accordion 01 -->
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="Item01">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseum" aria-expanded="false" aria-controls="flush-collapseum">
+                                        <strong>a) Gerais:</strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapseum" class="accordion-collapse collapse" aria-labelledby="Item01" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p> Efetuados ao final do exercício contábil, abrangem todos os itens de estoque de uma só vez. São operações de duração relativamente prolongada, que, por incluir quantidade elevada de itens, impossibilitam as reconciliações, análise das causas de divergências e ajustes na profundidade.</p>
 
-                            <p>Os inventários gerais também devem ser efetuados sempre que houver uma mudança de Gestor Administrativo Financeiro, nas implantações de novos sistemas de controle de estoque e nos casos de fusão ou extinção de organizações.</p>
+<p>Os inventários gerais também devem ser efetuados sempre que houver uma mudança de Gestor Administrativo Financeiro, nas implantações de novos sistemas de controle de estoque e nos casos de fusão ou extinção de organizações.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 01 -->
 
-                            <p>b)<strong class="CorAzulEstadoEscuro"> Rotativos:</strong> Visando a distribuir as contagens ao longo do ano, concentrando cada contagem em menor quantidade de itens, reduz a duração unitária da operação e dá melhores condições de análise das causas de ajustes, visando ao melhor controle. Abrange através de contagens programadas todos os itens de várias categorias de estoque tais como:</p>
+                            <!-- Accordion 02 -->
+                            <div class="accordion-item Texto">
+                                <h2 class="accordion-header" id="Item02">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsedois" aria-expanded="false" aria-controls="flush-collapsedois">
+                                        <strong>b) Rotativos: </strong>
+                                    </button>
+                                </h2>
+                                <div id="flush-collapsedois" class="accordion-collapse collapse" aria-labelledby="Item02" data-bs-parent="#AccordionFase01">
+                                    <div class="accordion-body">
+                                    <p>Visando a distribuir as contagens ao longo do ano, concentrando cada contagem em menor quantidade de itens, reduz a duração unitária da operação e dá melhores condições de análise das causas de ajustes, visando ao melhor controle. Abrange através de contagens programadas todos os itens de várias categorias de estoque tais como:</p>
 
-                            <ul class="none Texto">
-                                <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Grupo 1</strong> — neste caso, serão enquadrados os itens mais significativos, os quais serão inventariados três vezes ao ano, por representarem maior valor em estoque e serem estratégicos e imprescindíveis à operação.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Grupo 2</strong> — constituído de itens de importância intermediária quanto ao valor de estoque, estratégia e manejo. Estes serão inventariados duas vezes ao ano.</li>
-                                <br>
-                                <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> <strong>Grupo 3</strong> — formado pelos demais itens. Caracteristicamente, será composto de muitos itens que representam pequeno valor de estoque. Os materiais deste grupo serão inventariados uma vez por ano.</li>
-                            </ul>
+<ul class="none Texto">
+    <li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Grupo 1</strong> — neste caso, serão enquadrados os itens mais significativos, os quais serão inventariados três vezes ao ano, por representarem maior valor em estoque e serem estratégicos e imprescindíveis à operação.</li>
+    <br>
+    <li class="wow fadeInDown" data-wow-delay="0.6s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Grupo 2</strong> — constituído de itens de importância intermediária quanto ao valor de estoque, estratégia e manejo. Estes serão inventariados duas vezes ao ano.</li>
+    <br>
+    <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> <strong>Grupo 3</strong> — formado pelos demais itens. Caracteristicamente, será composto de muitos itens que representam pequeno valor de estoque. Os materiais deste grupo serão inventariados uma vez por ano.</li>
+</ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Fim Accordion 02 -->
+                        </div><br><br>
+                        <!-- FIM Accordion -->
+
+                            
+
+                           
 
                             <!-- SubSubTitulo -->
                             <p class="SubSubTitulo"> Preparação e realização do inventário:</p>
@@ -3244,10 +4295,37 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                                         <p>  Ou seja, o grau de aceitação da divergência, sem que este desvio seja efetivamente contabilizado como um erro ou diferença no sistema de controle de estoque. A determinação de um grau de tolerância reduz a necessidade de reconciliações e ajustes de saldo desnecessários, em contraste com a política de tolerância zero.</p>
                                         <p>O grau de acurácia do inventário pode ser calculado com a seguinte fórmula, gerando um índice:</p>
 
+                                        <h4> Índice de Acurácia</h4>
+
+                                        <!-- Titulo Figura -->
+                        <div class="text-center">
+                            <a href="imagens/Figura144.png" data-bs-toggle="modal" data-bs-target="#Imagem000">
+                                <img class="img-fluid" src="imagens/Figura144.png" alt="Alt da imagem fica aqui">
+                            </a>
+                            <p class="FonteFigura"><strong>Figura 128: Representação do Índice de Acurácia</strong></p>
+                        </div>
+
+                        <!-- Imagem 01 - MODAL -->
+                        <div class="modal fade text-center" id="Imagem000" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img class="img-fluid" src="imagens/Figura144.png" alt="Alt da imagem fica aqui">
+                                    </div>
+                                    <div class="modal-footer text-center">
+                                        <p class="TituloFigura"><strong>Fonte: </strong>Fonte da Figura</p>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- Figura 01 - End -->
+
 <ul class="none Texto">
-    <li class="fa fa-arrow-right CorVerdeClaroEstado" data-wow-delay="0.3s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> “Registros Corretos” consiste no número de itens cujo estoque real contado foi igual ao número de itens registrados no Sistema de Controle de Almoxarifado; e,</li>
-    <liclass="fa fa-arrow-right CorVerdeClaroEstado" data-wow-delay="0.6s"><i class="fa fa-dot-circle CorVerdeClaroEstado"></i> “Registros Contados” consiste no número de itens registrados no Sistema de Controle de Almoxarifado.</li>
-</ul>
+<li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i><strong>“Registros Corretos” - </strong> consiste no número de itens cujo estoque real contado foi igual ao número de itens registrados no Sistema de Controle de Almoxarifado;</li> <br>
+<li class="wow fadeInDown" data-wow-delay="0.3s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i><strong>“Registros Contados” -</strong>  consiste no número de itens registrados no Sistema de Controle de Almoxarifado.
+</li>
+</ul> <br><br>
 
 <p>O índice de acurácia de 100% é o ideal e demonstra que não houve divergência entre registros contados e registros corretos.</p>
                                     </div>
