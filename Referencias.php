@@ -62,7 +62,7 @@ include('layout/header.php');
                             <br>
                         </div>
 
-                        <br><p>Parabéns, <?php echo $NomeUsuario ?>! Você concluiu o módulo 01 do curso <strong>Gestão de Suprimentos (Material de Consumo)</strong>. Agora você já pode responder a avaliação do módulo 01. Clique em “Realizar Avaliação”. Boa sorte e até o próximo módulo! </p>
+                        <br><p>Parabéns, <?php echo $NomeUsuario ?>! Você concluiu o módulo 01 do curso <strong>Gestão de Suprimentos (Material de Consumo)</strong>. Agora você já pode responder a avaliação do módulo. Clique em “Realizar Avaliação 01”. Boa sorte e até o próximo módulo! </p>
                         
                         <br><br>
 

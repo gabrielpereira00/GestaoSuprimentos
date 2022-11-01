@@ -135,7 +135,7 @@ include('layout/header.php');
                             </table>
 
                             <br><br><!-- SubTitulo -->
-                            <p class="SubTitulo" id="top3-one">Atributos Adicionais a Serem Considerados na Classificação de Materiais</p>
+                            <p class="SubTitulo" id="top3-one">Atributos Adicionais a serem Considerados na Classificação de Materiais</p>
                             <hr>
 
                             <p>Devemos também considerar alguns atributos adicionais para melhor entender por que a classificação de materiais é tão importante para a gestão do estoque e do patrimônio:</p>

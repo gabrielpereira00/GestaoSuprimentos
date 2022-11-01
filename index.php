@@ -47,6 +47,19 @@ include('layout/header.php');
                     <p>Nas últimas décadas o Governo do Estado do Ceará, vem realizando um esforço no desenvolvimento de novos sistemas informatizados e capacitação de seus agentes públicos para melhorar a gestão de suprimentos tendo em vista que este é um tema central que cada vez se torna mais importante na gestão pública. </p>
                     <p>A Secretaria do Planejamento e Gestão – Seplag em colaboração com a Escola de Gestão Pública do Ceará - Egpce apresentam neste curso a reunião de aspectos teóricos, procedimentos práticos e legislação até então desenvolvidos com relação à gestão de suprimentos e seus sistemas informatizados de controle, de forma a oferecer a atualização permanente aos órgãos e entidades do Poder Executivo Estadual.</p>
 
+                    <!-- VÍDEO -->
+                    <div class="row">
+                            <div class="col-md-2">
+                            </div>
+                            <div class="col-md-8">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe class="embed-responsive-item" src="./imagens/Video_de_apresentacao_do_curso_EAD_de_gestao_de_suprimentos.mp4"></iframe>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                            </div>
+                        </div>
+
                     <!--CONTEUDO-->
                     <br><h2 class="Titulo"> Objetivo</h2>
                     <hr>

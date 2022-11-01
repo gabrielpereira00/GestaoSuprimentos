@@ -45,7 +45,7 @@ include('layout/header.php');
                             </div>
 
                             <br>
-                            <p class="SubTitulo" id="top4-one">Razões para Manter Estoques e Quais os Tipos de Estoque</p>
+                            <p class="SubTitulo" id="top4-one">Razões para manter Estoques e quais os Tipos de Estoque</p>
                             <hr>
 
                             <p>Uma das variáveis que definem o sucesso ou fracasso de muitas organizações é a gestão de estoques, que é constituída por gestão de materiais, recursos humanos e financeiros. A gestão de estoques permite ao administrador verificar se os estoques estão sendo bem utilizados, bem localizados em relação aos setores que deles utilizam, bem manuseados e bem controlados.</p>
