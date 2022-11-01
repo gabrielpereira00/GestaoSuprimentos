@@ -37,7 +37,7 @@ include('layout/header.php');
                             <!-- INICIO CONTEUDO -->
 
                             <!-- Título -->
-                            <h2 class="Titulo">Diferenciação Entre Material de Consumo e Material Permanente</h2>
+                            <h2 class="Titulo">Diferenciação entre Material de Consumo e Material Permanente</h2>
                             <hr>
 
                             <div class="bd-callout bd-callout-primary">

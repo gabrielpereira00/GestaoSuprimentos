@@ -23,12 +23,12 @@
 }
 
 .sidebar-item1{
-    height: 5.3rem;
+    height: 6.7rem;
     overflow: hidden;
     transition: .7s;
 }
 .sidebar-item1:hover{
-    height: 25.1rem;
+    height: 25.4rem;
 }
 .sublinks{
     padding: .5rem;
@@ -50,15 +50,15 @@
     border: 1px solid #008000;
 }
 .sidebar-item2{
-    height: 5.3rem;
+    height: 8.2rem;
     overflow: hidden;
     transition: .7s;
 }
 .sidebar-item2:hover{
-    height: 25.1rem;
+    height: 27rem;
 }
 .sidebar-item3{
-    height: 5.3rem;
+    height: 6.7rem;
     overflow: hidden;
     transition: .7s;
 }
@@ -79,7 +79,7 @@
     transition: .7s;
 }
 .sidebar-item5:hover{
-    height: 80rem;
+    height: 85rem;
 }
 .sidebar-item6{
     height: 5.3rem;

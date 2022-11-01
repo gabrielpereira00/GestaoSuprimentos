@@ -37,7 +37,7 @@ include('layout/header.php');
                         
 
                             <!-- Título -->
-                            <h2 class="Titulo">Critérios Para Certificação De Fornecedores:</h2>
+                            <h2 class="Titulo">Critérios para Certificação de Fornecedores:</h2>
                             <hr>
 
                             <div class="bd-callout bd-callout-primary">
@@ -45,7 +45,8 @@ include('layout/header.php');
                             </div>
 
                             <br><!-- SubTítulo -->
-                            <p class="SubTitulo" id="one">A Certificação De Fornecedores Como Um Elo Nas Cadeias De Suprimentos:</p>
+                            <p class="SubTitulo" id="one">A Certificação de Fornecedores como um elo nas
+                            Cadeias de Suprimentos:</p>
                             <hr>
 
                             <p>Devido aos movimentos da globalização, mudanças dos fatores econômicos e crescimento da formação de cadeias de suprimentos nas organizações por todo o mundo, houve uma busca pela redução dos riscos do negócio, minimização dos custos e aumento da capacidade de oferta aos diversos segmentos do mercado. Dessa forma, várias organizações de diversos setores e segmentos da economia buscam fechar parcerias com fornecedores para maximizarem seus resultados e contribuírem para aumentar a satisfação de seu público-alvo.</p>
@@ -255,7 +256,7 @@ include('layout/header.php');
 
 
                             <br><!-- SubTítulo -->
-                            <p class="SubTitulo" id="two"> A Certificação De Fornecedores Na Administração Pública</p>
+                            <p class="SubTitulo" id="two"> A Certificação de Fornecedores na Administração Pública</p>
                             <hr>
 
                             <p>A complexidade de um processo licitatório, o princípio da isonomia e a tentativa de obter a proposta mais vantajosa têm induzido a administração pública a adotar nas compras de suprimento uma abordagem de seleção de fornecedores, onde o preço é o principal aspecto considerado, convergindo a maior parcela das compras governamentais para a modalidade de “Pregão Eletrônico”.</p>
@@ -450,7 +451,7 @@ include('layout/header.php');
                         </div>                          
 
                             <br><!-- SubTítulo -->
-                            <p class="SubTitulo" id="tree">A Certificação De Fornecedores No Governo Do Estado Do Ceará:</p>
+                            <p class="SubTitulo" id="tree">A Certificação de Fornecedores no Governo do Estado do Ceará:</p>
                             <hr>
 
                             <p>A despesa com aquisição e contratação de bens, materiais e serviços pelos órgãos da Administração Pública Estadual são uma das maiores em volume de recursos financeiros, juntamente com a folha de pagamentos dos servidores ativos e inativos. Em razão disso e do seu dever com a sociedade, o Governo do Estado do Ceará tem realizado esforços para aperfeiçoar a política de compras governamentais, adotando os mecanismos mais eficientes de aquisição pública, a exemplo da modalidade de licitação denominada Pregão e da sistemática de compras por Registro de Preços.</p>

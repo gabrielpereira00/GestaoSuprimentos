@@ -271,7 +271,7 @@ include('layout/header.php');
                             <p>Desta forma, vemos que não existe a possibilidade de ignorar os estoques, pois eles são gerados pelo próprio processo de deslocamento físico dos produtos entre o produtor e o consumidor final e são necessários para suprir eventuais irregularidades que poderão ocorrer durante esse ciclo.</p>
 
                             <br><br><!-- SubTitulo -->
-                            <p class="SubTitulo" id="top4-two">Custos Relacionados Aos Estoques</p>
+                            <p class="SubTitulo" id="top4-two">Custos Relacionados aos Estoques</p>
                             <hr>
 
                             <p>O aumento ou redução nos custos de estocagem e armazenagem, muitas vezes é uma variável que não se coloca de modo muito claro. O fato é que armazenar mercadorias e bens envolve uma série de despesas que, muitas vezes, não são contabilizadas e consideradas por organizações em geral, e podem acarretar tenebrosos prejuízos com os quais os gestores sequer contavam num primeiro momento. Manter produtos parados, além de todos esses custos, envolve um grande risco em algumas situações e ter consciência de tudo isso pode ampliar seus resultados e reduzir as chances de danos para a organização.</p>
@@ -461,7 +461,7 @@ include('layout/header.php');
                             
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo" id="top4-tree" >Tipos de Demanda de Materiais e Sua Relação com os Estoques</p>
+                            <p class="SubTitulo" id="top4-tree" >Tipos de Demanda de Materiais e sua Relação com os Estoques</p>
                             <hr>
 
                             <p>Os níveis de estoque podem ser controlados, adotando-se diversos tipos de critérios. Se considerarmos a natureza de sua demanda, teremos as seguintes classificações:</p>
@@ -848,7 +848,7 @@ include('layout/header.php');
                             </ol>
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo" id="top4-five">Ressuprimento Dos Estoques</p>
+                            <p class="SubTitulo" id="top4-five">Ressuprimento dos Estoques</p>
                             <hr>
 
                             <p>Diante dos diversos métodos existentes para o controle de estoques, os mais tradicionalmente utilizados são:</p>
@@ -1444,7 +1444,7 @@ include('layout/header.php');
                         <!-- FIM Accordion -->
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo" id="top4-six">Recebimento De Materiais</p>
+                            <p class="SubTitulo" id="top4-six">Recebimento de Materiais</p>
                             <hr>
 
                             <p>Até o momento neste curso tivemos a oportunidade de estudar várias questões inerentes à gestão de materiais de consumo, primeiramente estudamos a certificação de fornecedores e sua importância na determinação do nível de produção de bens ou serviços de uma organização, passando pela diferenciação entre material de consumo e material permanente tomando como referência inicial o critério da durabilidade. Estudamos também a classificação e catalogação de materiais que possibilita, a partir da caracterização dos materiais, a padronização, simplificação e especificação de forma que estes sejam individualizados facilitando sua aquisição, recebimento, manejo e aplicação. Agora encerrando o ciclo de estudos de controle de estoque e ressuprimento estudando a atividade de recebimento de materiais de forma que possamos compreender a sua importância como um ponto de controle para avaliação da qualidade de atendimento dos fornecedores, no tocante a prazo, qualidade e volume de pedido.</p>
@@ -1452,7 +1452,7 @@ include('layout/header.php');
                             <p>Em termos práticos o processo de recebimento de materiais e bens pode ser subdividido em 3 atividades: agendamento de recebimento, recebimento de materiais e bens e regularização do recebimento.</p>
 
                             <!-- SubSubTitulo -->
-                            <p class="SubSubTitulo">Agendamento De Recebimento</p>
+                            <p class="SubSubTitulo">Agendamento de Recebimento</p>
                             <hr>
 
                             <!-- Importante -->
@@ -1546,7 +1546,7 @@ include('layout/header.php');
                             <p>Outro fator importante que pode também ser previsto com antecedência ao recebimento de materiais é a disponibilização de espaço para armazenagem dos itens que serão recebidos, isso dinamiza a movimentação de armazenamento do material liberando mais rapidamente a área de recebimento para outros recebimentos agendados. Apesar da atividade de recebimento de material ter menor intensidade que a atividade de atendimento de requisição para consumo, pela própria dinâmica com que são efetuadas as compras para ressuprimento de estoque, a entrega dos fornecedores tendem a concorrerem em um mesmo período de tempo, ou seja, chega tudo no mesmo tempo. Esta é mais uma razão para que seja planejado o recebimento de materiais, por intermédio destes procedimentos, o almoxarifado pode na medida do possível antecipar as requisições junto aos setores da organização e disponibilizar maior parcela de pessoal para realizar as inspeções de recebimento.</p>
 
                             <!-- SubSubTitulo -->
-                            <p class="SubSubTitulo">Ato De Recebimento</p>
+                            <p class="SubSubTitulo">Ato de Recebimento</p>
                             <hr>
 
                             <p>Recebimento de materiais é um ponto crítico de controle por ser a atividade intermediária entre a compra, pagamento ou aceitação junto ao fornecedor, exigindo assim um alto nível de responsabilidade na conferência dos materiais destinados à organização de forma a não haver descontinuidade nas operações por problemas de ressuprimento.</p>

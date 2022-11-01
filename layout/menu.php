@@ -45,7 +45,7 @@
                         <li class="sidebar-item sidebar-item1">
                             <div class="bd-callout-menu bd-callout-success-menu">
                                 <a href="Topico01.php" class="MenuTopico sidebar-link <?php if($page=='Topico01'){echo 'ativo';}?>">
-                                    <div id="menuNumero">01 </div>Alinhamento Estratégico
+                                    <div id="menuNumero">01 </div>Critérios para Certificação de Fornecedores:
                                 </a>
 
                                 <ul class="sublinks">
@@ -59,7 +59,7 @@
                         <li class="sidebar-item sidebar-item2">
                             <div class="bd-callout-menu bd-callout-success-menu">
                                 <a href="Topico02.php" class="MenuTopico sidebar-link <?php if($page=='Topico02'){echo 'ativo';}?>">
-                                    <div id="menuNumero">02 </div>Agenda Estratégica Setorial: conceitos
+                                    <div id="menuNumero">02 </div>Diferenciação entre Material de Consumo e Material Permanente
                                 </a>
 
                                 <ul class="sublinks">
@@ -73,7 +73,7 @@
                         <li class="sidebar-item sidebar-item3">
                             <div class="bd-callout-menu bd-callout-success-menu">
                                 <a href="Topico03.php" class="MenuTopico sidebar-link <?php if($page=='Topico03'){echo 'ativo';}?>">
-                                    <div id="menuNumero">03 </div>Agenda Estratégica Setorial: estrutura
+                                    <div id="menuNumero">03 </div>Classificação e Catalogação de Materiais
                                 </a>
 
                                 <ul class="sublinks">
@@ -93,10 +93,10 @@
                                 <ul class="sublinks">
                                  <li><a href="#top4-one">4.1 Razões para Manter Estoques e Quais os Tipos de Estoque</a></li>
                                  <li><a href="#top4-two">4.2 Custos Relacionados Aos Estoques</a></li>
-                                 <li><a href="#top4-tree">4.3 Tipos de Demanda de Materiais e Sua Relação com os Estoques</a></li>
+                                 <li><a href="#top4-tree">4.3 Tipos de Demanda de Materiais e sua Relação com os Estoques</a></li>
                                  <li><a href="#top4-four">4.4 Rotatividade dos Estoques</a></li>
-                                 <li><a href="#top4-five">4.5 Ressuprimento Dos Estoques</a></li>
-                                 <li><a href="#top4-six">4.5 Recebimento De Materiais</a></li>
+                                 <li><a href="#top4-five">4.5 Ressuprimento dos Estoques</a></li>
+                                 <li><a href="#top4-six">4.5 Recebimento de Materiais</a></li>
                                   </ul>
                             </div>
                         </li>
@@ -109,18 +109,18 @@
                                 <ul class="sublinks">
                                  <li><a href="#top5-one">5.1 Arranjo Físico (Layout) de Armazéns</a></li>
                                  
-                                 <li><a href="#top5-two">5.2  O Que Considerar Para a Definição do Layout:</a></li>
-                                 <li><a href="#top5-tree">5.3 Modalidades para Localizar O Estoque Dentro Do Armazém</a></li>
-                                 <li><a href="#top5-four">5.4 Características Do Layout Que Facilitam A Movimentação Dos Materiais</a></li>
+                                 <li><a href="#top5-two">5.2  O que Considerar para a Definição do Layout:</a></li>
+                                 <li><a href="#top5-tree">5.3 Modalidades para Localizar o Estoque Dentro do Armazém</a></li>
+                                 <li><a href="#top5-four">5.4 Características do Layout que Facilitam a Movimentação dos Materiais</a></li>
                                  <li><a href="#top5-five">5.5 Situações que Influenciam a Atualização do Layout</a></li>
-                                 <li><a href="#top5-six">5.6 O Que é Um Sistema de Endereçamento?</a></li>
+                                 <li><a href="#top5-six">5.6 O Que é um Sistema de Endereçamento?</a></li>
                                  <li><a href="#top5-seven">5.7 Tipos de endereçamento</a></li>
-                                 <li><a href="#top5-eight">5.8 Características das sinalizações em um sistema de endereçamento</a></li>
-                                 <li><a href="#top5-nine">5.9 A Importância da Adoção de Um Sistema de Movimentação e Manuseio </a></li>
-                                 <li><a href="#top5-ten">5.10 Tipos de movimentação e suas características: </a></li>
-                                 <li><a href="#top5-eleven">5.11 Premissas para facilitar a movimentação de materiais: </a></li>
-                                 <li><a href="#top5-twelve">5.12 A escolha de um sistema de movimentação de materiais: </a></li>
-                                 <li><a href="#top5-thirteen">5.13 Equipamentos utilizados nos sistemas de movimentação de materiais: </a></li>
+                                 <li><a href="#top5-eight">5.8 Características das Sinalizações em um Sistema de Endereçamento</a></li>
+                                 <li><a href="#top5-nine">5.9 A Importância da Adoção de um Sistema de Movimentação e Manuseio </a></li>
+                                 <li><a href="#top5-ten">5.10 Tipos de Movimentação e suas Características: </a></li>
+                                 <li><a href="#top5-eleven">5.11 Premissas para Facilitar a Movimentação de Materiais: </a></li>
+                                 <li><a href="#top5-twelve">5.12 A Escolha de um Sistema de Movimentação de Materiais: </a></li>
+                                 <li><a href="#top5-thirteen">5.13 Equipamentos Utilizados nos Sistemas de Movimentação de Materiais: </a></li>
                                  <li><a href="#top5-fourteen">5.14 Inventários: </a></li>
 
                                 </ul>

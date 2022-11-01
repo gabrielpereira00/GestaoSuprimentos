@@ -37,7 +37,7 @@ include('layout/header.php');
                             <!-- INICIO CONTEUDO -->
 
                             <!-- Título -->
-                            <h2 class="Titulo">6) Legislação Do Almoxarifado:</h2>
+                            <h2 class="Titulo">Legislação do Almoxarifado:</h2>
                             <hr>
 
                             <div class="bd-callout bd-callout-primary">
@@ -47,7 +47,7 @@ include('layout/header.php');
                             <p class="SubTitulo" id="top6-one">Legislação Federal:</p>
                             <hr>
 
-                            <p class="SubTitulo" id="top6-two">6.1.1 Lei Nº 4.320 De 17 De Março De 1964:</p>
+                            <p class="SubTitulo" id="top6-two">6.1.1 Lei No 4.320 de 17 de Março de 1964:</p>
                             <hr>
                          
                             <p>Estatui Normas Gerais de Direito Financeiro para elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.</p>

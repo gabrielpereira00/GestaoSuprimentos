@@ -37,7 +37,7 @@ include('layout/header.php');
                             <!-- INICIO CONTEUDO -->
 
                             <!-- Título -->
-                            <h2 class="Titulo">Gestão Da Armazenagem</h2>
+                            <h2 class="Titulo">Gestão da Armazenagem</h2>
                             <hr>
 
                             <div class="bd-callout bd-callout-primary">
@@ -220,7 +220,7 @@ include('layout/header.php');
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo" id="top5-two"> O Que Considerar Para a Definição do Layout:</p>
+                            <p class="SubTitulo" id="top5-two"> O que Considerar para a Definição do Layout:</p>
                             <hr>
 
                             <p>A grande decisão do projeto de armazenagem está em apontar onde itens específicos de estoque devem ser localizados, como devem ser arranjados e que método usar para encontrar o estoque, de modo a minimizar as despesas de movimentação, obter máxima utilização do espaço e satisfazer as restrições de localização do produto, como segurança um seguro contra incêndio, compatibilidade e necessidades de separação de pedidos. O nível de atividade e de serviço desejado determina o seu custo. Para tanto, deve-se buscar um equilíbrio entre três objetivos:</p>
@@ -302,7 +302,7 @@ include('layout/header.php');
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo" id="top5-tree">Modalidades para Localizar O Estoque Dentro Do Armazém</p>
+                            <p class="SubTitulo" id="top5-tree">Modalidades para Localizar o Estoque dentro do Armazém</p>
                             <hr>
 
                             <p>A Localização do estoque é o desafio de decidir o arranjo físico dos materiais em um armazém a fim de minimizar as despesas com seu manuseio, utilizar ao máximo o espaço do armazém e superar determinadas restrições à localização dos materiais, como aquelas necessárias à segurança, à proteção contra incêndios, à compatibilização entre estes e a dinâmica separação das requisições.</p>
@@ -498,7 +498,7 @@ include('layout/header.php');
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo" id="top5-four">Características Do Leiaute Que Facilitam A Movimentação Dos Materiais</p>
+                            <p class="SubTitulo" id="top5-four">Características do Leiaute que Facilitam a Movimentação dos Materiais</p>
                             <hr>
 
                             <p><strong> Além do que até então foi estudado algumas características de configuração interna do armazém influenciam também na obtenção de melhor movimentação dos materiais e consequentemente melhor adequação do leiaute, são estas:</strong></p>
@@ -787,7 +787,7 @@ include('layout/header.php');
 
                             <br><br>
                             <!--SubTitulo -->
-                            <p class="SubTitulo" id="top5-six">O Que é Um Sistema de Endereçamento?</p>
+                            <p class="SubTitulo" id="top5-six">O Que é um Sistema de Endereçamento?</p>
                             <hr>
 
                             <p>O objetivo de um sistema de endereçamento de armazém é estabelecer os meios necessários à perfeita identificação da localização dos materiais estocados sob a responsabilidade do Almoxarifado. Deverá ser utilizada uma simbologia (sinalização) representativa de cada local de estocagem, abrangendo desde as divisões do armazém, em seções, as vias de circulação, até chegar ao menor espaço de unidade de estocagem, que poderá ser uma prateleira ou uma subdivisão da prateleira.</p>
@@ -988,7 +988,7 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
 <br>
 <br>                  
                             <!-- SubTitulo -->
-                            <p class="SubTitulo" id="top5-eight">Características Das Sinalizações em Um Sistema De Endereça-Mento</p>
+                            <p class="SubTitulo" id="top5-eight">Características das Sinalizações em um Sistema de Endereçamento</p>
                             <hr>
 
                             <p>Seja qual for o sistema de endereçamento fixo ou variável, é necessário providenciar a sinalização do armazém é recomendável uma metodologia simples e de lógica fácil, que possa ser compreendida tanto pelos funcionários efetivos do armazém, como também pelos temporários, contratados em momentos de pico, a exemplo do que ocorre no fim de ano.</p>
@@ -2858,7 +2858,7 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                             
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo" id="top5-thirteen"> Equipamentos utilizados nos sistemas de movimentação de materiais:</p>
+                            <p class="SubTitulo" id="top5-thirteen"> Equipamentos Utilizados nos Sistemas de Movimentação de Materiais:</p>
                             <hr>
                             
                             <p>Selecionar equipamentos de movimentação não é tarefa fácil. Principalmente porque cada operação não pode ser vista isoladamente, mas como parte integrante de todo o sistema de produção e estocagem, devendo-se evitar estrangulamento e/ou ociosidades. É também porque cada uma das alternativas possíveis tem sempre seus prós e contras. Em alguns casos, é o equipamento que exige alto investimento e mostra pouca flexibilidade em contraposição ao equipamento de uso mais generalizado, que se mostra pouco produtivo. Outras vezes, o confronto toma a forma de opção entre elevada automatização com muito investimento, contra equipamentos mais baratos, que exigem mão de obra adicional e mais espaço. Vejamos alguns equipamentos básicos.</p>
@@ -4148,7 +4148,7 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                                 <li class="wow fadeInDown" data-wow-delay="0.9s"><i class="fa fa-arrow-right CorVerdeClaroEstado"></i> Conciliações e ajustes.</li>
                             </ul>
 
-                            <p class="SubSubTitulo"> O que é um inventário e tipos de inventário:</p>
+                            <p class="SubSubTitulo"> O que é um Inventário e Tipos de Inventário:</p>
                             <hr>
 
                             <p>Uma das funções que justificam a importância da gestão da armazenagem é a função de “Controle de Estoque” caracterizada pela precisão nos registros de estoque e controle efetivo das movimentações. Dessa forma, a operação do controle de estoque deve vir ao encontro dos objetivos de custos e de serviços pretendidos pela organização, em função disso deve-se efetuar contagens físicas de seus itens de estoque para verificar:</p>
@@ -4213,7 +4213,7 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                            
 
                             <!-- SubSubTitulo -->
-                            <p class="SubSubTitulo"> Preparação e realização do inventário:</p>
+                            <p class="SubSubTitulo"> Preparação e Realização do Inventário:</p>
                             <hr>
 <!-- alterado -->
                             <p><strong>Um bom planejamento e preparação para inventário é imprescindível para a obtenção de bons resultados. Deverá ser providenciado:</strong></p>

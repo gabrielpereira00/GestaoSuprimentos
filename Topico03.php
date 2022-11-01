@@ -37,7 +37,7 @@ include('layout/header.php');
                             <!-- INICIO CONTEUDO -->
 
                             <!-- Título -->
-                            <h2 class="Titulo">Classificação E Catalogação De Materiais</h2>
+                            <h2 class="Titulo">Classificação e Catalogação de Materiais</h2>
                             <hr>
 
                             <div class="bd-callout bd-callout-primary">
@@ -230,7 +230,7 @@ include('layout/header.php');
                             <!-- Figura 01 - End -->
 
                             <br><br><!-- SubTitulo -->
-                            <p class="SubTitulo" id="top3-two">Formas De Classificação De Materiais</p>
+                            <p class="SubTitulo" id="top3-two">Formas de Classificação de Materiais</p>
                             <hr>
 
                             <p>Algumas formas de classificação são igualmente importantes para a maioria das organizações independente da sua modalidade de operação são estas:</p>
@@ -470,7 +470,7 @@ include('layout/header.php');
                             <!-- Figura 01 - End -->
 
                             <!-- SubTitulo -->
-                            <p class="SubTitulo" id="top3-tree">Estrutura Básica de Um Catálogo de Bens, Materiais e Serviços</p>
+                            <p class="SubTitulo" id="top3-tree">Estrutura Básica de um Catálogo de Bens, Materiais e Serviços</p>
                             <hr>
 
                             <p>A Administração Pública brasileira de uma forma geral, para padronizar seus itens de materiais tomou como modelo o Federal Supply Classification - FSC, esse sistema, criado pelo Departamento de Defesa dos Estados Unidos e estabelecido em 1949, surgiu da grande dificuldade operacional com suprimento de materiais durante a Segunda Guerra Mundial, uma vez que os vários órgãos de defesa utilizavam sistemas de classificação próprios.</p>
