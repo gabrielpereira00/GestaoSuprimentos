@@ -49,10 +49,10 @@
                                 </a>
 
                                 <ul class="sublinks">
-                                 <li><a href="#one">1.1 A Certificação De Fornecedores Como Um Elo Nas Cadeias De Suprimentos</a></li>
+                                 <li><a href="#one">1.1 A Certificação de Fornecedores como um Elo nas Cadeias de Suprimentos</a></li>
                                  
-                                 <li><a href="#two">1.2 A Certificação De Fornecedores Na Administração Pública</a></li>
-                                 <li><a href="#tree">1.3 A Certificação De Fornecedores No Governo Do Estado Do Ceará</a></li>
+                                 <li><a href="#two">1.2 A Certificação de Fornecedores na Administração Pública</a></li>
+                                 <li><a href="#tree">1.3 A Certificação de Fornecedores no Governo do Estado do Ceará</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -79,8 +79,8 @@
                                 <ul class="sublinks">
                                  <li><a href="#top3-one">3.1 Atributos Adicionais a Serem Considerados na Classificação de Materiais</a></li>
                                  
-                                 <li><a href="#top3-two">3.2 Formas De Classificação De Materiais</a></li>
-                                 <li><a href="#top3-tree">3.3 Estrutura Básica de Um Catálogo de Bens, Materiais e Serviços</a></li>
+                                 <li><a href="#top3-two">3.2 Formas de Classificação de Materiais</a></li>
+                                 <li><a href="#top3-tree">3.3 Estrutura Básica de um Catálogo de Bens, Materiais e Serviços</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -91,8 +91,8 @@
                                 </a>
 
                                 <ul class="sublinks">
-                                 <li><a href="#top4-one">4.1 Razões para Manter Estoques e Quais os Tipos de Estoque</a></li>
-                                 <li><a href="#top4-two">4.2 Custos Relacionados Aos Estoques</a></li>
+                                 <li><a href="#top4-one">4.1 Razões para Manter Estoques e quais os Tipos de Estoque</a></li>
+                                 <li><a href="#top4-two">4.2 Custos Relacionados aos Estoques</a></li>
                                  <li><a href="#top4-tree">4.3 Tipos de Demanda de Materiais e sua Relação com os Estoques</a></li>
                                  <li><a href="#top4-four">4.4 Rotatividade dos Estoques</a></li>
                                  <li><a href="#top4-five">4.5 Ressuprimento dos Estoques</a></li>
@@ -103,7 +103,7 @@
                         <li class="sidebar-item sidebar-item5">
                             <div class="bd-callout-menu bd-callout-success-menu">
                                 <a href="Topico05.php" class="MenuTopico sidebar-link <?php if($page=='Topico05'){echo 'ativo';}?>">
-                                    <div id="menuNumero">05 </div>Gestão Da Armazenagem
+                                    <div id="menuNumero">05 </div>Gestão da Armazenagem
                                 </a>
 
                                 <ul class="sublinks">
