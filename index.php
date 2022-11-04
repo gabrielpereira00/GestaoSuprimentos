@@ -54,7 +54,7 @@ include('layout/header.php');
                             </div>
                             <div class="col-md-8" >
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe  class="embed-responsive-item" src="https://drive.google.com/file/d/1ccPIAZ55j8JmHijX7stJMmlyc7t_0S1E/preview" ></iframe>
+                                    <iframe  class="embed-responsive-item" src="https://drive.google.com/file/d/1p4tZzR0HxpDW0Jawua36BmBHjSdQIkJ7/preview" ></iframe>
                                 </div>
                             </div>
                             <div class="col-md-2">

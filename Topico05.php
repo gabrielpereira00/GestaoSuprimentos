@@ -4365,33 +4365,19 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                                         <p>Os estoques devem ser arrumados com antecedência. Nos dias anteriores ao inventário o responsável pelo armazém deve proceder ao empilhamento adequado de caixas e agrupamento de itens que estejam espalhados, de modo a facilitar a sua identificação e contagem.</p>
 
                                         <p>Os materiais em processo de recebimento/devolução deverão estar em área específica e isolados dos materiais a serem inventariados (devidamente identificados).</p>
+                                        <p>As movimentações de materiais serão suspensas no Sistema de Controle de Estoque durante o período do inventário, a fim de não prejudicar as contagens.</p>
 
                                     </div>
                                 </div>
                             </div>
                         
                         <!-- Accordion 06 -->
-                        <!-- Accordion 07 -->
-                        <div class="accordion-item">
-                                <h2 class="accordion-header" id="Item03">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse77" aria-expanded="false" aria-controls="flush-collapse77">
-                                        <strong>f) Preparação dos locais de contagens que devem estar identificados especificando</strong>
-                                    </button>
-                                </h2>
-                                <div id="flush-collapse77" class="accordion-collapse collapse" aria-labelledby="Item03" data-bs-parent="#AccordionFase01">
-                                    <div class="accordion-body">
-                                        <p> serão suspensas durante o período do inventário, afim de não prejudicar as contagens.</p>
-
-                                    </div>
-                                </div>
-                            </div>
                         
-                        <!-- Accordion 07 -->
                         <!-- Accordion 08 -->
                         <div class="accordion-item">
                                 <h2 class="accordion-header" id="Item08">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse88" aria-expanded="false" aria-controls="flush-collapse88">
-                                        <strong>h) Disponibilização do meio de registro das contagens</strong>
+                                        <strong>g) Disponibilização do meio de registro das contagens</strong>
                                     </button>
                                 </h2>
                                 <div id="flush-collapse88" class="accordion-collapse collapse" aria-labelledby="Item08" data-bs-parent="#AccordionFase01">
@@ -4432,7 +4418,7 @@ O sistema de endereçamento variável é mais indicado quando as condições de 
                         <div class="accordion-item">
                                 <h2 class="accordion-header" id="Item09">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse99" aria-expanded="false" aria-controls="flush-collapse99">
-                                        <strong>i) Todo item do estoque sujeito ao inventário</strong>
+                                        <strong>h) Todo item do estoque sujeito ao inventário</strong>
                                     </button>
                                 </h2>
                                 <div id="flush-collapse99" class="accordion-collapse collapse" aria-labelledby="Item09" data-bs-parent="#AccordionFase01">
